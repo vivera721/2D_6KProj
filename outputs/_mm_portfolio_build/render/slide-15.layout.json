@@ -1,0 +1,529 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/u3lpln",
+    "id": "u3lpln",
+    "slide": 15,
+    "layoutId": "a103f14b-d8a8-4137-93b3-36f4b5744a8e",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#111318",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a103f14b-d8a8-4137-93b3-36f4b5744a8e",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4n6d0fqp",
+      "id": "1",
+      "bbox": [
+        64,
+        42,
+        420,
+        28
+      ],
+      "geometry": "rect",
+      "text": "MM_2D_6KProj Portfolio",
+      "textPreview": "MM_2D_6KProj Portfolio",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#F0B94D",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MM_2D_6KProj Portfolio"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MM_2D_6KProj Portfolio",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#F0B94D",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MM_2D_6KProj Portfolio",
+              "fontSize": 15,
+              "color": "#F0B94D",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jmdwra94",
+      "id": "2",
+      "bbox": [
+        64,
+        82,
+        1080,
+        52
+      ],
+      "geometry": "rect",
+      "text": "마지막으로 보여줄 메시지",
+      "textPreview": "마지막으로 보여줄 메시지",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "fontSize": 36,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "마지막으로 보여줄 메시지"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "마지막으로 보여줄 메시지",
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "마지막으로 보여줄 메시지",
+              "fontSize": 36,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/il4vy58z",
+      "id": "3",
+      "bbox": [
+        64,
+        145,
+        1152,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#343946",
+      "lineColor": "#343946",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcfexkrm",
+      "id": "4",
+      "bbox": [
+        110,
+        210,
+        1060,
+        150
+      ],
+      "geometry": "rect",
+      "text": "완성 가능한 범위로 스코프를 줄이고,\n액션 조작-전투 피드백-저장/진행 시스템을 끝까지 연결한 Unity 2D 보스러쉬 프로젝트입니다.",
+      "textPreview": "완성 가능한 범위로 스코프를 줄이고, | 액션 조작-전투 피드백-저장/진행 시스템을 끝까지 연결한 Unity 2D 보스러쉬 프로젝트입니다.",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "fontSize": 34,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "완성 가능한 범위로 스코프를 줄이고,"
+          },
+          {
+            "index": 2,
+            "text": "액션 조작-전투 피드백-저장/진행 시스템을 끝까지 연결한 Unity 2D"
+          },
+          {
+            "index": 3,
+            "text": "보스러쉬 프로젝트입니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "완성 가능한 범위로 스코프를 줄이고,",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "완성 가능한 범위로 스코프를 줄이고,",
+              "fontSize": 34,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "액션 조작-전투 피드백-저장/진행 시스템을 끝까지 연결한 Unity 2D 보스러쉬 프로젝트입니다.",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "액션 조작-전투 피드백-저장/진행 시스템을 끝까지 연결한 Unity 2D 보스러쉬 프로젝트입니다.",
+              "fontSize": 34,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sb6d4zq1",
+      "id": "5",
+      "bbox": [
+        180,
+        430,
+        900,
+        150
+      ],
+      "geometry": "rect",
+      "text": "- 본인이 작성한 핵심 소스코드 포함\n- 개발 철학: 작은 완성, 명확한 책임 분리, 플레이 흐름 우선\n- 코딩 스타일: 방어적 null 처리, 싱글턴 생명주기 관리, 컴포넌트 조합 구조",
+      "textPreview": "- 본인이 작성한 핵심 소스코드 포함 | - 개발 철학: 작은 완성, 명확한 책임 분리, 플레이 흐름 우선 | - 코딩 스타일: 방어적 null 처리, 싱글턴 생명주기 관리, 컴포넌트 조합 구조",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "- 본인이 작성한 핵심 소스코드 포함"
+          },
+          {
+            "index": 2,
+            "text": "- 개발 철학: 작은 완성, 명확한 책임 분리, 플레이 흐름 우선"
+          },
+          {
+            "index": 3,
+            "text": "- 코딩 스타일: 방어적 null 처리, 싱글턴 생명주기 관리, 컴포넌트 조합 구조"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "- 본인이 작성한 핵심 소스코드 포함",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#F4F1E8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- 본인이 작성한 핵심 소스코드 포함",
+              "fontSize": 24,
+              "color": "#F4F1E8",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "- 개발 철학: 작은 완성, 명확한 책임 분리, 플레이 흐름 우선",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#F4F1E8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- 개발 철학: 작은 완성, 명확한 책임 분리, 플레이 흐름 우선",
+              "fontSize": 24,
+              "color": "#F4F1E8",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "- 코딩 스타일: 방어적 null 처리, 싱글턴 생명주기 관리, 컴포넌트 조합 구조",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#F4F1E8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- 코딩 스타일: 방어적 null 처리, 싱글턴 생명주기 관리, 컴포넌트 조합 구조",
+              "fontSize": 24,
+              "color": "#F4F1E8",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqxwvu9g",
+      "id": "6",
+      "bbox": [
+        340,
+        612,
+        600,
+        34
+      ],
+      "geometry": "rect",
+      "text": "조성재 | sjjfire123@naver.com",
+      "textPreview": "조성재 | sjjfire123@naver.com",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "+mn-lt",
+        "color": "#F0B94D",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "조성재 | sjjfire123@naver.com"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "조성재 | sjjfire123@naver.com",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "color": "#F0B94D",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "조성재 | sjjfire123@naver.com",
+              "fontSize": 26,
+              "color": "#F0B94D",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6pov2p8v",
+      "id": "7",
+      "bbox": [
+        64,
+        674,
+        760,
+        24
+      ],
+      "geometry": "rect",
+      "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 15",
+      "textPreview": "조성재 | sjjfire123@naver.com | Unity Version Control | 15",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#7F8792",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 15"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 15",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#7F8792",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 15",
+              "fontSize": 13,
+              "color": "#7F8792",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

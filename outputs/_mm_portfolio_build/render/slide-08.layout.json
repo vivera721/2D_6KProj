@@ -1,0 +1,1113 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/mvsxdo",
+    "id": "mvsxdo",
+    "slide": 8,
+    "layoutId": "a103f14b-d8a8-4137-93b3-36f4b5744a8e",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#111318",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a103f14b-d8a8-4137-93b3-36f4b5744a8e",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1432p4fa",
+      "id": "1",
+      "bbox": [
+        64,
+        42,
+        420,
+        28
+      ],
+      "geometry": "rect",
+      "text": "MM_2D_6KProj Portfolio",
+      "textPreview": "MM_2D_6KProj Portfolio",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#F0B94D",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MM_2D_6KProj Portfolio"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MM_2D_6KProj Portfolio",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#F0B94D",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MM_2D_6KProj Portfolio",
+              "fontSize": 15,
+              "color": "#F0B94D",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ehcjepwj",
+      "id": "2",
+      "bbox": [
+        64,
+        82,
+        1080,
+        52
+      ],
+      "geometry": "rect",
+      "text": "소스코드 1: SaveManager는 저장 시점에 참조를 다시 확인합니다",
+      "textPreview": "소스코드 1: SaveManager는 저장 시점에 참조를 다시 확인합니다",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "fontSize": 36,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "소스코드 1: SaveManager는 저장 시점에 참조를 다시 확인합니다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "소스코드 1: SaveManager는 저장 시점에 참조를 다시 확인합니다",
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "소스코드 1: SaveManager는 저장 시점에 참조를 다시 확인합니다",
+              "fontSize": 36,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zilknux4",
+      "id": "3",
+      "bbox": [
+        64,
+        145,
+        1152,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#343946",
+      "lineColor": "#343946",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cfa1cfyd",
+      "id": "4",
+      "bbox": [
+        72,
+        176,
+        704,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Assets/_Project/01_Scripts/Common/SaveManager.cs",
+      "textPreview": "Assets/_Project/01_Scripts/Common/SaveManager.cs",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "color": "#F0B94D",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Assets/_Project/01_Scripts/Common/SaveManager.cs"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Assets/_Project/01_Scripts/Common/SaveManager.cs",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#F0B94D",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Assets/_Project/01_Scripts/Common/SaveManager.cs",
+              "fontSize": 24,
+              "color": "#F0B94D",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dgj2lkfy",
+      "id": "5",
+      "bbox": [
+        72,
+        218,
+        704,
+        410
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0B0E14",
+      "lineColor": "#343946",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qdsjapgn",
+      "id": "6",
+      "bbox": [
+        96,
+        242,
+        656,
+        360
+      ],
+      "geometry": "rect",
+      "text": "private void RefreshReferences()\n{\n    player = FindAnyObjectByType<Player>();\n    playerHealth = FindAnyObjectByType<PlayerHealth>();\n}\n\npublic void Save(Vector3 playerPosition)\n{\n    RefreshReferences();\n    if (player == null || playerHealth == null)\n    {\n        Debug.LogWarning(\"Save failed: Player or PlayerHealth not found.\");\n        return;\n    }\n\n    PlayerPrefs.SetString(SceneKey, SceneManager.GetActiveScene().name);\n    PlayerPrefs.SetFloat(SaveXKey, playerPosition.x);\n    PlayerPrefs.SetInt(SaveMaxHPKey, playerHealth.maxHP);\n    PlayerPrefs.SetInt(SaveCurrentHPKey, playerHealth.currentHP);\n    PlayerPrefs.SetInt(SaveMaxSTKey, player.maxStamina);\n    PlayerPrefs.SetFloat(SaveDMGKey, player.attackDamage);\n    PlayerPrefs.Save();\n}",
+      "textPreview": "private void RefreshReferences() | { |     player = FindAnyObjectByType<Player>(); |     playerHealth = FindAnyObjectByType<PlayerHealth>...",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#D8E0EA",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 23,
+        "lines": [
+          {
+            "index": 1,
+            "text": "private void RefreshReferences()"
+          },
+          {
+            "index": 2,
+            "text": "{"
+          },
+          {
+            "index": 3,
+            "text": "    player = FindAnyObjectByType<Player>();"
+          },
+          {
+            "index": 4,
+            "text": "    playerHealth = FindAnyObjectByType<PlayerHealth>();"
+          },
+          {
+            "index": 5,
+            "text": "}"
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": "public void Save(Vector3 playerPosition)"
+          },
+          {
+            "index": 8,
+            "text": "{"
+          },
+          {
+            "index": 9,
+            "text": "    RefreshReferences();"
+          },
+          {
+            "index": 10,
+            "text": "    if (player == null || playerHealth == null)"
+          },
+          {
+            "index": 11,
+            "text": "    {"
+          },
+          {
+            "index": 12,
+            "text": "        Debug.LogWarning(\"Save failed: Player or PlayerHealth not found.\");"
+          },
+          {
+            "index": 13,
+            "text": "        return;"
+          },
+          {
+            "index": 14,
+            "text": "    }"
+          },
+          {
+            "index": 15,
+            "text": ""
+          },
+          {
+            "index": 16,
+            "text": "    PlayerPrefs.SetString(SceneKey, SceneManager.GetActiveScene().name);"
+          },
+          {
+            "index": 17,
+            "text": "    PlayerPrefs.SetFloat(SaveXKey, playerPosition.x);"
+          },
+          {
+            "index": 18,
+            "text": "    PlayerPrefs.SetInt(SaveMaxHPKey, playerHealth.maxHP);"
+          },
+          {
+            "index": 19,
+            "text": "    PlayerPrefs.SetInt(SaveCurrentHPKey, playerHealth.currentHP);"
+          },
+          {
+            "index": 20,
+            "text": "    PlayerPrefs.SetInt(SaveMaxSTKey, player.maxStamina);"
+          },
+          {
+            "index": 21,
+            "text": "    PlayerPrefs.SetFloat(SaveDMGKey, player.attackDamage);"
+          },
+          {
+            "index": 22,
+            "text": "    PlayerPrefs.Save();"
+          },
+          {
+            "index": 23,
+            "text": "}"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "private void RefreshReferences()",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "private void RefreshReferences()",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "{",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "{",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "    player = FindAnyObjectByType<Player>();",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    player = FindAnyObjectByType<Player>();",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "    playerHealth = FindAnyObjectByType<PlayerHealth>();",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    playerHealth = FindAnyObjectByType<PlayerHealth>();",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "}",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "}",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "public void Save(Vector3 playerPosition)",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "public void Save(Vector3 playerPosition)",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "{",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "{",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "    RefreshReferences();",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    RefreshReferences();",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 10,
+          "text": "    if (player == null || playerHealth == null)",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    if (player == null || playerHealth == null)",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 11,
+          "text": "    {",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    {",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 12,
+          "text": "        Debug.LogWarning(\"Save failed: Player or PlayerHealth not found.\");",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "        Debug.LogWarning(\"Save failed: Player or PlayerHealth not found.\");",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 13,
+          "text": "        return;",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "        return;",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 14,
+          "text": "    }",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    }",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 16,
+          "text": "    PlayerPrefs.SetString(SceneKey, SceneManager.GetActiveScene().name);",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    PlayerPrefs.SetString(SceneKey, SceneManager.GetActiveScene().name);",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 17,
+          "text": "    PlayerPrefs.SetFloat(SaveXKey, playerPosition.x);",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    PlayerPrefs.SetFloat(SaveXKey, playerPosition.x);",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 18,
+          "text": "    PlayerPrefs.SetInt(SaveMaxHPKey, playerHealth.maxHP);",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    PlayerPrefs.SetInt(SaveMaxHPKey, playerHealth.maxHP);",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 19,
+          "text": "    PlayerPrefs.SetInt(SaveCurrentHPKey, playerHealth.currentHP);",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    PlayerPrefs.SetInt(SaveCurrentHPKey, playerHealth.currentHP);",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 20,
+          "text": "    PlayerPrefs.SetInt(SaveMaxSTKey, player.maxStamina);",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    PlayerPrefs.SetInt(SaveMaxSTKey, player.maxStamina);",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 21,
+          "text": "    PlayerPrefs.SetFloat(SaveDMGKey, player.attackDamage);",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    PlayerPrefs.SetFloat(SaveDMGKey, player.attackDamage);",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 22,
+          "text": "    PlayerPrefs.Save();",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    PlayerPrefs.Save();",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 23,
+          "text": "}",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#D8E0EA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "}",
+              "fontSize": 14,
+              "color": "#D8E0EA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re1kjuxs",
+      "id": "7",
+      "bbox": [
+        820,
+        224,
+        360,
+        260
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#171A21",
+      "lineColor": "#343946",
+      "lineWidth": 1
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wbelojex",
+      "id": "8",
+      "bbox": [
+        820,
+        224,
+        8,
+        260
+      ],
+      "geometry": "rect",
+      "fillColor": "#F0B94D",
+      "lineColor": "#F0B94D",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xcn2xofi",
+      "id": "9",
+      "bbox": [
+        844,
+        246,
+        312,
+        32
+      ],
+      "geometry": "rect",
+      "text": "개발 철학 / 코딩 스타일",
+      "textPreview": "개발 철학 / 코딩 스타일",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "개발 철학 / 코딩 스타일"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "개발 철학 / 코딩 스타일",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "개발 철학 / 코딩 스타일",
+              "fontSize": 23,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gjyponi",
+      "id": "10",
+      "bbox": [
+        844,
+        292,
+        312,
+        172
+      ],
+      "geometry": "rect",
+      "text": "메뉴 씬처럼 Player가 없는 상태에서 Awake 참조를 고정하면 저장이 실패할 수 있었습니다. 그래서 Save 호출 순간에 실제 씬 오브젝트를 다시 찾고, 실패 시 경고 후 return하는 방어적 흐름으로 정리했습니다.",
+      "textPreview": "메뉴 씬처럼 Player가 없는 상태에서 Awake 참조를 고정하면 저장이 실패할 수 있었습니다. 그래서 Save 호출 순간에 실제 씬 오브젝트를 다시 찾고, 실패 시 경고 후 return하는 방어적 흐름으로 정리했습니다.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#B9B3A5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 6,
+        "lines": [
+          {
+            "index": 1,
+            "text": "메뉴 씬처럼 Player가 없는 상태에서"
+          },
+          {
+            "index": 2,
+            "text": "Awake 참조를 고정하면 저장이"
+          },
+          {
+            "index": 3,
+            "text": "실패할 수 있었습니다. 그래서 Save"
+          },
+          {
+            "index": 4,
+            "text": "호출 순간에 실제 씬 오브젝트를 다시"
+          },
+          {
+            "index": 5,
+            "text": "찾고, 실패 시 경고 후 return하는"
+          },
+          {
+            "index": 6,
+            "text": "방어적 흐름으로 정리했습니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "메뉴 씬처럼 Player가 없는 상태에서 Awake 참조를 고정하면 저장이 실패할 수 있었습니다. 그래서 Save 호출 순간에 실제 씬 오브젝트를 다시 찾고, 실패 시 경고 후 return하는 방어적 흐름으로 정리했습니다.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#B9B3A5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "메뉴 씬처럼 Player가 없는 상태에서 Awake 참조를 고정하면 저장이 실패할 수 있었습니다. 그래서 Save 호출 순간에 실제 씬 오브젝트를 다시 찾고, 실패 시 경고 후 return하는 방어적 흐름으로 정리했습니다.",
+              "fontSize": 18,
+              "color": "#B9B3A5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4fahgjmx",
+      "id": "11",
+      "bbox": [
+        820,
+        512,
+        360,
+        72
+      ],
+      "geometry": "rect",
+      "text": "실제 프로젝트 소스 일부를 발췌했습니다.",
+      "textPreview": "실제 프로젝트 소스 일부를 발췌했습니다.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#7F8792",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "실제 프로젝트 소스 일부를 발췌했습니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "실제 프로젝트 소스 일부를 발췌했습니다.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#7F8792",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "실제 프로젝트 소스 일부를 발췌했습니다.",
+              "fontSize": 18,
+              "color": "#7F8792",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/je1gne5s",
+      "id": "12",
+      "bbox": [
+        64,
+        674,
+        760,
+        24
+      ],
+      "geometry": "rect",
+      "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 08",
+      "textPreview": "조성재 | sjjfire123@naver.com | Unity Version Control | 08",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#7F8792",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 08",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#7F8792",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 08",
+              "fontSize": 13,
+              "color": "#7F8792",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,827 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/iazy3c",
+    "id": "iazy3c",
+    "slide": 6,
+    "layoutId": "a103f14b-d8a8-4137-93b3-36f4b5744a8e",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#111318",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a103f14b-d8a8-4137-93b3-36f4b5744a8e",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18rm9w76",
+      "id": "1",
+      "bbox": [
+        64,
+        42,
+        420,
+        28
+      ],
+      "geometry": "rect",
+      "text": "MM_2D_6KProj Portfolio",
+      "textPreview": "MM_2D_6KProj Portfolio",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#F0B94D",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MM_2D_6KProj Portfolio"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MM_2D_6KProj Portfolio",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#F0B94D",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MM_2D_6KProj Portfolio",
+              "fontSize": 15,
+              "color": "#F0B94D",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e5gny18v",
+      "id": "2",
+      "bbox": [
+        64,
+        82,
+        1080,
+        52
+      ],
+      "geometry": "rect",
+      "text": "보스 3종은 공통 구조 위에 다른 전투 리듬을 얹었습니다",
+      "textPreview": "보스 3종은 공통 구조 위에 다른 전투 리듬을 얹었습니다",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "fontSize": 36,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "보스 3종은 공통 구조 위에 다른 전투 리듬을 얹었습니다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "보스 3종은 공통 구조 위에 다른 전투 리듬을 얹었습니다",
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "보스 3종은 공통 구조 위에 다른 전투 리듬을 얹었습니다",
+              "fontSize": 36,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f69476pg",
+      "id": "3",
+      "bbox": [
+        64,
+        145,
+        1152,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#343946",
+      "lineColor": "#343946",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obi54bqx",
+      "id": "4",
+      "bbox": [
+        84,
+        190,
+        330,
+        280
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#171A21",
+      "lineColor": "#343946",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pwr6dg7i",
+      "id": "5",
+      "bbox": [
+        84,
+        190,
+        8,
+        280
+      ],
+      "geometry": "rect",
+      "fillColor": "#F0B94D",
+      "lineColor": "#F0B94D",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/290n218r",
+      "id": "6",
+      "bbox": [
+        108,
+        212,
+        282,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Stage 1: Golem",
+      "textPreview": "Stage 1: Golem",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Stage 1: Golem"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Stage 1: Golem",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Stage 1: Golem",
+              "fontSize": 23,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/na94b6pc",
+      "id": "7",
+      "bbox": [
+        108,
+        258,
+        282,
+        192
+      ],
+      "geometry": "rect",
+      "text": "패턴 인지와 기본 회피를 확인하는 첫 보스. 공격 전조와 거리 감각을 학습시키는 역할입니다.",
+      "textPreview": "패턴 인지와 기본 회피를 확인하는 첫 보스. 공격 전조와 거리 감각을 학습시키는 역할입니다.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#B9B3A5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "패턴 인지와 기본 회피를"
+          },
+          {
+            "index": 2,
+            "text": "확인하는 첫 보스. 공격 전조와"
+          },
+          {
+            "index": 3,
+            "text": "거리 감각을 학습시키는"
+          },
+          {
+            "index": 4,
+            "text": "역할입니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "패턴 인지와 기본 회피를 확인하는 첫 보스. 공격 전조와 거리 감각을 학습시키는 역할입니다.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#B9B3A5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "패턴 인지와 기본 회피를 확인하는 첫 보스. 공격 전조와 거리 감각을 학습시키는 역할입니다.",
+              "fontSize": 18,
+              "color": "#B9B3A5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cz258vqt",
+      "id": "8",
+      "bbox": [
+        474,
+        190,
+        330,
+        280
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#171A21",
+      "lineColor": "#343946",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0b6hg7e",
+      "id": "9",
+      "bbox": [
+        474,
+        190,
+        8,
+        280
+      ],
+      "geometry": "rect",
+      "fillColor": "#E45B4F",
+      "lineColor": "#E45B4F",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t0j6t03e",
+      "id": "10",
+      "bbox": [
+        498,
+        212,
+        282,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Stage 2: Blood King",
+      "textPreview": "Stage 2: Blood King",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Stage 2: Blood King"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Stage 2: Blood King",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Stage 2: Blood King",
+              "fontSize": 23,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8zap0vm9",
+      "id": "11",
+      "bbox": [
+        498,
+        258,
+        282,
+        192
+      ],
+      "geometry": "rect",
+      "text": "압박감과 패턴 변화가 중심인 중반 보스. 피격 리스크와 공격 타이밍 판단을 요구합니다.",
+      "textPreview": "압박감과 패턴 변화가 중심인 중반 보스. 피격 리스크와 공격 타이밍 판단을 요구합니다.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#B9B3A5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "압박감과 패턴 변화가 중심인"
+          },
+          {
+            "index": 2,
+            "text": "중반 보스. 피격 리스크와 공격"
+          },
+          {
+            "index": 3,
+            "text": "타이밍 판단을 요구합니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "압박감과 패턴 변화가 중심인 중반 보스. 피격 리스크와 공격 타이밍 판단을 요구합니다.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#B9B3A5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "압박감과 패턴 변화가 중심인 중반 보스. 피격 리스크와 공격 타이밍 판단을 요구합니다.",
+              "fontSize": 18,
+              "color": "#B9B3A5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7yhorqlo",
+      "id": "12",
+      "bbox": [
+        864,
+        190,
+        330,
+        280
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#171A21",
+      "lineColor": "#343946",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6x87yl43",
+      "id": "13",
+      "bbox": [
+        864,
+        190,
+        8,
+        280
+      ],
+      "geometry": "rect",
+      "fillColor": "#61C47A",
+      "lineColor": "#61C47A",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4jqxk3q",
+      "id": "14",
+      "bbox": [
+        888,
+        212,
+        282,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Stage 3: Heart Hoarder",
+      "textPreview": "Stage 3: Heart Hoarder",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Stage 3: Heart Hoarder"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Stage 3: Heart Hoarder",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Stage 3: Heart Hoarder",
+              "fontSize": 23,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3ap4fm5",
+      "id": "15",
+      "bbox": [
+        888,
+        258,
+        282,
+        192
+      ],
+      "geometry": "rect",
+      "text": "최종 스테이지 보스. 앞선 전투에서 익힌 회피/공격/자원 관리를 종합합니다.",
+      "textPreview": "최종 스테이지 보스. 앞선 전투에서 익힌 회피/공격/자원 관리를 종합합니다.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#B9B3A5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "최종 스테이지 보스. 앞선"
+          },
+          {
+            "index": 2,
+            "text": "전투에서 익힌 회피/공격/자원"
+          },
+          {
+            "index": 3,
+            "text": "관리를 종합합니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "최종 스테이지 보스. 앞선 전투에서 익힌 회피/공격/자원 관리를 종합합니다.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#B9B3A5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "최종 스테이지 보스. 앞선 전투에서 익힌 회피/공격/자원 관리를 종합합니다.",
+              "fontSize": 18,
+              "color": "#B9B3A5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v21ovalk",
+      "id": "16",
+      "bbox": [
+        160,
+        535,
+        960,
+        40
+      ],
+      "geometry": "rect",
+      "text": "공통 요소: BossBattleManager, BossIntroUI, 클리어 후 포탈/씬 전환 흐름",
+      "textPreview": "공통 요소: BossBattleManager, BossIntroUI, 클리어 후 포탈/씬 전환 흐름",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "color": "#B9B3A5",
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "공통 요소: BossBattleManager, BossIntroUI, 클리어 후 포탈/씬 전환 흐름"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "공통 요소: BossBattleManager, BossIntroUI, 클리어 후 포탈/씬 전환 흐름",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#B9B3A5",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "공통 요소: BossBattleManager, BossIntroUI, 클리어 후 포탈/씬 전환 흐름",
+              "fontSize": 24,
+              "color": "#B9B3A5",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u1s7254z",
+      "id": "17",
+      "bbox": [
+        64,
+        674,
+        760,
+        24
+      ],
+      "geometry": "rect",
+      "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 06",
+      "textPreview": "조성재 | sjjfire123@naver.com | Unity Version Control | 06",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#7F8792",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 06",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#7F8792",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 06",
+              "fontSize": 13,
+              "color": "#7F8792",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

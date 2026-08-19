@@ -1,0 +1,3731 @@
+fileFormatVersion: 2
+guid: a74e35ee866425b4a8b85b40aae25a50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7636109298867062415
+    second: Platformer Hero - Sheathed 79x79_0
+  - first:
+      213: 7446202476690436529
+    second: Platformer Hero - Sheathed 79x79_1
+  - first:
+      213: 5421379689906110858
+    second: Platformer Hero - Sheathed 79x79_2
+  - first:
+      213: 693138279543506228
+    second: Platformer Hero - Sheathed 79x79_3
+  - first:
+      213: -1146921331311106009
+    second: Platformer Hero - Sheathed 79x79_4
+  - first:
+      213: -8320585859881840979
+    second: Platformer Hero - Sheathed 79x79_5
+  - first:
+      213: -4045683310883004178
+    second: Platformer Hero - Sheathed 79x79_6
+  - first:
+      213: 435815744908396833
+    second: Platformer Hero - Sheathed 79x79_7
+  - first:
+      213: 4644186517774972696
+    second: Platformer Hero - Sheathed 79x79_8
+  - first:
+      213: -6517189692304947465
+    second: Platformer Hero - Sheathed 79x79_9
+  - first:
+      213: 4514743096758016543
+    second: Platformer Hero - Sheathed 79x79_10
+  - first:
+      213: 5011784095102524454
+    second: Platformer Hero - Sheathed 79x79_11
+  - first:
+      213: -6259503737457300707
+    second: Platformer Hero - Sheathed 79x79_12
+  - first:
+      213: -3010043254347722551
+    second: Platformer Hero - Sheathed 79x79_13
+  - first:
+      213: 1419048603158633647
+    second: Platformer Hero - Sheathed 79x79_14
+  - first:
+      213: -986632019337445620
+    second: Platformer Hero - Sheathed 79x79_15
+  - first:
+      213: -7058994988482355072
+    second: Platformer Hero - Sheathed 79x79_16
+  - first:
+      213: 477062841634036933
+    second: Platformer Hero - Sheathed 79x79_17
+  - first:
+      213: 2883135576909783490
+    second: Platformer Hero - Sheathed 79x79_18
+  - first:
+      213: -5890274357029595473
+    second: Platformer Hero - Sheathed 79x79_19
+  - first:
+      213: 5296793093525708094
+    second: Platformer Hero - Sheathed 79x79_20
+  - first:
+      213: 9022183023453987241
+    second: Platformer Hero - Sheathed 79x79_21
+  - first:
+      213: 5579446971294479131
+    second: Platformer Hero - Sheathed 79x79_22
+  - first:
+      213: 3629868733275348307
+    second: Platformer Hero - Sheathed 79x79_23
+  - first:
+      213: -6776244669558333296
+    second: Platformer Hero - Sheathed 79x79_24
+  - first:
+      213: -6699421018160258659
+    second: Platformer Hero - Sheathed 79x79_25
+  - first:
+      213: 7123827054964449381
+    second: Platformer Hero - Sheathed 79x79_26
+  - first:
+      213: -8499855556941487374
+    second: Platformer Hero - Sheathed 79x79_27
+  - first:
+      213: 6873527827176018473
+    second: Platformer Hero - Sheathed 79x79_28
+  - first:
+      213: -3543482406767297068
+    second: Platformer Hero - Sheathed 79x79_29
+  - first:
+      213: 3981574679813033426
+    second: Platformer Hero - Sheathed 79x79_30
+  - first:
+      213: 8650382484978728452
+    second: Platformer Hero - Sheathed 79x79_31
+  - first:
+      213: -6303367543823652628
+    second: Platformer Hero - Sheathed 79x79_32
+  - first:
+      213: -4233860896552638078
+    second: Platformer Hero - Sheathed 79x79_33
+  - first:
+      213: -6559975993033844116
+    second: Platformer Hero - Sheathed 79x79_34
+  - first:
+      213: -8432803653672337416
+    second: Platformer Hero - Sheathed 79x79_35
+  - first:
+      213: -1128040025550585102
+    second: Platformer Hero - Sheathed 79x79_36
+  - first:
+      213: -5841132117724571263
+    second: Platformer Hero - Sheathed 79x79_37
+  - first:
+      213: -6374124798349928679
+    second: Platformer Hero - Sheathed 79x79_38
+  - first:
+      213: -6255019506712304816
+    second: Platformer Hero - Sheathed 79x79_39
+  - first:
+      213: -8209671006354352057
+    second: Platformer Hero - Sheathed 79x79_40
+  - first:
+      213: 7683636893056991027
+    second: Platformer Hero - Sheathed 79x79_41
+  - first:
+      213: 2499682981395639083
+    second: Platformer Hero - Sheathed 79x79_42
+  - first:
+      213: 4838353417748187051
+    second: Platformer Hero - Sheathed 79x79_43
+  - first:
+      213: 539108401167203404
+    second: Platformer Hero - Sheathed 79x79_44
+  - first:
+      213: -5019611478179874861
+    second: Platformer Hero - Sheathed 79x79_45
+  - first:
+      213: 4535291004200965929
+    second: Platformer Hero - Sheathed 79x79_46
+  - first:
+      213: -6736328692170655447
+    second: Platformer Hero - Sheathed 79x79_47
+  - first:
+      213: -7372474638915939222
+    second: Platformer Hero - Sheathed 79x79_48
+  - first:
+      213: 1657669863940969901
+    second: Platformer Hero - Sheathed 79x79_49
+  - first:
+      213: -5202431109905929395
+    second: Platformer Hero - Sheathed 79x79_50
+  - first:
+      213: -7722243034118273587
+    second: Platformer Hero - Sheathed 79x79_51
+  - first:
+      213: -7283218194593361679
+    second: Platformer Hero - Sheathed 79x79_52
+  - first:
+      213: 7540509408539698787
+    second: Platformer Hero - Sheathed 79x79_53
+  - first:
+      213: 4332604454728652361
+    second: Platformer Hero - Sheathed 79x79_54
+  - first:
+      213: -1429557223167054559
+    second: Platformer Hero - Sheathed 79x79_55
+  - first:
+      213: -3427039831073490225
+    second: Platformer Hero - Sheathed 79x79_56
+  - first:
+      213: -8082156544969800030
+    second: Platformer Hero - Sheathed 79x79_57
+  - first:
+      213: 5753108357870647892
+    second: Platformer Hero - Sheathed 79x79_58
+  - first:
+      213: -5880565515012447789
+    second: Platformer Hero - Sheathed 79x79_59
+  - first:
+      213: -7828961242389595685
+    second: Platformer Hero - Sheathed 79x79_60
+  - first:
+      213: -5550549214436648943
+    second: Platformer Hero - Sheathed 79x79_61
+  - first:
+      213: -8012002695857652796
+    second: Platformer Hero - Sheathed 79x79_62
+  - first:
+      213: -4365326358905211642
+    second: Platformer Hero - Sheathed 79x79_63
+  - first:
+      213: 6759820297082975009
+    second: Platformer Hero - Sheathed 79x79_64
+  - first:
+      213: -5524518384606303480
+    second: Platformer Hero - Sheathed 79x79_65
+  - first:
+      213: -4264800613460597028
+    second: Platformer Hero - Sheathed 79x79_66
+  - first:
+      213: 4015655112406051210
+    second: Platformer Hero - Sheathed 79x79_67
+  - first:
+      213: 8674195275379079776
+    second: Platformer Hero - Sheathed 79x79_68
+  - first:
+      213: 1971655048105729409
+    second: Platformer Hero - Sheathed 79x79_69
+  - first:
+      213: -5739555195017370416
+    second: Platformer Hero - Sheathed 79x79_70
+  - first:
+      213: -498798649500204047
+    second: Platformer Hero - Sheathed 79x79_71
+  - first:
+      213: 7783737698845738861
+    second: Platformer Hero - Sheathed 79x79_72
+  - first:
+      213: 2817079154736513145
+    second: Platformer Hero - Sheathed 79x79_73
+  - first:
+      213: 8747396227284484704
+    second: Platformer Hero - Sheathed 79x79_74
+  - first:
+      213: -7738155989703163861
+    second: Platformer Hero - Sheathed 79x79_75
+  - first:
+      213: -4982879612314488968
+    second: Platformer Hero - Sheathed 79x79_76
+  - first:
+      213: 7730287281511116528
+    second: Platformer Hero - Sheathed 79x79_77
+  - first:
+      213: 9014324527648966607
+    second: Platformer Hero - Sheathed 79x79_78
+  - first:
+      213: -1112558877178175473
+    second: Platformer Hero - Sheathed 79x79_79
+  - first:
+      213: 4250762150932633796
+    second: Platformer Hero - Sheathed 79x79_80
+  - first:
+      213: -288791358908477340
+    second: Platformer Hero - Sheathed 79x79_81
+  - first:
+      213: 4615709933247319378
+    second: Platformer Hero - Sheathed 79x79_82
+  - first:
+      213: -6367334496757898495
+    second: Platformer Hero - Sheathed 79x79_83
+  - first:
+      213: 3854874226440931470
+    second: Platformer Hero - Sheathed 79x79_84
+  - first:
+      213: -7066664961816187870
+    second: Platformer Hero - Sheathed 79x79_85
+  - first:
+      213: 1931833835192996965
+    second: Platformer Hero - Sheathed 79x79_86
+  - first:
+      213: 983485005969979607
+    second: Platformer Hero - Sheathed 79x79_87
+  - first:
+      213: 4028767995627212229
+    second: Platformer Hero - Sheathed 79x79_88
+  - first:
+      213: -9105838495920449232
+    second: Platformer Hero - Sheathed 79x79_89
+  - first:
+      213: 5181427478919022019
+    second: Platformer Hero - Sheathed 79x79_90
+  - first:
+      213: -6400480378032327372
+    second: Platformer Hero - Sheathed 79x79_91
+  - first:
+      213: -7363814030741716459
+    second: Platformer Hero - Sheathed 79x79_92
+  - first:
+      213: -9194623569142245373
+    second: Platformer Hero - Sheathed 79x79_93
+  - first:
+      213: -8757382344892091984
+    second: Platformer Hero - Sheathed 79x79_94
+  - first:
+      213: -6487092499977756376
+    second: Platformer Hero - Sheathed 79x79_95
+  - first:
+      213: -2774689049180582144
+    second: Platformer Hero - Sheathed 79x79_96
+  - first:
+      213: -5262456456971644244
+    second: Platformer Hero - Sheathed 79x79_97
+  - first:
+      213: 4806262057148551431
+    second: Platformer Hero - Sheathed 79x79_98
+  - first:
+      213: -3029050022531155658
+    second: Platformer Hero - Sheathed 79x79_99
+  - first:
+      213: 8512641174572803532
+    second: Platformer Hero - Sheathed 79x79_100
+  - first:
+      213: -978452463080458808
+    second: Platformer Hero - Sheathed 79x79_101
+  - first:
+      213: 2454736620165070783
+    second: Platformer Hero - Sheathed 79x79_102
+  - first:
+      213: -2663257904272621174
+    second: Platformer Hero - Sheathed 79x79_103
+  - first:
+      213: -985765662936093189
+    second: Platformer Hero - Sheathed 79x79_104
+  - first:
+      213: -2665629577790402292
+    second: Platformer Hero - Sheathed 79x79_105
+  - first:
+      213: 716929975146140693
+    second: Platformer Hero - Sheathed 79x79_106
+  - first:
+      213: 4995606303434752612
+    second: Platformer Hero - Sheathed 79x79_107
+  - first:
+      213: -7243262603474356297
+    second: Platformer Hero - Sheathed 79x79_108
+  - first:
+      213: -5378230351829136550
+    second: Platformer Hero - Sheathed 79x79_109
+  - first:
+      213: 5643386430466922061
+    second: Platformer Hero - Sheathed 79x79_110
+  - first:
+      213: 4495847501242328772
+    second: Platformer Hero - Sheathed 79x79_111
+  - first:
+      213: 4393093967181687771
+    second: Platformer Hero - Sheathed 79x79_112
+  - first:
+      213: 3012364835000809621
+    second: Platformer Hero - Sheathed 79x79_113
+  - first:
+      213: -757663831358674252
+    second: Platformer Hero - Sheathed 79x79_114
+  - first:
+      213: 1505972629493134584
+    second: Platformer Hero - Sheathed 79x79_115
+  - first:
+      213: 2961268735604601037
+    second: Platformer Hero - Sheathed 79x79_116
+  - first:
+      213: 5917744990378873931
+    second: Platformer Hero - Sheathed 79x79_117
+  - first:
+      213: -6576734988532753358
+    second: Platformer Hero - Sheathed 79x79_118
+  - first:
+      213: 5990194106285734606
+    second: Platformer Hero - Sheathed 79x79_119
+  - first:
+      213: 2195370359363726384
+    second: Platformer Hero - Sheathed 79x79_120
+  - first:
+      213: -5391494670124750099
+    second: Platformer Hero - Sheathed 79x79_121
+  - first:
+      213: 3629182809948296761
+    second: Platformer Hero - Sheathed 79x79_122
+  - first:
+      213: 5082805087573301198
+    second: Platformer Hero - Sheathed 79x79_123
+  - first:
+      213: -6497529622860432461
+    second: Platformer Hero - Sheathed 79x79_124
+  - first:
+      213: -3322696462794845358
+    second: Platformer Hero - Sheathed 79x79_125
+  - first:
+      213: -4952741760184701216
+    second: Platformer Hero - Sheathed 79x79_126
+  - first:
+      213: 1018888939589993243
+    second: Platformer Hero - Sheathed 79x79_127
+  - first:
+      213: -4956544201786127024
+    second: Platformer Hero - Sheathed 79x79_128
+  - first:
+      213: 4380626782963358341
+    second: Platformer Hero - Sheathed 79x79_129
+  - first:
+      213: -7111455703449568064
+    second: Platformer Hero - Sheathed 79x79_130
+  - first:
+      213: 633962660382877749
+    second: Platformer Hero - Sheathed 79x79_131
+  - first:
+      213: 973127430882936906
+    second: Platformer Hero - Sheathed 79x79_132
+  - first:
+      213: 3699224218665726739
+    second: Platformer Hero - Sheathed 79x79_133
+  - first:
+      213: 6523837665449442689
+    second: Platformer Hero - Sheathed 79x79_134
+  - first:
+      213: 8510855623864927499
+    second: Platformer Hero - Sheathed 79x79_135
+  - first:
+      213: 901294153262818794
+    second: Platformer Hero - Sheathed 79x79_136
+  - first:
+      213: 2185648349490507555
+    second: Platformer Hero - Sheathed 79x79_137
+  - first:
+      213: -2375252392394390299
+    second: Platformer Hero - Sheathed 79x79_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1528
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86470113f8e8f960800000000000000
+      internalID: 7636109298867062415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1528
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b174cc63b9365760800000000000000
+      internalID: 7446202476690436529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1528
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a810f51ba1c9c3b40800000000000000
+      internalID: 5421379689906110858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1528
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4358a64c7958e9900800000000000000
+      internalID: 693138279543506228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1528
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72822e530215510f0800000000000000
+      internalID: -1146921331311106009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1528
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeca9aae37578c80800000000000000
+      internalID: -8320585859881840979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1528
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0a715b678dad7c0800000000000000
+      internalID: -4045683310883004178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_7
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1528
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12989c66c145c0600800000000000000
+      internalID: 435815744908396833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1449
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817b2ae2807737040800000000000000
+      internalID: 4644186517774972696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1370
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f68350218a4e85a0800000000000000
+      internalID: -6517189692304947465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1291
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a98662de697ae30800000000000000
+      internalID: 4514743096758016543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1291
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cd987b41f6d8540800000000000000
+      internalID: 5011784095102524454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1291
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ba0aad386c129a0800000000000000
+      internalID: -6259503737457300707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1291
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c01b0aab9d2a36d0800000000000000
+      internalID: -3010043254347722551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1291
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facd846af2971b310800000000000000
+      internalID: 1419048603158633647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_15
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1291
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f7d53e767ce42f0800000000000000
+      internalID: -986632019337445620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_16
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1291
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0802f384579690e90800000000000000
+      internalID: -7058994988482355072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_17
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1291
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc922b702ede9600800000000000000
+      internalID: 477062841634036933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1affc1884f20820800000000000000
+      internalID: 2883135576909783490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa698a72eaa814ea0800000000000000
+      internalID: -5890274357029595473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d9754414df18940800000000000000
+      internalID: 5296793093525708094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1e88388ab353d70800000000000000
+      internalID: 9022183023453987241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13f22f857d2e6d40800000000000000
+      internalID: 5579446971294479131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_23
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d9c2c8162ef5230800000000000000
+      internalID: 3629868733275348307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_24
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09067d70061f5f1a0800000000000000
+      internalID: -6776244669558333296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_25
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91a5cb3410e603a0800000000000000
+      internalID: -6699421018160258659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1133
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560297c76faecd260800000000000000
+      internalID: 7123827054964449381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1133
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f26f56b7627a0a80800000000000000
+      internalID: -8499855556941487374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1133
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922d69c242da36f50800000000000000
+      internalID: 6873527827176018473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1133
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddf9c4768503dec0800000000000000
+      internalID: -3543482406767297068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1133
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd02f47315614730800000000000000
+      internalID: 3981574679813033426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_31
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1133
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40efa64d9055c0870800000000000000
+      internalID: 8650382484978728452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_32
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1133
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce82aa59d90f588a0800000000000000
+      internalID: -6303367543823652628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_33
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1133
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289209052fd4e35c0800000000000000
+      internalID: -4233860896552638078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1054
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a9020379846f4a0800000000000000
+      internalID: -6559975993033844116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1054
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff7e3281c9a8fa80800000000000000
+      internalID: -8432803653672337416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1054
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f282a8c2956850f0800000000000000
+      internalID: -1128040025550585102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_37
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1054
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189d6ec594120fea0800000000000000
+      internalID: -5841132117724571263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1054
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9171858744f8a87a0800000000000000
+      internalID: -6374124798349928679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_39
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1054
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053264f26e4b139a0800000000000000
+      internalID: -6255019506712304816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_40
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1054
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748dc6767b3611e80800000000000000
+      internalID: -8209671006354352057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1054
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f7fb96b03c1aa60800000000000000
+      internalID: 7683636893056991027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 975
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b2d2d7d68a0b220800000000000000
+      internalID: 2499682981395639083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 975
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba78daa7cc8452340800000000000000
+      internalID: 4838353417748187051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_44
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 975
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cfffa0c3c4b7700800000000000000
+      internalID: 539108401167203404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_45
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 975
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d77d94a4f1c65ab0800000000000000
+      internalID: -5019611478179874861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 975
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9275c6aa32790fe30800000000000000
+      internalID: 4535291004200965929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_47
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 896
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92975ecbeb0c382a0800000000000000
+      internalID: -6736328692170655447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 896
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64d6df7065bfa990800000000000000
+      internalID: -7372474638915939222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_49
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 896
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5521365f9310710800000000000000
+      internalID: 1657669863940969901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_50
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 896
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bad9d18704dc7b0800000000000000
+      internalID: -5202431109905929395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_51
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 896
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5452aefd415d490800000000000000
+      internalID: -7722243034118273587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_52
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 896
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0d991e3afccea90800000000000000
+      internalID: -7283218194593361679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 896
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366ef711b5545a860800000000000000
+      internalID: 7540509408539698787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_54
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 896
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9465064ebc0802c30800000000000000
+      internalID: 4332604454728652361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_55
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 896
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12da8079741392ce0800000000000000
+      internalID: -1429557223167054559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_56
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 896
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaffbd4e65b070d0800000000000000
+      internalID: -3427039831073490225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_57
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 896
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a60af5817966df80800000000000000
+      internalID: -8082156544969800030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_58
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 896
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45af539f19527df40800000000000000
+      internalID: 5753108357870647892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_59
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 896
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1654712d8046ea0800000000000000
+      internalID: -5880565515012447789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 817
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9311bca31f95390800000000000000
+      internalID: -7828961242389595685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_61
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 817
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1181e25c5ec78f2b0800000000000000
+      internalID: -5550549214436648943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_62
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 817
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbbeed5ff5afc090800000000000000
+      internalID: -8012002695857652796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 818
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6053ec81ece3b63c0800000000000000
+      internalID: -4365326358905211642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_64
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 817
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1233b11ceb4bfcd50800000000000000
+      internalID: 6759820297082975009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_65
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 817
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b2d62acc7f453b0800000000000000
+      internalID: -5524518384606303480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_66
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 817
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd620dc107260d4c0800000000000000
+      internalID: -4264800613460597028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_67
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 817
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89a1738c097ab730800000000000000
+      internalID: 4015655112406051210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 738
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a775525aee06870800000000000000
+      internalID: 8674195275379079776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_69
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 738
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d92f9e1d9bc5b10800000000000000
+      internalID: 1971655048105729409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_70
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 738
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4ed38a5f00950b0800000000000000
+      internalID: -5739555195017370416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_71
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 738
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f388126549e319f0800000000000000
+      internalID: -498798649500204047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_72
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 659
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6744847234650c60800000000000000
+      internalID: 7783737698845738861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_73
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 659
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9704a32d096481720800000000000000
+      internalID: 2817079154736513145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_74
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 659
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06242e4e58ef46970800000000000000
+      internalID: 8747396227284484704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_75
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 659
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b208e29302c8c9490800000000000000
+      internalID: -7738155989703163861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_76
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 579
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f657d946149dab0800000000000000
+      internalID: -4982879612314488968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_77
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 579
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fea032635f774b60800000000000000
+      internalID: 7730287281511116528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_78
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 579
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc78b90e560591d70800000000000000
+      internalID: 9014324527648966607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_79
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 579
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00661688956f80f0800000000000000
+      internalID: -1112558877178175473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_80
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 501
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8d30f97adbdfa30800000000000000
+      internalID: 4250762150932633796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_81
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 501
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460de060ac10efbf0800000000000000
+      internalID: -288791358908477340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_82
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 501
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dc27daabb4e0040800000000000000
+      internalID: 4615709933247319378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_83
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 501
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103a7a2c20fa2a7a0800000000000000
+      internalID: -6367334496757898495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_84
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 501
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8802d85fa34f7530800000000000000
+      internalID: 3854874226440931470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_85
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 501
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c2f3478a92eed90800000000000000
+      internalID: -7066664961816187870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_86
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 501
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56452c743a04fca10800000000000000
+      internalID: 1931833835192996965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_87
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 501
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d873c6f66a06ad00800000000000000
+      internalID: 983485005969979607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_88
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 501
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd82dd852f09e730800000000000000
+      internalID: 4028767995627212229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_89
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 501
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039959cf12091a180800000000000000
+      internalID: -9105838495920449232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_90
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 501
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c58a66f6d028e740800000000000000
+      internalID: 5181427478919022019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_91
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 501
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4357683e10dec27a0800000000000000
+      internalID: -6400480378032327372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_92
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 421
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5124a99772a7ec990800000000000000
+      internalID: -7363814030741716459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_93
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 421
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30897dd3492266080800000000000000
+      internalID: -9194623569142245373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_94
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 421
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1fd6ae727877680800000000000000
+      internalID: -8757382344892091984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_95
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 421
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821a9b9cdb739f5a0800000000000000
+      internalID: -6487092499977756376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_96
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 337
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fcc6db2035e79d0800000000000000
+      internalID: -2774689049180582144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_97
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 337
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca29e3cebbff7f6b0800000000000000
+      internalID: -5262456456971644244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_98
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 337
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70117c550e543b240800000000000000
+      internalID: 4806262057148551431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_99
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 337
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63934289d07a6f5d0800000000000000
+      internalID: -3029050022531155658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_100
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 258
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5a6cedb0af22670800000000000000
+      internalID: 8512641174572803532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_101
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 258
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5bb7c3ba6db62f0800000000000000
+      internalID: -978452463080458808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_102
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 258
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbff41643f9f01220800000000000000
+      internalID: 2454736620165070783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_103
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 258
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81449eeb053a0bd0800000000000000
+      internalID: -2663257904272621174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_104
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 258
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdaae43a5bd152f0800000000000000
+      internalID: -985765662936093189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_105
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 258
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c015709a508c10bd0800000000000000
+      internalID: -2665629577790402292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_106
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 258
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5145a61930c03f900800000000000000
+      internalID: 716929975146140693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_107
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 258
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4624ee11775f35540800000000000000
+      internalID: 4995606303434752612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_108
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 258
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b73a01e903ca7b90800000000000000
+      internalID: -7243262603474356297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_109
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 258
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b00077dffac55b0800000000000000
+      internalID: -5378230351829136550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_110
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 258
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d469d3efe06515e40800000000000000
+      internalID: 5643386430466922061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_111
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 258
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c660eb7b75746e30800000000000000
+      internalID: 4495847501242328772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_112
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 258
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdba6c200b767fc30800000000000000
+      internalID: 4393093967181687771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_113
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 258
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598f9147bd11ec920800000000000000
+      internalID: 3012364835000809621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_114
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 179
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba64b872cc3c75f0800000000000000
+      internalID: -757663831358674252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_115
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 180
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f43666a02a46e410800000000000000
+      internalID: 1505972629493134584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_116
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 187
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0be2eb93a881920800000000000000
+      internalID: 2961268735604601037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_117
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 196
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4451e617bd002250800000000000000
+      internalID: 5917744990378873931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_118
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 201
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c5f9a7f5ebab4a0800000000000000
+      internalID: -6576734988532753358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_119
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 205
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecabcc06dc1712350800000000000000
+      internalID: 5990194106285734606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_120
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 208
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ceb44d5b5877e10800000000000000
+      internalID: 2195370359363726384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_121
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 209
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea6dc2b9209d25b0800000000000000
+      internalID: -5391494670124750099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_122
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 209
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9361ce399827d5230800000000000000
+      internalID: 3629182809948296761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_123
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 209
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7da5b1c40c98640800000000000000
+      internalID: 5082805087573301198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_124
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 209
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb73dfbb3324d5a0800000000000000
+      internalID: -6497529622860432461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_125
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 209
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2539aa6eb2963e1d0800000000000000
+      internalID: -3322696462794845358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_126
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 209
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eea2ff1c93544bb0800000000000000
+      internalID: -4952741760184701216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_127
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 105
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1306dd9712d32e00800000000000000
+      internalID: 1018888939589993243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_128
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 105
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d04033f41d63bb0800000000000000
+      internalID: -4956544201786127024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_129
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 27
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ad71c79dc1bcc30800000000000000
+      internalID: 4380626782963358341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_130
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 27
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc76ff37b80f4d90800000000000000
+      internalID: -7111455703449568064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_131
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 27
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538abf44ea94cc800800000000000000
+      internalID: 633962660382877749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_132
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 27
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4847f61e3e318d00800000000000000
+      internalID: 973127430882936906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_133
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 27
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313b71ad3d8465330800000000000000
+      internalID: 3699224218665726739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_134
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 27
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d7d6dbac3598a50800000000000000
+      internalID: 6523837665449442689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_135
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 27
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05ca13f812ac1670800000000000000
+      internalID: 8510855623864927499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_136
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 27
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5ed53d14a028c00800000000000000
+      internalID: 901294153262818794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_137
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 27
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fec43089bf45e10800000000000000
+      internalID: 2185648349490507555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero - Sheathed 79x79_138
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 27
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e48f63a888690fd0800000000000000
+      internalID: -2375252392394390299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Platformer Hero - Sheathed 79x79_0: 7636109298867062415
+      Platformer Hero - Sheathed 79x79_1: 7446202476690436529
+      Platformer Hero - Sheathed 79x79_10: 4514743096758016543
+      Platformer Hero - Sheathed 79x79_100: 8512641174572803532
+      Platformer Hero - Sheathed 79x79_101: -978452463080458808
+      Platformer Hero - Sheathed 79x79_102: 2454736620165070783
+      Platformer Hero - Sheathed 79x79_103: -2663257904272621174
+      Platformer Hero - Sheathed 79x79_104: -985765662936093189
+      Platformer Hero - Sheathed 79x79_105: -2665629577790402292
+      Platformer Hero - Sheathed 79x79_106: 716929975146140693
+      Platformer Hero - Sheathed 79x79_107: 4995606303434752612
+      Platformer Hero - Sheathed 79x79_108: -7243262603474356297
+      Platformer Hero - Sheathed 79x79_109: -5378230351829136550
+      Platformer Hero - Sheathed 79x79_11: 5011784095102524454
+      Platformer Hero - Sheathed 79x79_110: 5643386430466922061
+      Platformer Hero - Sheathed 79x79_111: 4495847501242328772
+      Platformer Hero - Sheathed 79x79_112: 4393093967181687771
+      Platformer Hero - Sheathed 79x79_113: 3012364835000809621
+      Platformer Hero - Sheathed 79x79_114: -757663831358674252
+      Platformer Hero - Sheathed 79x79_115: 1505972629493134584
+      Platformer Hero - Sheathed 79x79_116: 2961268735604601037
+      Platformer Hero - Sheathed 79x79_117: 5917744990378873931
+      Platformer Hero - Sheathed 79x79_118: -6576734988532753358
+      Platformer Hero - Sheathed 79x79_119: 5990194106285734606
+      Platformer Hero - Sheathed 79x79_12: -6259503737457300707
+      Platformer Hero - Sheathed 79x79_120: 2195370359363726384
+      Platformer Hero - Sheathed 79x79_121: -5391494670124750099
+      Platformer Hero - Sheathed 79x79_122: 3629182809948296761
+      Platformer Hero - Sheathed 79x79_123: 5082805087573301198
+      Platformer Hero - Sheathed 79x79_124: -6497529622860432461
+      Platformer Hero - Sheathed 79x79_125: -3322696462794845358
+      Platformer Hero - Sheathed 79x79_126: -4952741760184701216
+      Platformer Hero - Sheathed 79x79_127: 1018888939589993243
+      Platformer Hero - Sheathed 79x79_128: -4956544201786127024
+      Platformer Hero - Sheathed 79x79_129: 4380626782963358341
+      Platformer Hero - Sheathed 79x79_13: -3010043254347722551
+      Platformer Hero - Sheathed 79x79_130: -7111455703449568064
+      Platformer Hero - Sheathed 79x79_131: 633962660382877749
+      Platformer Hero - Sheathed 79x79_132: 973127430882936906
+      Platformer Hero - Sheathed 79x79_133: 3699224218665726739
+      Platformer Hero - Sheathed 79x79_134: 6523837665449442689
+      Platformer Hero - Sheathed 79x79_135: 8510855623864927499
+      Platformer Hero - Sheathed 79x79_136: 901294153262818794
+      Platformer Hero - Sheathed 79x79_137: 2185648349490507555
+      Platformer Hero - Sheathed 79x79_138: -2375252392394390299
+      Platformer Hero - Sheathed 79x79_14: 1419048603158633647
+      Platformer Hero - Sheathed 79x79_15: -986632019337445620
+      Platformer Hero - Sheathed 79x79_16: -7058994988482355072
+      Platformer Hero - Sheathed 79x79_17: 477062841634036933
+      Platformer Hero - Sheathed 79x79_18: 2883135576909783490
+      Platformer Hero - Sheathed 79x79_19: -5890274357029595473
+      Platformer Hero - Sheathed 79x79_2: 5421379689906110858
+      Platformer Hero - Sheathed 79x79_20: 5296793093525708094
+      Platformer Hero - Sheathed 79x79_21: 9022183023453987241
+      Platformer Hero - Sheathed 79x79_22: 5579446971294479131
+      Platformer Hero - Sheathed 79x79_23: 3629868733275348307
+      Platformer Hero - Sheathed 79x79_24: -6776244669558333296
+      Platformer Hero - Sheathed 79x79_25: -6699421018160258659
+      Platformer Hero - Sheathed 79x79_26: 7123827054964449381
+      Platformer Hero - Sheathed 79x79_27: -8499855556941487374
+      Platformer Hero - Sheathed 79x79_28: 6873527827176018473
+      Platformer Hero - Sheathed 79x79_29: -3543482406767297068
+      Platformer Hero - Sheathed 79x79_3: 693138279543506228
+      Platformer Hero - Sheathed 79x79_30: 3981574679813033426
+      Platformer Hero - Sheathed 79x79_31: 8650382484978728452
+      Platformer Hero - Sheathed 79x79_32: -6303367543823652628
+      Platformer Hero - Sheathed 79x79_33: -4233860896552638078
+      Platformer Hero - Sheathed 79x79_34: -6559975993033844116
+      Platformer Hero - Sheathed 79x79_35: -8432803653672337416
+      Platformer Hero - Sheathed 79x79_36: -1128040025550585102
+      Platformer Hero - Sheathed 79x79_37: -5841132117724571263
+      Platformer Hero - Sheathed 79x79_38: -6374124798349928679
+      Platformer Hero - Sheathed 79x79_39: -6255019506712304816
+      Platformer Hero - Sheathed 79x79_4: -1146921331311106009
+      Platformer Hero - Sheathed 79x79_40: -8209671006354352057
+      Platformer Hero - Sheathed 79x79_41: 7683636893056991027
+      Platformer Hero - Sheathed 79x79_42: 2499682981395639083
+      Platformer Hero - Sheathed 79x79_43: 4838353417748187051
+      Platformer Hero - Sheathed 79x79_44: 539108401167203404
+      Platformer Hero - Sheathed 79x79_45: -5019611478179874861
+      Platformer Hero - Sheathed 79x79_46: 4535291004200965929
+      Platformer Hero - Sheathed 79x79_47: -6736328692170655447
+      Platformer Hero - Sheathed 79x79_48: -7372474638915939222
+      Platformer Hero - Sheathed 79x79_49: 1657669863940969901
+      Platformer Hero - Sheathed 79x79_5: -8320585859881840979
+      Platformer Hero - Sheathed 79x79_50: -5202431109905929395
+      Platformer Hero - Sheathed 79x79_51: -7722243034118273587
+      Platformer Hero - Sheathed 79x79_52: -7283218194593361679
+      Platformer Hero - Sheathed 79x79_53: 7540509408539698787
+      Platformer Hero - Sheathed 79x79_54: 4332604454728652361
+      Platformer Hero - Sheathed 79x79_55: -1429557223167054559
+      Platformer Hero - Sheathed 79x79_56: -3427039831073490225
+      Platformer Hero - Sheathed 79x79_57: -8082156544969800030
+      Platformer Hero - Sheathed 79x79_58: 5753108357870647892
+      Platformer Hero - Sheathed 79x79_59: -5880565515012447789
+      Platformer Hero - Sheathed 79x79_6: -4045683310883004178
+      Platformer Hero - Sheathed 79x79_60: -7828961242389595685
+      Platformer Hero - Sheathed 79x79_61: -5550549214436648943
+      Platformer Hero - Sheathed 79x79_62: -8012002695857652796
+      Platformer Hero - Sheathed 79x79_63: -4365326358905211642
+      Platformer Hero - Sheathed 79x79_64: 6759820297082975009
+      Platformer Hero - Sheathed 79x79_65: -5524518384606303480
+      Platformer Hero - Sheathed 79x79_66: -4264800613460597028
+      Platformer Hero - Sheathed 79x79_67: 4015655112406051210
+      Platformer Hero - Sheathed 79x79_68: 8674195275379079776
+      Platformer Hero - Sheathed 79x79_69: 1971655048105729409
+      Platformer Hero - Sheathed 79x79_7: 435815744908396833
+      Platformer Hero - Sheathed 79x79_70: -5739555195017370416
+      Platformer Hero - Sheathed 79x79_71: -498798649500204047
+      Platformer Hero - Sheathed 79x79_72: 7783737698845738861
+      Platformer Hero - Sheathed 79x79_73: 2817079154736513145
+      Platformer Hero - Sheathed 79x79_74: 8747396227284484704
+      Platformer Hero - Sheathed 79x79_75: -7738155989703163861
+      Platformer Hero - Sheathed 79x79_76: -4982879612314488968
+      Platformer Hero - Sheathed 79x79_77: 7730287281511116528
+      Platformer Hero - Sheathed 79x79_78: 9014324527648966607
+      Platformer Hero - Sheathed 79x79_79: -1112558877178175473
+      Platformer Hero - Sheathed 79x79_8: 4644186517774972696
+      Platformer Hero - Sheathed 79x79_80: 4250762150932633796
+      Platformer Hero - Sheathed 79x79_81: -288791358908477340
+      Platformer Hero - Sheathed 79x79_82: 4615709933247319378
+      Platformer Hero - Sheathed 79x79_83: -6367334496757898495
+      Platformer Hero - Sheathed 79x79_84: 3854874226440931470
+      Platformer Hero - Sheathed 79x79_85: -7066664961816187870
+      Platformer Hero - Sheathed 79x79_86: 1931833835192996965
+      Platformer Hero - Sheathed 79x79_87: 983485005969979607
+      Platformer Hero - Sheathed 79x79_88: 4028767995627212229
+      Platformer Hero - Sheathed 79x79_89: -9105838495920449232
+      Platformer Hero - Sheathed 79x79_9: -6517189692304947465
+      Platformer Hero - Sheathed 79x79_90: 5181427478919022019
+      Platformer Hero - Sheathed 79x79_91: -6400480378032327372
+      Platformer Hero - Sheathed 79x79_92: -7363814030741716459
+      Platformer Hero - Sheathed 79x79_93: -9194623569142245373
+      Platformer Hero - Sheathed 79x79_94: -8757382344892091984
+      Platformer Hero - Sheathed 79x79_95: -6487092499977756376
+      Platformer Hero - Sheathed 79x79_96: -2774689049180582144
+      Platformer Hero - Sheathed 79x79_97: -5262456456971644244
+      Platformer Hero - Sheathed 79x79_98: 4806262057148551431
+      Platformer Hero - Sheathed 79x79_99: -3029050022531155658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

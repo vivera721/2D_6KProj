@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: f9d6c48dadd7eec4e866c11a9f482a3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6570109953709706219
+    second: ideas-Sheet-Sheet_0
+  - first:
+      213: -7255047686323900211
+    second: ideas-Sheet-Sheet_1
+  - first:
+      213: 5839449561374568916
+    second: ideas-Sheet-Sheet_2
+  - first:
+      213: 8194714488222311162
+    second: ideas-Sheet-Sheet_3
+  - first:
+      213: -4873614304103302712
+    second: ideas-Sheet-Sheet_4
+  - first:
+      213: -4623475856155227910
+    second: ideas-Sheet-Sheet_5
+  - first:
+      213: 5387051238556956141
+    second: ideas-Sheet-Sheet_6
+  - first:
+      213: 6689904393369053254
+    second: ideas-Sheet-Sheet_7
+  - first:
+      213: -1620410439811133381
+    second: ideas-Sheet-Sheet_8
+  - first:
+      213: -1786367867232433683
+    second: ideas-Sheet-Sheet_9
+  - first:
+      213: -3713045603762255986
+    second: ideas-Sheet-Sheet_10
+  - first:
+      213: -1372506390812479029
+    second: ideas-Sheet-Sheet_11
+  - first:
+      213: 7429027796626271599
+    second: ideas-Sheet-Sheet_12
+  - first:
+      213: 2163904107428594159
+    second: ideas-Sheet-Sheet_13
+  - first:
+      213: 5142947461962417583
+    second: ideas-Sheet-Sheet_14
+  - first:
+      213: -3223398611083100774
+    second: ideas-Sheet-Sheet_15
+  - first:
+      213: -5289489400075243469
+    second: ideas-Sheet-Sheet_16
+  - first:
+      213: 2391227871591066082
+    second: ideas-Sheet-Sheet_17
+  - first:
+      213: -3298536618821268781
+    second: ideas-Sheet-Sheet_18
+  - first:
+      213: 262765976111734020
+    second: ideas-Sheet-Sheet_19
+  - first:
+      213: -7015706593271576407
+    second: ideas-Sheet-Sheet_20
+  - first:
+      213: -9052051488693982963
+    second: ideas-Sheet-Sheet_21
+  - first:
+      213: 2302091956300632519
+    second: ideas-Sheet-Sheet_22
+  - first:
+      213: 8557074309127961306
+    second: ideas-Sheet-Sheet_23
+  - first:
+      213: -453603932540163062
+    second: ideas-Sheet-Sheet_24
+  - first:
+      213: 5047433779360910042
+    second: ideas-Sheet-Sheet_25
+  - first:
+      213: -1214686101834820795
+    second: ideas-Sheet-Sheet_26
+  - first:
+      213: -7586590685948266129
+    second: ideas-Sheet-Sheet_27
+  - first:
+      213: 2872248056151820771
+    second: ideas-Sheet-Sheet_28
+  - first:
+      213: -5532735810707362512
+    second: ideas-Sheet-Sheet_29
+  - first:
+      213: -7817510162180830441
+    second: ideas-Sheet-Sheet_30
+  - first:
+      213: 6343839436982478592
+    second: ideas-Sheet-Sheet_31
+  - first:
+      213: -1960162683145081621
+    second: ideas-Sheet-Sheet_32
+  - first:
+      213: -4025059455523895543
+    second: ideas-Sheet-Sheet_33
+  - first:
+      213: -7387172489686574402
+    second: ideas-Sheet-Sheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ideas-Sheet-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514ffd99ec742d4a0800000000000000
+      internalID: -6570109953709706219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ideas-Sheet-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 112
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0f4247194e05b90800000000000000
+      internalID: -7255047686323900211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ideas-Sheet-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 112
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1ba85ff64e90150800000000000000
+      internalID: 5839449561374568916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ideas-Sheet-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 112
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2ec3ad86979b170800000000000000
+      internalID: 8194714488222311162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ideas-Sheet-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 112
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9f8a7ac917d5cb0800000000000000
+      internalID: -4873614304103302712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ideas-Sheet-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 112
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8c54e743d16dfb0800000000000000
+      internalID: -4623475856155227910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ideas-Sheet-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 112
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5f3054f86a2ca40800000000000000
+      internalID: 5387051238556956141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ideas-Sheet-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 112
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6486614e99057dc50800000000000000
+      internalID: 6689904393369053254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a1027dfd1c071324cae8f54081827521
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":112.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ideas-Sheet-Sheet_0: -6570109953709706219
+      ideas-Sheet-Sheet_1: -7255047686323900211
+      ideas-Sheet-Sheet_2: 5839449561374568916
+      ideas-Sheet-Sheet_3: 8194714488222311162
+      ideas-Sheet-Sheet_4: -4873614304103302712
+      ideas-Sheet-Sheet_5: -4623475856155227910
+      ideas-Sheet-Sheet_6: 5387051238556956141
+      ideas-Sheet-Sheet_7: 6689904393369053254
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

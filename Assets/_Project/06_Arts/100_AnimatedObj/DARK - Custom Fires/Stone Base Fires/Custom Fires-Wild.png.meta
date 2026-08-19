@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: ea75d2fe4f11c9a4ebf6d5ff50dc8161
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6887294013847509293
+    second: Custom Fires-Wild_0
+  - first:
+      213: -3090960344477915864
+    second: Custom Fires-Wild_1
+  - first:
+      213: -6508020905840243164
+    second: Custom Fires-Wild_2
+  - first:
+      213: -3120068126896558678
+    second: Custom Fires-Wild_3
+  - first:
+      213: -5563451426646388831
+    second: Custom Fires-Wild_4
+  - first:
+      213: -2541167413474516223
+    second: Custom Fires-Wild_5
+  - first:
+      213: -6709656724936224186
+    second: Custom Fires-Wild_6
+  - first:
+      213: -8581624010212211593
+    second: Custom Fires-Wild_7
+  - first:
+      213: 7580953046234606660
+    second: Custom Fires-Wild_8
+  - first:
+      213: -5489937685950994430
+    second: Custom Fires-Wild_9
+  - first:
+      213: 3478809712797763255
+    second: Custom Fires-Wild_10
+  - first:
+      213: 6519270055595538456
+    second: Custom Fires-Wild_11
+  - first:
+      213: 3406442485953488326
+    second: Custom Fires-Wild_12
+  - first:
+      213: 829824118985585639
+    second: Custom Fires-Wild_13
+  - first:
+      213: 8154749641693689183
+    second: Custom Fires-Wild_14
+  - first:
+      213: 2341567888851711549
+    second: Custom Fires-Wild_15
+  - first:
+      213: -5622793414923093318
+    second: Custom Fires-Wild_16
+  - first:
+      213: 9007453544270911663
+    second: Custom Fires-Wild_17
+  - first:
+      213: -3745412803648590638
+    second: Custom Fires-Wild_18
+  - first:
+      213: -1850899175328627840
+    second: Custom Fires-Wild_19
+  - first:
+      213: -7172553287537839710
+    second: Custom Fires-Wild_20
+  - first:
+      213: -1802236245797616125
+    second: Custom Fires-Wild_21
+  - first:
+      213: 6860009011761348536
+    second: Custom Fires-Wild_22
+  - first:
+      213: 5659641520626363170
+    second: Custom Fires-Wild_23
+  - first:
+      213: -8984193027330208111
+    second: Custom Fires-Wild_24
+  - first:
+      213: -5339970633798999613
+    second: Custom Fires-Wild_25
+  - first:
+      213: -2573002123937039599
+    second: Custom Fires-Wild_26
+  - first:
+      213: -6856835502030215873
+    second: Custom Fires-Wild_27
+  - first:
+      213: -23601448152523594
+    second: Custom Fires-Wild_28
+  - first:
+      213: -3731941314875600583
+    second: Custom Fires-Wild_29
+  - first:
+      213: -3490259524131295169
+    second: Custom Fires-Wild_30
+  - first:
+      213: 7007306724202826709
+    second: Custom Fires-Wild_31
+  - first:
+      213: -4032564196595497257
+    second: Custom Fires-Wild_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Fires-Wild_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d291e074a65949f50800000000000000
+      internalID: 6887294013847509293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Fires-Wild_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825239c71f3ba15d0800000000000000
+      internalID: -3090960344477915864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Fires-Wild_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e8394977ddea5a0800000000000000
+      internalID: -6508020905840243164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Fires-Wild_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadef45c19a43b4d0800000000000000
+      internalID: -3120068126896558678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Fires-Wild_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af0a956766aac2b0800000000000000
+      internalID: -5563451426646388831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Fires-Wild_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103ad0d73b5fbbcd0800000000000000
+      internalID: -2541167413474516223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Fires-Wild_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6429d5902c282e2a0800000000000000
+      internalID: -6709656724936224186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Fires-Wild_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774865b1e62f7e880800000000000000
+      internalID: -8581624010212211593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Fires-Wild_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44caab341a4f43960800000000000000
+      internalID: 7580953046234606660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Fires-Wild_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2086cd5f2c2dfc3b0800000000000000
+      internalID: -5489937685950994430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Fires-Wild_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b64d749007374030800000000000000
+      internalID: 3478809712797763255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Fires-Wild_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818fc923399197a50800000000000000
+      internalID: 6519270055595538456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 778a0ba5cecef8f45a5e44360eb66199
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Custom Fires-Wild_0: 6887294013847509293
+      Custom Fires-Wild_1: -3090960344477915864
+      Custom Fires-Wild_10: 3478809712797763255
+      Custom Fires-Wild_11: 6519270055595538456
+      Custom Fires-Wild_2: -6508020905840243164
+      Custom Fires-Wild_3: -3120068126896558678
+      Custom Fires-Wild_4: -5563451426646388831
+      Custom Fires-Wild_5: -2541167413474516223
+      Custom Fires-Wild_6: -6709656724936224186
+      Custom Fires-Wild_7: -8581624010212211593
+      Custom Fires-Wild_8: 7580953046234606660
+      Custom Fires-Wild_9: -5489937685950994430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

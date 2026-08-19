@@ -1,0 +1,228 @@
+{"kind":"deck","id":"pr/gv4ltu","name":"Deck"}
+{"kind":"layout","layoutId":"ee7c73ba-fea4-42b2-b293-66b3dffbd0be","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"a103f14b-d8a8-4137-93b3-36f4b5744a8e","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/4gbexj","slide":1,"title":"MM_2D_6KProj","textShapes":8}
+{"kind":"shape","id":"sh/fitov6lg","slide":1,"bbox":[540,0,230,720]}
+{"kind":"textbox","id":"sh/uhkn21kv","slide":1,"text":"MM_2D_6KProj","textPreview":"MM_2D_6KProj","textChars":12,"textLines":1,"bbox":[72,92,520,70]}
+{"kind":"textbox","id":"sh/tgb6tw3a","slide":1,"text":"2D Action Boss Rush Portfolio","textPreview":"2D Action Boss Rush Portfolio","textChars":29,"textLines":1,"bbox":[72,170,560,42]}
+{"kind":"textbox","id":"sh/sf250r2p","slide":1,"text":"킹덤 뉴 랜즈형 아이디어에서 메트로베니아를 거쳐,\n취업 포트폴리오 완성을 목표로 3 Stage Boss Rush로 재설계한 Unity 2D 액션 프로젝트입니다.","textPreview":"킹덤 뉴 랜즈형 아이디어에서 메트로베니아를 거쳐, | 취업 포트폴리오 완성을 목표로 3 Stage Boss Rush로 재설계한 Unity 2D 액션 프로젝트입니다.","textChars":89,"textLines":2,"bbox":[72,266,560,130]}
+{"kind":"shape","id":"sh/7e9orml4","slide":1,"bbox":[72,438,178,34]}
+{"kind":"textbox","id":"sh/6d0nyhkj","slide":1,"text":"Unity 6000.3.8f1","textPreview":"Unity 6000.3.8f1","textChars":16,"textLines":1,"bbox":[86,445,150,22]}
+{"kind":"shape","id":"sh/lcr6pc3y","slide":1,"bbox":[270,438,178,34]}
+{"kind":"textbox","id":"sh/kbi5w72d","slide":1,"text":"Pixel Perfect","textPreview":"Pixel Perfect","textChars":13,"textLines":1,"bbox":[284,445,150,22]}
+{"kind":"shape","id":"sh/y5w3adwv","slide":1,"bbox":[468,438,178,34]}
+{"kind":"textbox","id":"sh/z654jixg","slide":1,"text":"Unity VCS","textPreview":"Unity VCS","textChars":9,"textLines":1,"bbox":[482,445,150,22]}
+{"kind":"textbox","id":"sh/k7elcne1","slide":1,"text":"조성재\nsjjfire123@naver.com","textPreview":"조성재 | sjjfire123@naver.com","textChars":24,"textLines":2,"bbox":[72,570,480,62]}
+{"kind":"textbox","id":"sh/lsnmlsfm","slide":1,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 01","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 01","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"image","id":"im/5or6psfu","slide":1,"name":"","alt":"2D_6KProj gameplay screenshot","bbox":[610,0,670,720]}
+{"kind":"notes","id":"nt/4gbexj","slide":1,"text":""}
+{"kind":"slide","id":"sl/eo88mm","slide":2,"title":"MM_2D_6KProj Portfolio","textShapes":10}
+{"kind":"textbox","id":"sh/0vixonq5","slide":2,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/fu9wvipk","slide":2,"text":"이 프로젝트의 핵심은 스코프를 줄여 완성도를 올린 것입니다","textPreview":"이 프로젝트의 핵심은 스코프를 줄여 완성도를 올린 것입니다","textChars":32,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/et0fmd8z","slide":2,"bbox":[64,145,1152,2]}
+{"kind":"shape","id":"sh/p0by1c7m","slide":2,"bbox":[72,190,330,250]}
+{"kind":"shape","id":"sh/oz2xs7qh","slide":2,"bbox":[72,190,8,250]}
+{"kind":"textbox","id":"sh/nytgz2pw","slide":2,"text":"초기 구상","textPreview":"초기 구상","textChars":5,"textLines":1,"bbox":[96,212,282,32]}
+{"kind":"textbox","id":"sh/2xkfqx8b","slide":2,"text":"킹덤 뉴 랜즈처럼 탐험과 거점 운영이 섞인 횡스크롤 게임을 목표로 시작했습니다.","textPreview":"킹덤 뉴 랜즈처럼 탐험과 거점 운영이 섞인 횡스크롤 게임을 목표로 시작했습니다.","textChars":44,"textLines":1,"bbox":[96,258,282,162]}
+{"kind":"shape","id":"sh/xoby5c7y","slide":2,"bbox":[474,190,330,250]}
+{"kind":"shape","id":"sh/cn2xw7qd","slide":2,"bbox":[474,190,8,250]}
+{"kind":"textbox","id":"sh/qlw7a543","slide":2,"text":"중간 전환","textPreview":"중간 전환","textChars":5,"textLines":1,"bbox":[498,212,282,32]}
+{"kind":"textbox","id":"sh/rm5o3alo","slide":2,"text":"메트로베니아 액션 플랫포머로 방향을 바꿨지만, 스토리와 레벨 디자인 범위가 커졌습니다.","textPreview":"메트로베니아 액션 플랫포머로 방향을 바꿨지만, 스토리와 레벨 디자인 범위가 커졌습니다.","textChars":48,"textLines":1,"bbox":[498,258,282,162]}
+{"kind":"shape","id":"sh/snepcvm9","slide":2,"bbox":[876,190,330,250]}
+{"kind":"shape","id":"sh/d8nq503u","slide":2,"bbox":[876,190,8,250]}
+{"kind":"textbox","id":"sh/e9w7e54f","slide":2,"text":"최종 결정","textPreview":"최종 결정","textChars":5,"textLines":1,"bbox":[900,212,282,32]}
+{"kind":"textbox","id":"sh/fa587alk","slide":2,"text":"취업 포트폴리오 제출을 위해 3개 스테이지와 보스 전투 중심 구조로 압축했습니다.","textPreview":"취업 포트폴리오 제출을 위해 3개 스테이지와 보스 전투 중심 구조로 압축했습니다.","textChars":45,"textLines":1,"bbox":[900,258,282,162]}
+{"kind":"textbox","id":"sh/0bepgfm5","slide":2,"text":"배운 점: 하고 싶은 게임을 전부 담기보다, 지금의 실력과 일정 안에서 끝까지 완성할 수 있는 구조를 선택했습니다.","textPreview":"배운 점: 하고 싶은 게임을 전부 담기보다, 지금의 실력과 일정 안에서 끝까지 완성할 수 있는 구조를 선택했습니다.","textChars":64,"textLines":1,"bbox":[120,510,1040,58]}
+{"kind":"textbox","id":"sh/1cnq9k3q","slide":2,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 02","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 02","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/eo88mm","slide":2,"text":""}
+{"kind":"slide","id":"sl/zmdpw0","slide":3,"title":"MM_2D_6KProj Portfolio","textShapes":6}
+{"kind":"textbox","id":"sh/47u9cjy9","slide":3,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/36lsjeho","slide":3,"text":"포트폴리오 관점에서 보여주려는 역량","textPreview":"포트폴리오 관점에서 보여주려는 역량","textChars":19,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/i5cra9g3","slide":3,"bbox":[64,145,1152,2]}
+{"kind":"textbox","id":"sh/h43ah4zi","slide":3,"text":"- 액션 조작: 이동, 점프, 회피, 3타 콤보, 상하단 공격 흐름 구현\n- 전투 피드백: 피격, 넉백, 무적 시간, 히트스톱, 카메라/애니메이션 반응\n- 게임 진행: Stage1 -> Stage2 -> Stage3 -> FinalScene 흐름 관리\n- 저장/이어하기: 위치, 체력, 스태미나, 공격력 저장 및 씬 복원\n- 구조화: EnemyCore와 Brain/Movement/Attack 인터페이스로 적 행동 분리","textPreview":"- 액션 조작: 이동, 점프, 회피, 3타 콤보, 상하단 공격 흐름 구현 | - 전투 피드백: 피격, 넉백, 무적 시간, 히트스톱, 카메라/애니메이션 반응 | - 게임 진행: Stage1 -> Stage2 -> Stage3 -> FinalScen...","textChars":234,"textLines":5,"bbox":[112,192,1020,260]}
+{"kind":"shape","id":"sh/w3u98zix","slide":3,"bbox":[112,500,1020,96]}
+{"kind":"shape","id":"sh/vilsfuhs","slide":3,"bbox":[112,500,8,96]}
+{"kind":"textbox","id":"sh/uhcr6p07","slide":3,"text":"개발 철학","textPreview":"개발 철학","textChars":5,"textLines":1,"bbox":[136,522,972,32]}
+{"kind":"textbox","id":"sh/107atoz2","slide":3,"text":"큰 시스템을 한 번에 완성하려 하기보다, 플레이어 경험에 직접 닿는 기능부터 작게 완성하고 검증했습니다.","textPreview":"큰 시스템을 한 번에 완성하려 하기보다, 플레이어 경험에 직접 닿는 기능부터 작게 완성하고 검증했습니다.","textChars":58,"textLines":1,"bbox":[136,568,972,8]}
+{"kind":"textbox","id":"sh/0zetk3yh","slide":3,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 03","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 03","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/zmdpw0","slide":3,"text":""}
+{"kind":"slide","id":"sl/3y7pz1","slide":4,"title":"MM_2D_6KProj Portfolio","textShapes":12}
+{"kind":"textbox","id":"sh/8r25kfat","slide":4,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/7qtorat8","slide":4,"text":"플레이 루프는 짧고 반복 가능한 보스러쉬 구조입니다","textPreview":"플레이 루프는 짧고 반복 가능한 보스러쉬 구조입니다","textChars":28,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/6p0ni5sn","slide":4,"bbox":[64,145,1152,2]}
+{"kind":"shape","id":"sh/lor6p0b2","slide":4,"bbox":[90,210,260,210]}
+{"kind":"shape","id":"sh/kni5gvah","slide":4,"bbox":[90,210,8,210]}
+{"kind":"textbox","id":"sh/jm9onqtc","slide":4,"text":"1. 전투 준비","textPreview":"1. 전투 준비","textChars":8,"textLines":1,"bbox":[114,232,212,32]}
+{"kind":"textbox","id":"sh/yl0nelsr","slide":4,"text":"메인 메뉴에서 시작하거나 저장 데이터를 불러옵니다.","textPreview":"메인 메뉴에서 시작하거나 저장 데이터를 불러옵니다.","textChars":28,"textLines":1,"bbox":[114,278,212,122]}
+{"kind":"shape","id":"sh/xkr6l0b6","slide":4,"bbox":[390,210,260,210]}
+{"kind":"shape","id":"sh/wzi5cval","slide":4,"bbox":[390,210,8,210]}
+{"kind":"textbox","id":"sh/at4n6t8f","slide":4,"text":"2. 룸 클리어","textPreview":"2. 룸 클리어","textChars":8,"textLines":1,"bbox":[414,232,212,32]}
+{"kind":"textbox","id":"sh/bud4fy90","slide":4,"text":"스테이지 안의 전투 룸을 클리어하며 플레이어 능력치를 유지합니다.","textPreview":"스테이지 안의 전투 룸을 클리어하며 플레이어 능력치를 유지합니다.","textChars":36,"textLines":1,"bbox":[414,278,212,122]}
+{"kind":"shape","id":"sh/cfm583ql","slide":4,"bbox":[690,210,260,210]}
+{"kind":"shape","id":"sh/xgfmh8r6","slide":4,"bbox":[690,210,8,210]}
+{"kind":"textbox","id":"sh/2p4n2t8j","slide":4,"text":"3. 보스 진입","textPreview":"3. 보스 진입","textChars":8,"textLines":1,"bbox":[714,232,212,32]}
+{"kind":"textbox","id":"sh/nqd4by9o","slide":4,"text":"조건 달성 후 포탈이 열리고 보스 전투로 이어집니다.","textPreview":"조건 달성 후 포탈이 열리고 보스 전투로 이어집니다.","textChars":29,"textLines":1,"bbox":[714,278,212,122]}
+{"kind":"shape","id":"sh/orm54jq9","slide":4,"bbox":[990,210,220,210]}
+{"kind":"shape","id":"sh/psvmdoru","slide":4,"bbox":[990,210,8,210]}
+{"kind":"textbox","id":"sh/elk3y987","slide":4,"text":"4. 다음 스테이지","textPreview":"4. 다음 스테이지","textChars":10,"textLines":1,"bbox":[1014,232,172,32]}
+{"kind":"textbox","id":"sh/fmt47e9s","slide":4,"text":"PlayerRuntimeData가 HP/ST/DMG를 다음 씬까지 전달합니다.","textPreview":"PlayerRuntimeData가 HP/ST/DMG를 다음 씬까지 전달합니다.","textChars":43,"textLines":1,"bbox":[1014,278,172,122]}
+{"kind":"textbox","id":"sh/jepsjql8","slide":4,"text":"설계 의도: 스토리/거대 맵 제작 부담을 줄이고, 액션 전투와 시스템 완성도에 시간을 집중했습니다.","textPreview":"설계 의도: 스토리/거대 맵 제작 부담을 줄이고, 액션 전투와 시스템 완성도에 시간을 집중했습니다.","textChars":55,"textLines":1,"bbox":[96,510,1080,58]}
+{"kind":"textbox","id":"sh/itgbqlkn","slide":4,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 04","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 04","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/3y7pz1","slide":4,"text":""}
+{"kind":"slide","id":"sl/u00a8x","slide":5,"title":"MM_2D_6KProj Portfolio","textShapes":8}
+{"kind":"textbox","id":"sh/g76tgzax","slide":5,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/f6xs7u9s","slide":5,"text":"플레이어 액션은 입력 반응성과 캔슬 감각을 우선했습니다","textPreview":"플레이어 액션은 입력 반응성과 캔슬 감각을 우선했습니다","textChars":30,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/e5obeps7","slide":5,"bbox":[64,145,1152,2]}
+{"kind":"textbox","id":"sh/tkfa54rm","slide":5,"text":"- Z: 점프, X: 공격, C: 회피처럼 키 입력을 단순화해 테스트 효율을 높였습니다.\n- 공격 중 공중 이동 배율과 회피 캔슬 여부를 분리해 조작감을 조정할 수 있게 했습니다.\n- 체력과 스태미나는 UI와 저장 데이터 양쪽에 연결해 전투 결과가 다음 흐름에 남도록 했습니다.","textPreview":"- Z: 점프, X: 공격, C: 회피처럼 키 입력을 단순화해 테스트 효율을 높였습니다. | - 공격 중 공중 이동 배율과 회피 캔슬 여부를 분리해 조작감을 조정할 수 있게 했습니다. | - 체력과 스태미나는 UI와 저장 데이터 양쪽에 연결해 전...","textChars":155,"textLines":3,"bbox":[96,190,680,210]}
+{"kind":"shape","id":"sh/sj6tcza1","slide":5,"bbox":[840,190,340,176]}
+{"kind":"shape","id":"sh/rixs3u9g","slide":5,"bbox":[840,190,8,176]}
+{"kind":"textbox","id":"sh/6h4bapsv","slide":5,"text":"조작 설계","textPreview":"조작 설계","textChars":5,"textLines":1,"bbox":[864,212,292,32]}
+{"kind":"textbox","id":"sh/dgzuhorq","slide":5,"text":"플레이어가 이해해야 하는 규칙은 줄이고, 실제 전투에서 느끼는 선택지는 남기는 방향으로 구성했습니다.","textPreview":"플레이어가 이해해야 하는 규칙은 줄이고, 실제 전투에서 느끼는 선택지는 남기는 방향으로 구성했습니다.","textChars":56,"textLines":1,"bbox":[864,258,292,88]}
+{"kind":"shape","id":"sh/cfqtoja5","slide":5,"bbox":[840,406,340,176]}
+{"kind":"shape","id":"sh/2lwve9k3","slide":5,"bbox":[840,406,8,176]}
+{"kind":"textbox","id":"sh/3m5wnelo","slide":5,"text":"튜닝 포인트","textPreview":"튜닝 포인트","textChars":6,"textLines":1,"bbox":[864,428,292,32]}
+{"kind":"textbox","id":"sh/onexgj29","slide":5,"text":"공격 쿨타임, 콤보 리셋, 회피 지속/쿨타임, 스태미나 회복량은 인스펙터에서 빠르게 조정할 수 있습니다.","textPreview":"공격 쿨타임, 콤보 리셋, 회피 지속/쿨타임, 스태미나 회복량은 인스펙터에서 빠르게 조정할 수 있습니다.","textChars":58,"textLines":1,"bbox":[864,474,292,88]}
+{"kind":"textbox","id":"sh/ponepo3u","slide":5,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 05","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 05","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/u00a8x","slide":5,"text":""}
+{"kind":"slide","id":"sl/iazy3c","slide":6,"title":"MM_2D_6KProj Portfolio","textShapes":10}
+{"kind":"textbox","id":"sh/18rm9w76","slide":6,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/e5gny18v","slide":6,"text":"보스 3종은 공통 구조 위에 다른 전투 리듬을 얹었습니다","textPreview":"보스 3종은 공통 구조 위에 다른 전투 리듬을 얹었습니다","textChars":31,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/f69476pg","slide":6,"bbox":[64,145,1152,2]}
+{"kind":"shape","id":"sh/obi54bqx","slide":6,"bbox":[84,190,330,280]}
+{"kind":"shape","id":"sh/pwr6dg7i","slide":6,"bbox":[84,190,8,280]}
+{"kind":"textbox","id":"sh/290n218r","slide":6,"text":"Stage 1: Golem","textPreview":"Stage 1: Golem","textChars":14,"textLines":1,"bbox":[108,212,282,32]}
+{"kind":"textbox","id":"sh/na94b6pc","slide":6,"text":"패턴 인지와 기본 회피를 확인하는 첫 보스. 공격 전조와 거리 감각을 학습시키는 역할입니다.","textPreview":"패턴 인지와 기본 회피를 확인하는 첫 보스. 공격 전조와 거리 감각을 학습시키는 역할입니다.","textChars":51,"textLines":1,"bbox":[108,258,282,192]}
+{"kind":"shape","id":"sh/cz258vqt","slide":6,"bbox":[474,190,330,280]}
+{"kind":"shape","id":"sh/x0b6hg7e","slide":6,"bbox":[474,190,8,280]}
+{"kind":"textbox","id":"sh/t0j6t03e","slide":6,"text":"Stage 2: Blood King","textPreview":"Stage 2: Blood King","textChars":19,"textLines":1,"bbox":[498,212,282,32]}
+{"kind":"textbox","id":"sh/8zap0vm9","slide":6,"text":"압박감과 패턴 변화가 중심인 중반 보스. 피격 리스크와 공격 타이밍 판단을 요구합니다.","textPreview":"압박감과 패턴 변화가 중심인 중반 보스. 피격 리스크와 공격 타이밍 판단을 요구합니다.","textChars":48,"textLines":1,"bbox":[498,258,282,192]}
+{"kind":"shape","id":"sh/7yhorqlo","slide":6,"bbox":[864,190,330,280]}
+{"kind":"shape","id":"sh/6x87yl43","slide":6,"bbox":[864,190,8,280]}
+{"kind":"textbox","id":"sh/h4jqxk3q","slide":6,"text":"Stage 3: Heart Hoarder","textPreview":"Stage 3: Heart Hoarder","textChars":22,"textLines":1,"bbox":[888,212,282,32]}
+{"kind":"textbox","id":"sh/g3ap4fm5","slide":6,"text":"최종 스테이지 보스. 앞선 전투에서 익힌 회피/공격/자원 관리를 종합합니다.","textPreview":"최종 스테이지 보스. 앞선 전투에서 익힌 회피/공격/자원 관리를 종합합니다.","textChars":42,"textLines":1,"bbox":[888,258,282,192]}
+{"kind":"textbox","id":"sh/v21ovalk","slide":6,"text":"공통 요소: BossBattleManager, BossIntroUI, 클리어 후 포탈/씬 전환 흐름","textPreview":"공통 요소: BossBattleManager, BossIntroUI, 클리어 후 포탈/씬 전환 흐름","textChars":55,"textLines":1,"bbox":[160,535,960,40]}
+{"kind":"textbox","id":"sh/u1s7254z","slide":6,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 06","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 06","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/iazy3c","slide":6,"text":""}
+{"kind":"slide","id":"sl/d2t54l","slide":7,"title":"MM_2D_6KProj Portfolio","textShapes":6}
+{"kind":"textbox","id":"sh/hcb2h0za","slide":7,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/u903650j","slide":7,"text":"저장 시스템은 위치 저장에서 상태 저장까지 확장했습니다","textPreview":"저장 시스템은 위치 저장에서 상태 저장까지 확장했습니다","textChars":30,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/fa9kfah4","slide":7,"bbox":[64,145,1152,2]}
+{"kind":"textbox","id":"sh/4f2lcfyl","slide":7,"text":"- 초기 저장: 현재 씬 이름과 플레이어 위치만 PlayerPrefs에 저장\n- 확장 저장: maxHP, currentHP, maxST, damage까지 함께 저장\n- 문제 해결: Main Menu에서 플레이어 참조가 없던 문제를 Save 시점 참조 갱신으로 해결\n- 주의한 점: New Game과 Continue의 데이터 적용 순서를 분리해 새 게임 오염을 막았습니다.","textPreview":"- 초기 저장: 현재 씬 이름과 플레이어 위치만 PlayerPrefs에 저장 | - 확장 저장: maxHP, currentHP, maxST, damage까지 함께 저장 | - 문제 해결: Main Menu에서 플레이어 참조가 없던 문제를 Save...","textChars":207,"textLines":4,"bbox":[96,190,1040,230]}
+{"kind":"shape","id":"sh/pgb25kz6","slide":7,"bbox":[96,490,1040,96]}
+{"kind":"shape","id":"sh/2dk3a50v","slide":7,"bbox":[96,490,8,96]}
+{"kind":"textbox","id":"sh/3etkjah0","slide":7,"text":"코딩 스타일","textPreview":"코딩 스타일","textChars":6,"textLines":1,"bbox":[120,512,992,32]}
+{"kind":"textbox","id":"sh/kjy10bih","slide":7,"text":"null 가능성이 있는 참조는 저장 직전에 다시 찾고, 불러오기 함수는 기본값을 반환하게 만들어 실패 시 게임 흐름을 유지했습니다.","textPreview":"null 가능성이 있는 참조는 저장 직전에 다시 찾고, 불러오기 함수는 기본값을 반환하게 만들어 실패 시 게임 흐름을 유지했습니다.","textChars":73,"textLines":1,"bbox":[120,558,992,8]}
+{"kind":"textbox","id":"sh/lk729gz2","slide":7,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 07","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 07","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/d2t54l","slide":7,"text":""}
+{"kind":"slide","id":"sl/mvsxdo","slide":8,"title":"MM_2D_6KProj Portfolio","textShapes":8}
+{"kind":"textbox","id":"sh/1432p4fa","slide":8,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/ehcjepwj","slide":8,"text":"소스코드 1: SaveManager는 저장 시점에 참조를 다시 확인합니다","textPreview":"소스코드 1: SaveManager는 저장 시점에 참조를 다시 확인합니다","textChars":40,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/zilknux4","slide":8,"bbox":[64,145,1152,2]}
+{"kind":"textbox","id":"sh/cfa1cfyd","slide":8,"text":"Assets/_Project/01_Scripts/Common/SaveManager.cs","textPreview":"Assets/_Project/01_Scripts/Common/SaveManager.cs","textChars":48,"textLines":1,"bbox":[72,176,704,34]}
+{"kind":"shape","id":"sh/dgj2lkfy","slide":8,"bbox":[72,218,704,410]}
+{"kind":"textbox","id":"sh/qdsjapgn","slide":8,"text":"private void RefreshReferences()\n{\n    player = FindAnyObjectByType<Player>();\n    playerHealth = FindAnyObjectByType<PlayerHealth>();\n}\n\npublic void Save(Vector3 playerPosition)\n{\n    RefreshReferences();\n    if (player == null || playerHealth == null)\n    {\n        Debug.LogWarning(\"Save failed: Player or PlayerHealth not found.\");\n        return;\n    }\n\n    PlayerPrefs.SetString(SceneKey, SceneManager.GetActiveScene().name);\n    PlayerPrefs.SetFloat(SaveXKey, playerPosition.x);\n    PlayerPrefs.SetInt(SaveMaxHPKey, playerHealth.maxHP);\n    PlayerPrefs.SetInt(SaveCurrentHPKey, playerHealth.currentHP);\n    PlayerPrefs.SetInt(SaveMaxSTKey, player.maxStamina);\n    PlayerPrefs.SetFloat(SaveDMGKey, player.attackDamage);\n    PlayerPrefs.Save();\n}","textPreview":"private void RefreshReferences() | { |     player = FindAnyObjectByType<Player>(); |     playerHealth = FindAnyObjectByType<PlayerHealth>...","textChars":751,"textLines":23,"bbox":[96,242,656,360]}
+{"kind":"shape","id":"sh/re1kjuxs","slide":8,"bbox":[820,224,360,260]}
+{"kind":"shape","id":"sh/wbelojex","slide":8,"bbox":[820,224,8,260]}
+{"kind":"textbox","id":"sh/xcn2xofi","slide":8,"text":"개발 철학 / 코딩 스타일","textPreview":"개발 철학 / 코딩 스타일","textChars":14,"textLines":1,"bbox":[844,246,312,32]}
+{"kind":"textbox","id":"sh/5gjyponi","slide":8,"text":"메뉴 씬처럼 Player가 없는 상태에서 Awake 참조를 고정하면 저장이 실패할 수 있었습니다. 그래서 Save 호출 순간에 실제 씬 오브젝트를 다시 찾고, 실패 시 경고 후 return하는 방어적 흐름으로 정리했습니다.","textPreview":"메뉴 씬처럼 Player가 없는 상태에서 Awake 참조를 고정하면 저장이 실패할 수 있었습니다. 그래서 Save 호출 순간에 실제 씬 오브젝트를 다시 찾고, 실패 시 경고 후 return하는 방어적 흐름으로 정리했습니다.","textChars":124,"textLines":1,"bbox":[844,292,312,172]}
+{"kind":"textbox","id":"sh/4fahgjmx","slide":8,"text":"실제 프로젝트 소스 일부를 발췌했습니다.","textPreview":"실제 프로젝트 소스 일부를 발췌했습니다.","textChars":22,"textLines":1,"bbox":[820,512,360,72]}
+{"kind":"textbox","id":"sh/je1gne5s","slide":8,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 08","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 08","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/mvsxdo","slide":8,"text":""}
+{"kind":"slide","id":"sl/jc7r6w","slide":9,"title":"MM_2D_6KProj Portfolio","textShapes":8}
+{"kind":"textbox","id":"sh/t0n69ory","slide":9,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/6xwnyt8n","slide":9,"text":"소스코드 2: 씬 전환 중 유지할 데이터는 RuntimeData로 분리했습니다","textPreview":"소스코드 2: 씬 전환 중 유지할 데이터는 RuntimeData로 분리했습니다","textChars":43,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/7y5o7y98","slide":9,"bbox":[64,145,1152,2]}
+{"kind":"textbox","id":"sh/gny543qp","slide":9,"text":"Assets/_Project/01_Scripts/Common/PlayerRuntimeData.cs","textPreview":"Assets/_Project/01_Scripts/Common/PlayerRuntimeData.cs","textChars":54,"textLines":1,"bbox":[72,176,704,34]}
+{"kind":"shape","id":"sh/ho76d8ra","slide":9,"bbox":[72,218,704,410]}
+{"kind":"textbox","id":"sh/u1wn2t8j","slide":9,"text":"public class PlayerRuntimeData : MonoBehaviour\n{\n    public static PlayerRuntimeData Instance { get; private set; }\n    public bool HasData { get; private set; }\n\n    public int maxHP, currentHP;\n    public int maxStamina, currentStamina;\n    public float attackDamage;\n\n    public void SaveFromPlayer(Player player, PlayerHealth health)\n    {\n        if (player == null || health == null) return;\n\n        maxHP = health.MaxHP;\n        currentHP = health.CurrentHP;\n        maxStamina = player.MaxStaminaInt;\n        currentStamina = player.CurrentStaminaInt;\n        attackDamage = player.attackDamage;\n        HasData = true;\n    }\n}","textPreview":"public class PlayerRuntimeData : MonoBehaviour | { |     public static PlayerRuntimeData Instance { get; private set; } |     public bool...","textChars":636,"textLines":21,"bbox":[96,242,656,360]}
+{"kind":"shape","id":"sh/f25oby94","slide":9,"bbox":[820,224,360,260]}
+{"kind":"shape","id":"sh/w7u5szal","slide":9,"bbox":[820,224,8,260]}
+{"kind":"textbox","id":"sh/xs3m14rq","slide":9,"text":"개발 철학 / 코딩 스타일","textPreview":"개발 철학 / 코딩 스타일","textChars":14,"textLines":1,"bbox":[844,246,312,32]}
+{"kind":"textbox","id":"sh/h0ju9kfa","slide":9,"text":"영구 저장과 씬 전환용 임시 상태를 섞지 않도록 역할을 나눴습니다. 저장 파일은 Continue용, RuntimeData는 Stage1->2->3 진행 중 능력치 유지용으로 사용했습니다.","textPreview":"영구 저장과 씬 전환용 임시 상태를 섞지 않도록 역할을 나눴습니다. 저장 파일은 Continue용, RuntimeData는 Stage1->2->3 진행 중 능력치 유지용으로 사용했습니다.","textChars":104,"textLines":1,"bbox":[844,292,312,172]}
+{"kind":"textbox","id":"sh/wzat0zyp","slide":9,"text":"실제 프로젝트 소스 일부를 발췌했습니다.","textPreview":"실제 프로젝트 소스 일부를 발췌했습니다.","textChars":22,"textLines":1,"bbox":[820,512,360,72]}
+{"kind":"textbox","id":"sh/vy1c7uxk","slide":9,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 09","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 09","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/jc7r6w","slide":9,"text":""}
+{"kind":"slide","id":"sl/z67fl1","slide":10,"title":"MM_2D_6KProj Portfolio","textShapes":8}
+{"kind":"textbox","id":"sh/kja90net","slide":10,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/zi1srix8","slide":10,"text":"소스코드 3: 적 AI는 판단, 이동, 공격 책임을 나눴습니다","textPreview":"소스코드 3: 적 AI는 판단, 이동, 공격 책임을 나눴습니다","textChars":34,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/yxsrydw3","slide":10,"bbox":[64,145,1152,2]}
+{"kind":"textbox","id":"sh/xwzap8fi","slide":10,"text":"Assets/_Project/01_Scripts/Enemies/EnemyCore.cs","textPreview":"Assets/_Project/01_Scripts/Enemies/EnemyCore.cs","textChars":47,"textLines":1,"bbox":[72,176,704,34]}
+{"kind":"shape","id":"sh/cvq9w3ex","slide":10,"bbox":[72,218,704,410]}
+{"kind":"textbox","id":"sh/buhsnyxc","slide":10,"text":"public interface IEnemyBrain\n{\n    void Tick(EnemyCore core, float dt);\n}\n\npublic class EnemyCore : MonoBehaviour\n{\n    private void Awake()\n    {\n        Brain = GetComponent<IEnemyBrain>();\n        Movement = GetComponent<IEnemyMovement>();\n        Attack = GetComponent<IEnemyAttack>();\n    }\n\n    private void Update()\n    {\n        float dt = Time.deltaTime;\n\n        Brain.Tick(this, dt);\n        Movement?.Tick(this, dt);\n        Attack?.Tick(this, dt);\n    }\n}","textPreview":"public interface IEnemyBrain | { |     void Tick(EnemyCore core, float dt); | } |  | public class EnemyCore : MonoBehaviour | { |     pri...","textChars":468,"textLines":23,"bbox":[96,242,656,360]}
+{"kind":"shape","id":"sh/at8rutwr","slide":10,"bbox":[820,224,360,260]}
+{"kind":"shape","id":"sh/pszal8f6","slide":10,"bbox":[820,224,8,260]}
+{"kind":"textbox","id":"sh/orq9s3el","slide":10,"text":"개발 철학 / 코딩 스타일","textPreview":"개발 철학 / 코딩 스타일","textChars":14,"textLines":1,"bbox":[844,246,312,32]}
+{"kind":"textbox","id":"sh/6dcbqhc7","slide":10,"text":"EnemyCore가 모든 행동을 직접 처리하지 않고, Brain/Movement/Attack 컴포넌트를 조합합니다. 새 적을 만들 때 기존 코어를 유지한 채 행동 모듈만 바꿀 수 있는 구조를 의도했습니다.","textPreview":"EnemyCore가 모든 행동을 직접 처리하지 않고, Brain/Movement/Attack 컴포넌트를 조합합니다. 새 적을 만들 때 기존 코어를 유지한 채 행동 모듈만 바꿀 수 있는 구조를 의도했습니다.","textChars":114,"textLines":1,"bbox":[844,292,312,172]}
+{"kind":"textbox","id":"sh/7elsjmts","slide":10,"text":"실제 프로젝트 소스 일부를 발췌했습니다.","textPreview":"실제 프로젝트 소스 일부를 발췌했습니다.","textChars":22,"textLines":1,"bbox":[820,512,360,72]}
+{"kind":"textbox","id":"sh/sfutsrux","slide":10,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 10","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 10","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/z67fl1","slide":10,"text":""}
+{"kind":"slide","id":"sl/eceisg","slide":11,"title":"MM_2D_6KProj Portfolio","textShapes":10}
+{"kind":"textbox","id":"sh/u9c3idgj","slide":11,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/hc32dsfu","slide":11,"text":"문제 해결 사례는 기능보다 더 강한 포트폴리오 근거입니다","textPreview":"문제 해결 사례는 기능보다 더 강한 포트폴리오 근거입니다","textChars":31,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/gbulkny9","slide":11,"bbox":[64,145,1152,2]}
+{"kind":"shape","id":"sh/3e5kfix0","slide":11,"bbox":[82,190,350,300]}
+{"kind":"shape","id":"sh/2dc3mdgf","slide":11,"bbox":[82,190,8,300]}
+{"kind":"textbox","id":"sh/p0n2hsf6","slide":11,"text":"저장 데이터 적용 순서","textPreview":"저장 데이터 적용 순서","textChars":12,"textLines":1,"bbox":[106,212,302,32]}
+{"kind":"textbox","id":"sh/4felonyl","slide":11,"text":"위치 로드가 ContinueMode를 먼저 끄면 HP/ST/DMG가 적용되지 않는 문제가 있었습니다. 런타임 데이터 -> 저장 상태 -> 위치 순서로 정리했습니다.","textPreview":"위치 로드가 ContinueMode를 먼저 끄면 HP/ST/DMG가 적용되지 않는 문제가 있었습니다. 런타임 데이터 -> 저장 상태 -> 위치 순서로 정리했습니다.","textChars":91,"textLines":1,"bbox":[106,258,302,212]}
+{"kind":"shape","id":"sh/r25kj2xw","slide":11,"bbox":[466,190,350,300]}
+{"kind":"shape","id":"sh/q1w3qxgr","slide":11,"bbox":[466,190,8,300]}
+{"kind":"textbox","id":"sh/cnedgnqh","slide":11,"text":"Stage 메뉴 패널 미표시","textPreview":"Stage 메뉴 패널 미표시","textChars":15,"textLines":1,"bbox":[490,212,302,32]}
+{"kind":"textbox","id":"sh/xoneps72","slide":11,"text":"Stage1/2/3 Canvas scale이 0으로 저장되어 MenuPanel이 활성화돼도 보이지 않았습니다. 씬과 StagePrefab의 Canvas scale을 1로 수정했습니다.","textPreview":"Stage1/2/3 Canvas scale이 0으로 저장되어 MenuPanel이 활성화돼도 보이지 않았습니다. 씬과 StagePrefab의 Canvas scale을 1로 수정했습니다.","textChars":102,"textLines":1,"bbox":[490,258,302,212]}
+{"kind":"shape","id":"sh/alwved8b","slide":11,"bbox":[850,190,350,300]}
+{"kind":"shape","id":"sh/bm5wnipw","slide":11,"bbox":[850,190,8,300]}
+{"kind":"textbox","id":"sh/kryxk76t","slide":11,"text":"보스러쉬 전환","textPreview":"보스러쉬 전환","textChars":7,"textLines":1,"bbox":[874,212,302,32]}
+{"kind":"textbox","id":"sh/ls7ets7y","slide":11,"text":"완성 가능성을 위해 거대 맵과 스토리 비중을 줄이고, 전투/저장/진행 시스템 검증에 집중했습니다.","textPreview":"완성 가능성을 위해 거대 맵과 스토리 비중을 줄이고, 전투/저장/진행 시스템 검증에 집중했습니다.","textChars":54,"textLines":1,"bbox":[874,258,302,212]}
+{"kind":"textbox","id":"sh/ypwfixon","slide":11,"text":"면접에서 강조할 문장: 문제를 발견하면 원인을 씬 데이터, 실행 순서, 참조 생명주기 중 어디에 있는지 나눠서 추적했습니다.","textPreview":"면접에서 강조할 문장: 문제를 발견하면 원인을 씬 데이터, 실행 순서, 참조 생명주기 중 어디에 있는지 나눠서 추적했습니다.","textChars":69,"textLines":1,"bbox":[120,540,1040,52]}
+{"kind":"textbox","id":"sh/zqpwr2p8","slide":11,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 11","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 11","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/eceisg","slide":11,"text":""}
+{"kind":"slide","id":"sl/jvarue","slide":12,"title":"MM_2D_6KProj Portfolio","textShapes":6}
+{"kind":"textbox","id":"sh/t4v6xc32","slide":12,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/61472h4b","slide":12,"text":"UI/UX는 플레이 중 흐름이 끊기지 않는 것을 목표로 했습니다","textPreview":"UI/UX는 플레이 중 흐름이 끊기지 않는 것을 목표로 했습니다","textChars":35,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/72dov2lw","slide":12,"bbox":[64,145,1152,2]}
+{"kind":"textbox","id":"sh/g76p8rmd","slide":12,"text":"- Pause 메뉴: Escape 입력으로 전투 중 일시정지와 복귀를 처리\n- Game Over: CanvasGroup 기반으로 사망 후 상태 전환을 관리\n- Boss Intro: 보스전 시작 전 짧은 연출로 전투 진입 신호를 제공\n- Pixel Perfect Camera: 320x180 기준, 1920x1080에서 6배 정수 스케일 권장","textPreview":"- Pause 메뉴: Escape 입력으로 전투 중 일시정지와 복귀를 처리 | - Game Over: CanvasGroup 기반으로 사망 후 상태 전환을 관리 | - Boss Intro: 보스전 시작 전 짧은 연출로 전투 진입 신호를 제공 | -...","textChars":190,"textLines":4,"bbox":[104,190,990,236]}
+{"kind":"shape","id":"sh/hsf61w3y","slide":12,"bbox":[104,500,990,88]}
+{"kind":"shape","id":"sh/u5476h47","slide":12,"bbox":[104,500,8,88]}
+{"kind":"textbox","id":"sh/v6dozmls","slide":12,"text":"포트폴리오 포인트","textPreview":"포트폴리오 포인트","textChars":9,"textLines":1,"bbox":[128,522,942,32]}
+{"kind":"textbox","id":"sh/4v6pcrmp","slide":12,"text":"화려한 기능보다 플레이어가 길을 잃지 않고 전투에 집중하도록 만드는 기본 UX를 우선했습니다.","textPreview":"화려한 기능보다 플레이어가 길을 잃지 않고 전투에 집중하도록 만드는 기본 UX를 우선했습니다.","textChars":52,"textLines":1,"bbox":[128,568,942,0]}
+{"kind":"textbox","id":"sh/5wfq5w3u","slide":12,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 12","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 12","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/jvarue","slide":12,"text":""}
+{"kind":"slide","id":"sl/f3fixe","slide":13,"title":"MM_2D_6KProj Portfolio","textShapes":11}
+{"kind":"textbox","id":"sh/lkralor2","slide":13,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/yhgrqt8b","slide":13,"text":"개발 환경과 협업 이력은 GitHub 대신 Unity Version Control로 정리합니다","textPreview":"개발 환경과 협업 이력은 GitHub 대신 Unity Version Control로 정리합니다","textChars":52,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/jipsjy9w","slide":13,"bbox":[64,145,1152,2]}
+{"kind":"shape","id":"sh/wfy9ojq5","slide":13,"bbox":[104,190,500,120]}
+{"kind":"shape","id":"sh/xg7ahorq","slide":13,"bbox":[104,190,8,120]}
+{"kind":"textbox","id":"sh/adgrm98f","slide":13,"text":"Engine","textPreview":"Engine","textChars":6,"textLines":1,"bbox":[128,212,452,32]}
+{"kind":"textbox","id":"sh/bepsfe90","slide":13,"text":"Unity 6000.3.8f1 / URP / 2D Pixel Perfect Camera","textPreview":"Unity 6000.3.8f1 / URP / 2D Pixel Perfect Camera","textChars":48,"textLines":1,"bbox":[128,258,452,32]}
+{"kind":"shape","id":"sh/ore9kzq9","slide":13,"bbox":[676,190,500,120]}
+{"kind":"shape","id":"sh/9c7ad4ru","slide":13,"bbox":[676,190,8,120]}
+{"kind":"textbox","id":"sh/14bu9wz6","slide":13,"text":"Version Control","textPreview":"Version Control","textChars":15,"textLines":1,"bbox":[700,212,452,32]}
+{"kind":"textbox","id":"sh/0j2d0ry1","slide":13,"text":"Unity Version Control 사용\nGitHub 링크 항목은 비워두거나 삭제해도 됩니다.","textPreview":"Unity Version Control 사용 | GitHub 링크 항목은 비워두거나 삭제해도 됩니다.","textChars":54,"textLines":2,"bbox":[700,258,452,32]}
+{"kind":"shape","id":"sh/zitc7mhg","slide":13,"bbox":[104,370,500,140]}
+{"kind":"shape","id":"sh/ehkvyhgv","slide":13,"bbox":[104,370,8,140]}
+{"kind":"textbox","id":"sh/dgru5cza","slide":13,"text":"Build Target","textPreview":"Build Target","textChars":12,"textLines":1,"bbox":[128,392,452,32]}
+{"kind":"textbox","id":"sh/cfidw7yp","slide":13,"text":"Windows 실행 빌드 우선, itch.io 업로드 시 WebGL 빌드도 함께 제공하면 접근성이 좋아집니다.","textPreview":"Windows 실행 빌드 우선, itch.io 업로드 시 WebGL 빌드도 함께 제공하면 접근성이 좋아집니다.","textChars":61,"textLines":1,"bbox":[128,438,452,52]}
+{"kind":"shape","id":"sh/re9c3mh4","slide":13,"bbox":[676,370,500,140]}
+{"kind":"shape","id":"sh/qd0vahgj","slide":13,"bbox":[676,370,8,140]}
+{"kind":"textbox","id":"sh/5cru1cze","slide":13,"text":"Portfolio Files","textPreview":"Portfolio Files","textChars":15,"textLines":1,"bbox":[700,392,452,32]}
+{"kind":"textbox","id":"sh/4bid87yt","slide":13,"text":"제출 파일명과 링크 설명에는 반드시 MM_ 접두사를 붙입니다.","textPreview":"제출 파일명과 링크 설명에는 반드시 MM_ 접두사를 붙입니다.","textChars":34,"textLines":1,"bbox":[700,438,452,52]}
+{"kind":"textbox","id":"sh/wvmdo76p","slide":13,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 13","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 13","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/f3fixe","slide":13,"text":""}
+{"kind":"slide","id":"sl/371u0v","slide":14,"title":"MM_2D_6KProj Portfolio","textShapes":5}
+{"kind":"textbox","id":"sh/obu5kzed","slide":14,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/3aloruds","slide":14,"text":"제출 링크 설명은 MM_ 접두사를 붙여 관리합니다","textPreview":"제출 링크 설명은 MM_ 접두사를 붙여 관리합니다","textChars":27,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/29cni9w7","slide":14,"bbox":[64,145,1152,2]}
+{"kind":"shape","id":"sh/dgn6xova","slide":14,"bbox":[110,198,1060,330]}
+{"kind":"textbox","id":"sh/cfe5ojup","slide":14,"text":"MM_포트폴리오_PPT\n  - 파일: MM_2D_Action_BossRush_Portfolio.pptx\n\nMM_실행빌드링크\n  - 예: itch.io 또는 Google Drive에 업로드한 Windows ZIP 링크\n\nMM_플레이영상링크\n  - 예: YouTube 일부 공개 플레이 영상 링크\n\nMM_UnityVersionControl\n  - GitHub 대신 Unity Version Control을 사용했다고 명시","textPreview":"MM_포트폴리오_PPT |   - 파일: MM_2D_Action_BossRush_Portfolio.pptx |  | MM_실행빌드링크 |   - 예: itch.io 또는 Google Drive에 업로드한 Windows ZIP 링크 |  | MM_...","textChars":233,"textLines":11,"bbox":[150,230,980,270]}
+{"kind":"textbox","id":"sh/be5oved4","slide":14,"text":"나중에 URL만 채우면 제출 양식에서도 규칙이 흐트러지지 않습니다.","textPreview":"나중에 URL만 채우면 제출 양식에서도 규칙이 흐트러지지 않습니다.","textChars":37,"textLines":1,"bbox":[146,560,980,40]}
+{"kind":"textbox","id":"sh/qdcnm9cj","slide":14,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 14","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 14","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/371u0v","slide":14,"text":""}
+{"kind":"slide","id":"sl/u3lpln","slide":15,"title":"MM_2D_6KProj Portfolio","textShapes":6}
+{"kind":"textbox","id":"sh/4n6d0fqp","slide":15,"text":"MM_2D_6KProj Portfolio","textPreview":"MM_2D_6KProj Portfolio","textChars":22,"textLines":1,"bbox":[64,42,420,28]}
+{"kind":"textbox","id":"sh/jmdwra94","slide":15,"text":"마지막으로 보여줄 메시지","textPreview":"마지막으로 보여줄 메시지","textChars":13,"textLines":1,"bbox":[64,82,1080,52]}
+{"kind":"shape","id":"sh/il4vy58z","slide":15,"bbox":[64,145,1152,2]}
+{"kind":"textbox","id":"sh/tcfexkrm","slide":15,"text":"완성 가능한 범위로 스코프를 줄이고,\n액션 조작-전투 피드백-저장/진행 시스템을 끝까지 연결한 Unity 2D 보스러쉬 프로젝트입니다.","textPreview":"완성 가능한 범위로 스코프를 줄이고, | 액션 조작-전투 피드백-저장/진행 시스템을 끝까지 연결한 Unity 2D 보스러쉬 프로젝트입니다.","textChars":75,"textLines":2,"bbox":[110,210,1060,150]}
+{"kind":"textbox","id":"sh/sb6d4zq1","slide":15,"text":"- 본인이 작성한 핵심 소스코드 포함\n- 개발 철학: 작은 완성, 명확한 책임 분리, 플레이 흐름 우선\n- 코딩 스타일: 방어적 null 처리, 싱글턴 생명주기 관리, 컴포넌트 조합 구조","textPreview":"- 본인이 작성한 핵심 소스코드 포함 | - 개발 철학: 작은 완성, 명확한 책임 분리, 플레이 흐름 우선 | - 코딩 스타일: 방어적 null 처리, 싱글턴 생명주기 관리, 컴포넌트 조합 구조","textChars":104,"textLines":3,"bbox":[180,430,900,150]}
+{"kind":"textbox","id":"sh/rqxwvu9g","slide":15,"text":"조성재 | sjjfire123@naver.com","textPreview":"조성재 | sjjfire123@naver.com","textChars":26,"textLines":1,"bbox":[340,612,600,34]}
+{"kind":"textbox","id":"sh/6pov2p8v","slide":15,"text":"조성재 | sjjfire123@naver.com | Unity Version Control | 15","textPreview":"조성재 | sjjfire123@naver.com | Unity Version Control | 15","textChars":55,"textLines":1,"bbox":[64,674,760,24]}
+{"kind":"notes","id":"nt/u3lpln","slide":15,"text":""}

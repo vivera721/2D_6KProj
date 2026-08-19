@@ -1,0 +1,558 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/d2t54l",
+    "id": "d2t54l",
+    "slide": 7,
+    "layoutId": "a103f14b-d8a8-4137-93b3-36f4b5744a8e",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#111318",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a103f14b-d8a8-4137-93b3-36f4b5744a8e",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcb2h0za",
+      "id": "1",
+      "bbox": [
+        64,
+        42,
+        420,
+        28
+      ],
+      "geometry": "rect",
+      "text": "MM_2D_6KProj Portfolio",
+      "textPreview": "MM_2D_6KProj Portfolio",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#F0B94D",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MM_2D_6KProj Portfolio"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MM_2D_6KProj Portfolio",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#F0B94D",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MM_2D_6KProj Portfolio",
+              "fontSize": 15,
+              "color": "#F0B94D",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u903650j",
+      "id": "2",
+      "bbox": [
+        64,
+        82,
+        1080,
+        52
+      ],
+      "geometry": "rect",
+      "text": "저장 시스템은 위치 저장에서 상태 저장까지 확장했습니다",
+      "textPreview": "저장 시스템은 위치 저장에서 상태 저장까지 확장했습니다",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "fontSize": 36,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "저장 시스템은 위치 저장에서 상태 저장까지 확장했습니다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "저장 시스템은 위치 저장에서 상태 저장까지 확장했습니다",
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "저장 시스템은 위치 저장에서 상태 저장까지 확장했습니다",
+              "fontSize": 36,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fa9kfah4",
+      "id": "3",
+      "bbox": [
+        64,
+        145,
+        1152,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#343946",
+      "lineColor": "#343946",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4f2lcfyl",
+      "id": "4",
+      "bbox": [
+        96,
+        190,
+        1040,
+        230
+      ],
+      "geometry": "rect",
+      "text": "- 초기 저장: 현재 씬 이름과 플레이어 위치만 PlayerPrefs에 저장\n- 확장 저장: maxHP, currentHP, maxST, damage까지 함께 저장\n- 문제 해결: Main Menu에서 플레이어 참조가 없던 문제를 Save 시점 참조 갱신으로 해결\n- 주의한 점: New Game과 Continue의 데이터 적용 순서를 분리해 새 게임 오염을 막았습니다.",
+      "textPreview": "- 초기 저장: 현재 씬 이름과 플레이어 위치만 PlayerPrefs에 저장 | - 확장 저장: maxHP, currentHP, maxST, damage까지 함께 저장 | - 문제 해결: Main Menu에서 플레이어 참조가 없던 문제를 Save...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "- 초기 저장: 현재 씬 이름과 플레이어 위치만 PlayerPrefs에 저장"
+          },
+          {
+            "index": 2,
+            "text": "- 확장 저장: maxHP, currentHP, maxST, damage까지 함께 저장"
+          },
+          {
+            "index": 3,
+            "text": "- 문제 해결: Main Menu에서 플레이어 참조가 없던 문제를 Save 시점 참조 갱신으로 해결"
+          },
+          {
+            "index": 4,
+            "text": "- 주의한 점: New Game과 Continue의 데이터 적용 순서를 분리해 새 게임 오염을 막았습니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "- 초기 저장: 현재 씬 이름과 플레이어 위치만 PlayerPrefs에 저장",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#F4F1E8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- 초기 저장: 현재 씬 이름과 플레이어 위치만 PlayerPrefs에 저장",
+              "fontSize": 24,
+              "color": "#F4F1E8",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "- 확장 저장: maxHP, currentHP, maxST, damage까지 함께 저장",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#F4F1E8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- 확장 저장: maxHP, currentHP, maxST, damage까지 함께 저장",
+              "fontSize": 24,
+              "color": "#F4F1E8",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "- 문제 해결: Main Menu에서 플레이어 참조가 없던 문제를 Save 시점 참조 갱신으로 해결",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#F4F1E8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- 문제 해결: Main Menu에서 플레이어 참조가 없던 문제를 Save 시점 참조 갱신으로 해결",
+              "fontSize": 24,
+              "color": "#F4F1E8",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "- 주의한 점: New Game과 Continue의 데이터 적용 순서를 분리해 새 게임 오염을 막았습니다.",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#F4F1E8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- 주의한 점: New Game과 Continue의 데이터 적용 순서를 분리해 새 게임 오염을 막았습니다.",
+              "fontSize": 24,
+              "color": "#F4F1E8",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pgb25kz6",
+      "id": "5",
+      "bbox": [
+        96,
+        490,
+        1040,
+        96
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#171A21",
+      "lineColor": "#343946",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2dk3a50v",
+      "id": "6",
+      "bbox": [
+        96,
+        490,
+        8,
+        96
+      ],
+      "geometry": "rect",
+      "fillColor": "#F0B94D",
+      "lineColor": "#F0B94D",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3etkjah0",
+      "id": "7",
+      "bbox": [
+        120,
+        512,
+        992,
+        32
+      ],
+      "geometry": "rect",
+      "text": "코딩 스타일",
+      "textPreview": "코딩 스타일",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "코딩 스타일"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "코딩 스타일",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "코딩 스타일",
+              "fontSize": 23,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjy10bih",
+      "id": "8",
+      "bbox": [
+        120,
+        558,
+        992,
+        8
+      ],
+      "geometry": "rect",
+      "text": "null 가능성이 있는 참조는 저장 직전에 다시 찾고, 불러오기 함수는 기본값을 반환하게 만들어 실패 시 게임 흐름을 유지했습니다.",
+      "textPreview": "null 가능성이 있는 참조는 저장 직전에 다시 찾고, 불러오기 함수는 기본값을 반환하게 만들어 실패 시 게임 흐름을 유지했습니다.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#B9B3A5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "null 가능성이 있는 참조는 저장 직전에 다시 찾고, 불러오기 함수는 기본값을 반환하게 만들어 실패 시 게임 흐름을"
+          },
+          {
+            "index": 2,
+            "text": "유지했습니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "null 가능성이 있는 참조는 저장 직전에 다시 찾고, 불러오기 함수는 기본값을 반환하게 만들어 실패 시 게임 흐름을 유지했습니다.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#B9B3A5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "null 가능성이 있는 참조는 저장 직전에 다시 찾고, 불러오기 함수는 기본값을 반환하게 만들어 실패 시 게임 흐름을 유지했습니다.",
+              "fontSize": 18,
+              "color": "#B9B3A5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lk729gz2",
+      "id": "9",
+      "bbox": [
+        64,
+        674,
+        760,
+        24
+      ],
+      "geometry": "rect",
+      "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 07",
+      "textPreview": "조성재 | sjjfire123@naver.com | Unity Version Control | 07",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#7F8792",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 07"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 07",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#7F8792",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 07",
+              "fontSize": 13,
+              "color": "#7F8792",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

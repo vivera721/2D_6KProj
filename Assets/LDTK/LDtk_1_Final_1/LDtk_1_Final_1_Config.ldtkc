@@ -1,0 +1,299 @@
+{
+    "PixelsPerUnit": 16,
+    "CustomLevelPrefab": {
+        "instanceID": 0
+    },
+    "IntGridValueColorsVisible": false,
+    "UseCompositeCollider": true,
+    "GeometryType": 0,
+    "CreateBackgroundColor": true,
+    "CreateLevelBoundsTrigger": false,
+    "UseParallax": true,
+    "ScaleEntities": true,
+    "IntGridValues": [
+        {
+            "_key": "Map0_1",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "0dd8047f771ab0a429345473777d2269",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Map0_2",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "634b8d531f0eb1648bf4a640a1164d11",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Map1_1",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "0dd8047f771ab0a429345473777d2269",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Map1_2",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "634b8d531f0eb1648bf4a640a1164d11",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Map2_1",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "0dd8047f771ab0a429345473777d2269",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Map2_2",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "634b8d531f0eb1648bf4a640a1164d11",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Map3_1",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "0dd8047f771ab0a429345473777d2269",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Map3_2",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "634b8d531f0eb1648bf4a640a1164d11",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Map5_1",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "0dd8047f771ab0a429345473777d2269",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Map5_2",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "634b8d531f0eb1648bf4a640a1164d11",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Map6_1",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "0dd8047f771ab0a429345473777d2269",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Map6_2",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "634b8d531f0eb1648bf4a640a1164d11",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Map7_1",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "0dd8047f771ab0a429345473777d2269",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Map7_2",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "634b8d531f0eb1648bf4a640a1164d11",
+                "type": 2
+            }
+        },
+        {
+            "_key": "MapFinal_1",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "0dd8047f771ab0a429345473777d2269",
+                "type": 2
+            }
+        },
+        {
+            "_key": "MapFinal_2",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "634b8d531f0eb1648bf4a640a1164d11",
+                "type": 2
+            }
+        },
+        {
+            "_key": "MapFinalBeforeAfter_1",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "0dd8047f771ab0a429345473777d2269",
+                "type": 2
+            }
+        },
+        {
+            "_key": "MapFinalBeforeAfter_2",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "634b8d531f0eb1648bf4a640a1164d11",
+                "type": 2
+            }
+        }
+    ],
+    "Entities": [
+        {
+            "_key": "Player",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "TelePort",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "MovingPlatform",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "NPC",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "SmallBox",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "BigBox",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "HiddenBox",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "AreaMap",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "AbilityUpgrade",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "Save",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "HP_MP_restore",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "Enemy",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "FlyEnemy",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "Boss",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "BossDoor",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "ArenaDoor",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "AbilityDoor",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "AbilityDoor_Attack",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "MeMo",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "AttackDoor_SecretDoor",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "OneWay",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "DeadZone",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "CantGoThrow",
+            "_asset": {
+                "instanceID": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,3136 @@
+fileFormatVersion: 2
+guid: 193e384cf158f6a44a29e7dbabcdbb06
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: Alch_Tileset_2_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 0c2b038edafbfae45a989c2d79c15637
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 4dc2b21245572774bb891fe2a18d8787
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 8745998513e6a864caf4d3a4d56f1543
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 240
+      width: 16
+      height: 16
+    spriteID: c559cb6db3aea004eb6eecd89a95b021
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 240
+      width: 16
+      height: 16
+    spriteID: eed697ca9bdc050438c473913bc7e033
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 240
+      width: 16
+      height: 16
+    spriteID: a8ef054f0578db4418306866df31ae83
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 5dbfc4c824945be498413266613f1ad2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 240
+      width: 16
+      height: 16
+    spriteID: f912c48e150f52e4fbfe5da56e3a388d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 240
+      width: 16
+      height: 16
+    spriteID: a9ae06d449a33994c88364f73a5af38a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 240
+      width: 16
+      height: 16
+    spriteID: c4f247a3d397d3c40848fa594a6ab58e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 240
+      width: 16
+      height: 16
+    spriteID: cf4443e0ce64c004dbb5bc9e01f87932
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 97c3f18530b9e8c4fb9089475ac8f841
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 0f4506112d8d9a4409acc0281bd73fca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 2edf931cf0c7f8449b29cd81e98d4c56
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 1a21aa93c04a6444592de5ce443b8fa4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 28a5b53fa2271d84592e97a84eb629bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 9180002d7f10d4440a6af11da01fd1c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 94ca8d67428c0284b92476c4a5aaf9ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 224
+      width: 16
+      height: 16
+    spriteID: f93c3729f77618c41b96994e0c541d49
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 229d27e9b19377e44aba7dc0009afb3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 275cc79beda1ca849b1b484cbc660b3c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 224
+      width: 16
+      height: 16
+    spriteID: bb124f647e1a1ad44bb97bedfb4067c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 960068c524749254e89c2c06ca5f5ba7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 396bdc25208518f44b6f7736f4197fad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 224
+      width: 16
+      height: 16
+    spriteID: cde8694e88e2c2b4cb254da2b7badbe7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 224
+      width: 16
+      height: 16
+    spriteID: b917daa5f5badd14d83a7aef7c8ff7f4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 208
+      width: 16
+      height: 16
+    spriteID: d71796496b2a39a4d900b12c3414cb04
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 26e815c9aa979a6459311102f44fc928
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 208
+      width: 16
+      height: 16
+    spriteID: c41b14724ec8de443b515fdae982ee5e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 208
+      width: 16
+      height: 16
+    spriteID: f11f8b80f42f2a441bf73b562a788b09
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 208
+      width: 16
+      height: 16
+    spriteID: f450c1f3d9f51b9439813005fb71e605
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 62529adf8d30d6e42aa7df6455b17ee5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 79b56baaa31575443a0ecead5ad91d3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 7b36277f2d878eb438311d1ab76dfa85
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 6e293de40252050498a2ec252fa27d5e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 80ac9081e5f282a41aa6a0dba0a45832
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 508855deeea5c95469e2ff6628b8470f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 208
+      width: 16
+      height: 16
+    spriteID: af0253cd14709e14faa2ddaf5a68eaa5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 064f3f4f914967f4fa927422fe1d85f9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 61eccbaddea07834491cbef73211f645
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 01c71de4838047c49aeece9466e1ed81
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 38d4238bac3cd7a419bb8a28d7458675
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 69fe3b445bdf47a44b4e6e9677e92d01
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 16
+      height: 16
+    spriteID: fad0cde48dee3ee4eb6ac8f8a491399b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 2dd95cb50720d064d865687920d5320b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 16
+      height: 16
+    spriteID: b6d626d9aa0d853409081097ec3a8f3c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 192
+      width: 16
+      height: 16
+    spriteID: eb3da1af834fc2245aadb42695f12a56
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 192
+      width: 16
+      height: 16
+    spriteID: f5ec95a60e0e58c46a391d1abce189e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 192
+      width: 16
+      height: 16
+    spriteID: de8b688e3cc4c2d43840f049210788f4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 51e8ae7662518cf44a0104b03c516d7c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 192
+      width: 16
+      height: 16
+    spriteID: eed5d20275300734c823f00c902d27cf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 192
+      width: 16
+      height: 16
+    spriteID: bc0358f87d6d4234ea67fd4197044a6b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 2b0a6af9e9f50234bafee0933793f763
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 176
+      width: 16
+      height: 16
+    spriteID: e7e3fb2c29cd0fd42ba947fa117bc8a9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 8005ddb8b55f4ec449c2880ebb671b09
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 3e83702dbc97ad54ab298760588beb98
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 176
+      width: 16
+      height: 16
+    spriteID: de0a2bae1ee33394693fe4f7fc53e5d4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 5d332c183b29a854b81f234026648b16
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 90154b92b4545ed44b55be0d3c3b270f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 176
+      width: 16
+      height: 16
+    spriteID: cb0576a7fd2765c44a4ee36c57ba4ecb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 12a21079b59a08a47a63b8c3650a376a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 176
+      width: 16
+      height: 16
+    spriteID: fc938962b51d484448d9ea133c4e9c03
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 807c4e7bb123e074ca446a6d6a833885
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 3db14d1f17731324cb03c0d7fd6f99fc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 650a2f748515c644ea5058190a8168a5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 8046e4bd3b752e843b35e02ddf2b4d3a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 07a6cdf394b67414c9d0dd7a3057e42c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 16
+      height: 16
+    spriteID: e6b79278d832b04439c696b2d3452ecb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 160
+      width: 16
+      height: 16
+    spriteID: e0205f993487791488cabcb06f2f840b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 2a03e336cab993e4389f4f1633f0be12
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 160
+      width: 16
+      height: 16
+    spriteID: c66ddfcc403a3fe44be1ec88c5faa6ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 214a92ea201af6a45a139337411cc6ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 160
+      width: 16
+      height: 16
+    spriteID: d8c8ffe802ae5624b997333ea3d96b6b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 254ec2b286cdfeb479abcf1f2230f718
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 2ba56e97a455c664e898c3f1e3f464bf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 9b6c3d4222764d44085eb5ff2481b909
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 0d3e52f8b03c2ff469b8e06e855ee746
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 34649d05659ccd3459993b10d1ceab3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 2d755d5d71bb1e84895b9a384c0863cb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 144
+      width: 16
+      height: 16
+    spriteID: c0873234ae18f0d4dadfd2b0e060ae91
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 144
+      width: 16
+      height: 16
+    spriteID: a02dcad2261254d4b9d928b5a5c23aba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 6e33eb323dba4d542b9bac4d9379971d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 144
+      width: 16
+      height: 16
+    spriteID: f4d7636d1a07f7b418b33c7bf9c4cdb7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 7654478a78c420d4993b1e9994d18c78
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 144
+      width: 16
+      height: 16
+    spriteID: ec5164c497db60f4c8318592001f9d27
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 15612c784cb1fb34199cff256706618d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 144
+      width: 16
+      height: 16
+    spriteID: b36e2111ac3d76046bf4d31e70c67d20
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 144
+      width: 16
+      height: 16
+    spriteID: b48699bf9bf1c0541b1573f5149c6621
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 8b168a3d0862bc046b0ab47d29aa2bba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 40275c8697d862b4aa9afa1a4ce5ed81
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 144
+      width: 16
+      height: 16
+    spriteID: d5981ea63240c244ba8ec8fd45464afb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 233ae075f7841224491ee771be54a87b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 128
+      width: 16
+      height: 16
+    spriteID: e3a7b1ce88f505241aa94537e4c3d6b7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 50f30ef74b1d21c4db81d2acc7d25c99
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 9398b759bb50c0648859833394e4e900
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 7038daa6401cd7343a322d7ff4c309c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 128
+      width: 16
+      height: 16
+    spriteID: e8ef909d16133564d9135c2c55098002
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 4de4a9f4bcc487a4b8ce290499490166
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 128
+      width: 16
+      height: 16
+    spriteID: e4690e39480aa664db75ec1115eedb08
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 128
+      width: 16
+      height: 16
+    spriteID: edfd7e50a04aad64cb9feab06f34a934
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 128
+      width: 16
+      height: 16
+    spriteID: d01612b106c99f24496324837c82d882
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 128
+      width: 16
+      height: 16
+    spriteID: b4293fbf92f8fa04b93f67149b80fe43
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 51063bb444eac2540aaeed532064ac7a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 9778aee3957eca54b9608a4cceede2c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 324dfe84c9d4bbe49acf5342916668a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 112
+      width: 16
+      height: 16
+    spriteID: b6eef34d45f8d33439a9d7e572e9511c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 7a98b08171ada0141b527b469be1f6d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 112
+      width: 16
+      height: 16
+    spriteID: ee83c1b96c1e6b04f8aae3fc7e2fc980
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 112
+      width: 16
+      height: 16
+    spriteID: c430c8d7fc552b0468e273f72fb911a2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 112
+      width: 16
+      height: 16
+    spriteID: ea0d866c9572e2f4c90af1ccddbe23f8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 112
+      width: 16
+      height: 16
+    spriteID: ee0fe7e822fc5254099c471177e08c05
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 23591ff498395ac419dd1ddd9ef5ac48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 31fe2009daa2b274dae4c504e4bfa590
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 39dcf5b7b3485df4983fd8b06cdc4d32
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 112
+      width: 16
+      height: 16
+    spriteID: c0260833e1c08f04690880b8d69863f3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 538418af06a924240937457d7caeae2e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 112
+      width: 16
+      height: 16
+    spriteID: b9edf999240202946a5c2745234058b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 16
+      height: 16
+    spriteID: e25dfddff86183648ad479e7fedba288
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 16
+      height: 16
+    spriteID: e86398b607bd2a845b20b745f1e5834f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 16
+      height: 16
+    spriteID: e6fcf3ce4ec63f545a01fb430a76075d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 2609c34a1b3e66442b40cf7319e818ad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 16
+      height: 16
+    spriteID: ec51771eb2275ff448f077fc51801986
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 16
+      height: 16
+    spriteID: a1a3e72afffbdb645b8ac22ab19fbc89
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 16
+      height: 16
+    spriteID: ccc9259835be43e4697ce9a049f0bde6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 6946c148907c4e6489de416ca3bbf856
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 3abe26ef8deae0f45b7317aaf1a1d324
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 91f6c96dd77e73c4285daf7f983e1a48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 20cd0c713dd7e1a41b2391759c1c409d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 8bfc4c63819fa7449aa7591e800dc612
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 337c9a4b6afd81b4bae736608b6c0db9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 84f3bd7c4a5b2024a8defaa0afe4e2a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 9b69ec5faf2e1db4798a3c6c0a71b3e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 9808df60b023fca458f1827bb0651d86
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 16
+      height: 16
+    spriteID: a38cc7abf47cc8945b6ec8955497c5d9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 6714b32ce5f41ee4388a3047979d4c94
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 2595201f7528b504ab0793d4352b34fe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 4278bd39f8b0baa45a4828ec575eca9c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 76bd38f332269684f904f02dcd520493
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 5a160e8f450702740bbd9ce4b5a0e9cd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c4698bc4a5e51e044994cd7f46f04d83
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 80
+      width: 16
+      height: 16
+    spriteID: e09d132f7f3502a458a61e64b8cfa275
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 80
+      width: 16
+      height: 16
+    spriteID: aefe31d3322849c40b34d0d4da3b5349
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c854d8c38343df54badbc8eb973bb2ce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: cf9a9859d7b8e484b994ab20bb10d05a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 80d889386ee64fc4ebdd0e2eaf54fb2c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4eb0f58538c1ee74f81d250c9bf385a1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: d9a8043766b21ce49aa073a0d483a535
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: f66a61fd2fe97d94a9f8cacb1769500e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 813c1c0e3bc7c1245bb9cde8998a7aa6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 16
+      height: 16
+    spriteID: c10d8a62f2f62fa419a87e4d2c8a00f3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4c37fbaf141f2e543835c7e8a43dd21c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 16
+      height: 16
+    spriteID: b2de8627688b7d3458d27069be7b68fa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 64
+      width: 16
+      height: 16
+    spriteID: dc754df365d09d541a5c3f85d9e76615
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 64
+      width: 16
+      height: 16
+    spriteID: b6c73f454bb22414db2c061781a0f702
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 1f0ace83f173f44438e5852afbe85b37
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 9b51a3ed8a824fb4e913dbd0ca7653b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 98bc063e34a7e8644bf4eee694cb9b50
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 6363cad18920c17479d3e4d957b2985b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 4bf7705ebf8f8e34a9d2356c6cf17f44
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 682060567688f544d8b383f45df007e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 356703d9082e57f48974ae0500f4e7e0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 6afa2c12fd028764586c708ee82cafc1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 45fb353201ced95499ca7e14de3c8367
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 2fa983337b2290f48841dbf362bc5b4e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 9507001206da3884c9dec04a18958355
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 48
+      width: 16
+      height: 16
+    spriteID: b84cefbb538d0e24c9e2d6bdebf88e06
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 12d349eff0c943045bac7c2ee025192b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 500c329dc057a0f42911d45648bc9db0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 21324208759805d4780cab8d64d0d7ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 1a517ff687a41e947a3f413d25e11b48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 554c4322d14bdda428c6ec82abb41a58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: ff33e964d05fdc147bba4477629b1e67
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 30aad466c384fc145a9c91f74a14364c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 4c722538cba2b45418c11292b5d26ced
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: ea838458fc01f0e4db6b150d2b5d0425
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 05129ee470b78a74fa33214757539890
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 5257f42e939e5bc4ebbb6e3cf9e3d368
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 89166e3a18a62dc418ba90bb9130d502
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 630a809f21f1fde4da85ef066dee6d98
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 16
+      height: 16
+    spriteID: b3b82f9a31373b1459a4195d15e1376b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 1e400ae36ea02b247bd3d0b3fa8f13bc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 9dae143bf1e97cf45a1ea5b492d1674e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: b3df8bf52b12cd54f981d5d0095994b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: a8531211a9912134d9db556978f28165
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 0629f46a1e9165c428cc32efe20cb15b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 43db76211f4e34549aef3bc9190e6cb5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 1de59d15c01ea3845928f2d65711ea4e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ae402dca2224b2b4b80dc6afc988fd0a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 8bfe9ca8b9846024ea08a4024dba8c1c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 16
+      width: 16
+      height: 16
+    spriteID: cf801062e0c74b448b3e766956836731
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 63f47e30cf851bd4592328b52ed7c98f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 60324644b823850498895631f35a86e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 16
+      width: 16
+      height: 16
+    spriteID: c8de9926a0fa7cc49b154bafdef54f61
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 16
+      width: 16
+      height: 16
+    spriteID: fc27ab34ac9dd9042adf8bb30576b1c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 1c30d539bb490b5469f68e26c83ac006
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 7d540451b3874c741beb12707cf9fc3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 5270b7b56b0c91146888f161e21cb2fd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: b5b0c88a64cad5e4bbf86f99cfb68250
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: bd192728e3bd2d847a3e23248e940ebe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 2af45db926cccd24cb5938cc63d3c5ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 805a4b5864c80c5468b52c830091b9ba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 16
+    spriteID: b9e2b6eeef55b6f44b1521962d929e13
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 16
+    spriteID: f1421d70261972c4e816c99f8323e016
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e25e7ac7665a3814a862a62d7dc1aa88
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 87c75e11b8f13ee468e383659e76649e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 16
+    spriteID: ac8572624d692cc4e8a89bbdaef0a055
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 003177cc59603f445a490d0e028fc747
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Alch_Tileset_2_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 928518671caf6394982aace63fa320ea
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}

@@ -1,0 +1,2494 @@
+fileFormatVersion: 2
+guid: 1f81dfdc063554c49aac6ecc98c4a320
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8697318258823633537
+    second: Castle Of Bones Tileset_0
+  - first:
+      213: -511308427969494372
+    second: Castle Of Bones Tileset_1
+  - first:
+      213: -8767343145594714800
+    second: Castle Of Bones Tileset_2
+  - first:
+      213: 8671754101958359956
+    second: Castle Of Bones Tileset_3
+  - first:
+      213: -3211758524266178006
+    second: Castle Of Bones Tileset_4
+  - first:
+      213: 4534806566344807350
+    second: Castle Of Bones Tileset_5
+  - first:
+      213: 4833895922083611596
+    second: Castle Of Bones Tileset_6
+  - first:
+      213: -8091702416806808328
+    second: Castle Of Bones Tileset_7
+  - first:
+      213: -4777533219641538225
+    second: Castle Of Bones Tileset_8
+  - first:
+      213: 8159388446028983330
+    second: Castle Of Bones Tileset_9
+  - first:
+      213: 5529730411172342026
+    second: Castle Of Bones Tileset_10
+  - first:
+      213: 4489701121691872594
+    second: Castle Of Bones Tileset_11
+  - first:
+      213: 6015039887123909640
+    second: Castle Of Bones Tileset_12
+  - first:
+      213: -61572389311552208
+    second: Castle Of Bones Tileset_13
+  - first:
+      213: -368371594412924422
+    second: Castle Of Bones Tileset_14
+  - first:
+      213: -8350511798146555141
+    second: Castle Of Bones Tileset_15
+  - first:
+      213: -53119836861195959
+    second: Castle Of Bones Tileset_16
+  - first:
+      213: 5107950618067993290
+    second: Castle Of Bones Tileset_17
+  - first:
+      213: -8049718449641430694
+    second: Castle Of Bones Tileset_18
+  - first:
+      213: -1392194837511369462
+    second: Castle Of Bones Tileset_19
+  - first:
+      213: 9039944163361085063
+    second: Castle Of Bones Tileset_20
+  - first:
+      213: -7922358960244968947
+    second: Castle Of Bones Tileset_21
+  - first:
+      213: -2073378591296463977
+    second: Castle Of Bones Tileset_22
+  - first:
+      213: -1095483748679429917
+    second: Castle Of Bones Tileset_23
+  - first:
+      213: -5929118658236909565
+    second: Castle Of Bones Tileset_24
+  - first:
+      213: 1012812816202048268
+    second: Castle Of Bones Tileset_25
+  - first:
+      213: 1379076571237619727
+    second: Castle Of Bones Tileset_26
+  - first:
+      213: -1162209092024758278
+    second: Castle Of Bones Tileset_27
+  - first:
+      213: 7791418457385532398
+    second: Castle Of Bones Tileset_28
+  - first:
+      213: 3527312014177823759
+    second: Castle Of Bones Tileset_29
+  - first:
+      213: -8094857548901630461
+    second: Castle Of Bones Tileset_30
+  - first:
+      213: -9096985152981080696
+    second: Castle Of Bones Tileset_31
+  - first:
+      213: 2443464789336927895
+    second: Castle Of Bones Tileset_32
+  - first:
+      213: -2493742839120382669
+    second: Castle Of Bones Tileset_33
+  - first:
+      213: -6283981336108283624
+    second: Castle Of Bones Tileset_34
+  - first:
+      213: -6843137274213334361
+    second: Castle Of Bones Tileset_35
+  - first:
+      213: -9217799729587401400
+    second: Castle Of Bones Tileset_36
+  - first:
+      213: -9083680730505205318
+    second: Castle Of Bones Tileset_37
+  - first:
+      213: 2718594503490925829
+    second: Castle Of Bones Tileset_38
+  - first:
+      213: -3427144563562387994
+    second: Castle Of Bones Tileset_39
+  - first:
+      213: 8093965393113333466
+    second: Castle Of Bones Tileset_40
+  - first:
+      213: 3365222164603336937
+    second: Castle Of Bones Tileset_41
+  - first:
+      213: 3541624514210618267
+    second: Castle Of Bones Tileset_42
+  - first:
+      213: -5517843228343673480
+    second: Castle Of Bones Tileset_43
+  - first:
+      213: 6620590981318424704
+    second: Castle Of Bones Tileset_44
+  - first:
+      213: -6963874615603561608
+    second: Castle Of Bones Tileset_45
+  - first:
+      213: -2232230288400385129
+    second: Castle Of Bones Tileset_46
+  - first:
+      213: -3231097391704828227
+    second: Castle Of Bones Tileset_47
+  - first:
+      213: -1438135678439038227
+    second: Castle Of Bones Tileset_48
+  - first:
+      213: 2859043215012319285
+    second: Castle Of Bones Tileset_49
+  - first:
+      213: -2014997206742596573
+    second: Castle Of Bones Tileset_50
+  - first:
+      213: -6197566333104882279
+    second: Castle Of Bones Tileset_51
+  - first:
+      213: -6313449576664621457
+    second: Castle Of Bones Tileset_52
+  - first:
+      213: 5960057691748724231
+    second: Castle Of Bones Tileset_53
+  - first:
+      213: -3046957272504644277
+    second: Castle Of Bones Tileset_54
+  - first:
+      213: -1324900152818162554
+    second: Castle Of Bones Tileset_55
+  - first:
+      213: -4453546657413015571
+    second: Castle Of Bones Tileset_56
+  - first:
+      213: -1782256854326283050
+    second: Castle Of Bones Tileset_57
+  - first:
+      213: -1439252400436441156
+    second: Castle Of Bones Tileset_58
+  - first:
+      213: -8182646651562662698
+    second: Castle Of Bones Tileset_59
+  - first:
+      213: -3801185576869426526
+    second: Castle Of Bones Tileset_60
+  - first:
+      213: -6956386513679796883
+    second: Castle Of Bones Tileset_61
+  - first:
+      213: -1687954484389808864
+    second: Castle Of Bones Tileset_62
+  - first:
+      213: -6759943585094911651
+    second: Castle Of Bones Tileset_63
+  - first:
+      213: -504014377503555167
+    second: Castle Of Bones Tileset_64
+  - first:
+      213: 6884125166188953155
+    second: Castle Of Bones Tileset_65
+  - first:
+      213: -2720773113320730583
+    second: Castle Of Bones Tileset_66
+  - first:
+      213: -7002880036510676146
+    second: Castle Of Bones Tileset_67
+  - first:
+      213: -1158401333247113738
+    second: Castle Of Bones Tileset_68
+  - first:
+      213: -530870562407823315
+    second: Castle Of Bones Tileset_69
+  - first:
+      213: -851019850304529492
+    second: Castle Of Bones Tileset_70
+  - first:
+      213: -562734351284502923
+    second: Castle Of Bones Tileset_71
+  - first:
+      213: 2485364533610479344
+    second: Castle Of Bones Tileset_72
+  - first:
+      213: -7083370812294619898
+    second: Castle Of Bones Tileset_73
+  - first:
+      213: 6478424675482355065
+    second: Castle Of Bones Tileset_74
+  - first:
+      213: 153283797526729382
+    second: Castle Of Bones Tileset_75
+  - first:
+      213: -5653268343807264695
+    second: Castle Of Bones Tileset_76
+  - first:
+      213: 7948604142699009971
+    second: Castle Of Bones Tileset_77
+  - first:
+      213: -521558646498028016
+    second: Castle Of Bones Tileset_78
+  - first:
+      213: 8295809400851686520
+    second: Castle Of Bones Tileset_79
+  - first:
+      213: 4280109740176437817
+    second: Castle Of Bones Tileset_80
+  - first:
+      213: 6460217275823345564
+    second: Castle Of Bones Tileset_81
+  - first:
+      213: -5395755829841704477
+    second: Castle Of Bones Tileset_82
+  - first:
+      213: 3888927076638605612
+    second: Castle Of Bones Tileset_83
+  - first:
+      213: -8296805218943683932
+    second: Castle Of Bones Tileset_84
+  - first:
+      213: -2232795271896635813
+    second: Castle Of Bones Tileset_85
+  - first:
+      213: -4252053499992292453
+    second: Castle Of Bones Tileset_86
+  - first:
+      213: 4694156212659903316
+    second: Castle Of Bones Tileset_87
+  - first:
+      213: 2995916023490099615
+    second: Castle Of Bones Tileset_88
+  - first:
+      213: -6670731264356808369
+    second: Castle Of Bones Tileset_89
+  - first:
+      213: -4436475888603440463
+    second: Castle Of Bones Tileset_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 415
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f756c4cbf1bec4780800000000000000
+      internalID: -8697318258823633537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 415
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92073c91b777e8f0800000000000000
+      internalID: -511308427969494372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 415
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0550fd64cd3245680800000000000000
+      internalID: -8767343145594714800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 431
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bb3ca2962485870800000000000000
+      internalID: 8671754101958359956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 431
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a18c883aa8d63d0800000000000000
+      internalID: -3211758524266178006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 402
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b35710bb8edeee30800000000000000
+      internalID: 4534806566344807350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 416
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3c005eab2751340800000000000000
+      internalID: 4833895922083611596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 428
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f47f0a068f74bf80800000000000000
+      internalID: -8091702416806808328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 436
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4943a469dac2bdb0800000000000000
+      internalID: -4777533219641538225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 417
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cebf5bf88fb3170800000000000000
+      internalID: 8159388446028983330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 428
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a092a9dd28c8dbc40800000000000000
+      internalID: 5529730411172342026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 419
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ded1af16f9e4e30800000000000000
+      internalID: 4489701121691872594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 415
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c83d588e6b97350800000000000000
+      internalID: 6015039887123909640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 415
+        width: 88
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035ec17fc30452ff0800000000000000
+      internalID: -61572389311552208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 415
+        width: 51
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af16ca19cf743eaf0800000000000000
+      internalID: -368371594412924422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 415
+        width: 130
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf224c233c50d1c80800000000000000
+      internalID: -8350511798146555141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 367
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9499c513ac7434ff0800000000000000
+      internalID: -53119836861195959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 398
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac20e28260613e640800000000000000
+      internalID: 5107950618067993290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 383
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51e63328b7a94090800000000000000
+      internalID: -8049718449641430694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 383
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d8004eb2eedace0800000000000000
+      internalID: -1392194837511369462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 383
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786d0862255547d70800000000000000
+      internalID: 9039944163361085063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 383
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02377700802e0290800000000000000
+      internalID: -7922358960244968947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 399
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bdfdc0821e933e0800000000000000
+      internalID: -2073378591296463977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 399
+        width: 51
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0dfbea55f0cc0f0800000000000000
+      internalID: -1095483748679429917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 286
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308f5a08ef987bda0800000000000000
+      internalID: -5929118658236909565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 385
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03afa5e3eb3e0e00800000000000000
+      internalID: 1012812816202048268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 335
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f089eaab5d6732310800000000000000
+      internalID: 1379076571237619727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 383
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff822b0df00fdfe0800000000000000
+      internalID: -1162209092024758278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 383
+        width: 92
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebf2e86ecda02c60800000000000000
+      internalID: 7791418457385532398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 383
+        width: 56
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c6901a69783f030800000000000000
+      internalID: 3527312014177823759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 351
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e345a92f949af80800000000000000
+      internalID: -8094857548901630461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8856f85833401c180800000000000000
+      internalID: -9096985152981080696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 303
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e2a95a74ee8e120800000000000000
+      internalID: 2443464789336927895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 303
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3353e09a912746dd0800000000000000
+      internalID: -2493742839120382669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 303
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819c41ec440dac8a0800000000000000
+      internalID: -6283981336108283624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 287
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a28745d7ea4801a0800000000000000
+      internalID: -6843137274213334361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 287
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d4043ebfbc31080800000000000000
+      internalID: -9217799729587401400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 335
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab92d25c08840f180800000000000000
+      internalID: -9083680730505205318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505f7e41c436ab520800000000000000
+      internalID: 2718594503490925829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 303
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5e3fe5d265070d0800000000000000
+      internalID: -3427144563562387994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 272
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade33d034aa835070800000000000000
+      internalID: 8093965393113333466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 287
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8f37f9abba3be20800000000000000
+      internalID: 3365222164603336937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 271
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bd6593bb0662130800000000000000
+      internalID: 3541624514210618267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 303
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dd74091deac63b0800000000000000
+      internalID: -5517843228343673480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088b3ac8b6011eb50800000000000000
+      internalID: 6620590981318424704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 260
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bf69ceee85b5f90800000000000000
+      internalID: -6963874615603561608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 260
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bf60b21668501e0800000000000000
+      internalID: -2232230288400385129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 271
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db61eb49a06d823d0800000000000000
+      internalID: -3231097391704828227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 223
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de263d35837ba0ce0800000000000000
+      internalID: -1438135678439038227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 223
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530dc4cf7ac5da720800000000000000
+      internalID: 2859043215012319285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 223
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32404b467ba4904e0800000000000000
+      internalID: -2014997206742596573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 208
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dfc539142ddf9a0800000000000000
+      internalID: -6197566333104882279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 223
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e90936f0f1268a0800000000000000
+      internalID: -6313449576664621457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 223
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e648594e066b250800000000000000
+      internalID: 5960057691748724231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 239
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d419e018807b5d0800000000000000
+      internalID: -3046957272504644277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 223
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684a964a4520d9de0800000000000000
+      internalID: -1324900152818162554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 207
+        width: 118
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7d44639e2d132c0800000000000000
+      internalID: -4453546657413015571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4706375d62447e0800000000000000
+      internalID: -1782256854326283050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf8bd9319fb60ce0800000000000000
+      internalID: -1439252400436441156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 179
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d461135936617e80800000000000000
+      internalID: -8182646651562662698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 191
+        width: 107
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa0c5d7bd97f3bc0800000000000000
+      internalID: -3801185576869426526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 127
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d653cc38253f57f90800000000000000
+      internalID: -6956386513679796883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 127
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025fae0f65e2398e0800000000000000
+      internalID: -1687954484389808864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59bcb4002bdf22a0800000000000000
+      internalID: -6759943585094911651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1063318916109f0800000000000000
+      internalID: -504014377503555167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 74
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ef4007d53598f50800000000000000
+      internalID: 6884125166188953155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 147
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920951ac44fdd3ad0800000000000000
+      internalID: -2720773113320730583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 159
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b4b1ba5b5c0de90800000000000000
+      internalID: -7002880036510676146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 159
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f58778ff188cefe0800000000000000
+      internalID: -1158401333247113738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 159
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2848f14908f1a8f0800000000000000
+      internalID: -530870562407823315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 69
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabdacd74f19034f0800000000000000
+      internalID: -851019850304529492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 83
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ef6c8c614c038f0800000000000000
+      internalID: -562734351284502923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 64
+        width: 9
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fef43310e9cd7220800000000000000
+      internalID: 2485364533610479344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 75
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d1fc886cfc2bd90800000000000000
+      internalID: -7083370812294619898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 52
+        width: 7
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975404e0becf7e950800000000000000
+      internalID: 6478424675482355065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 83
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2576d3dc2902200800000000000000
+      internalID: 153283797526729382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 84
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9483863c46e8b81b0800000000000000
+      internalID: -5653268343807264695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 89
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7d5c1ba5d1f4e60800000000000000
+      internalID: 7948604142699009971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 90
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01693f1ac2d03c8f0800000000000000
+      internalID: -521558646498028016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 69
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8746c1e62b2a02370800000000000000
+      internalID: 8295809400851686520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 83
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932f7e6b121066b30800000000000000
+      internalID: 4280109740176437817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 64
+        width: 9
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fca49726d47a950800000000000000
+      internalID: 6460217275823345564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 92
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9ca8329ac6e15b0800000000000000
+      internalID: -5395755829841704477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 52
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c214170629e38f530800000000000000
+      internalID: 3888927076638605612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 83
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2314a9c93dbdc80800000000000000
+      internalID: -8296805218943683932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 90
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56ed62b7848301e0800000000000000
+      internalID: -2232795271896635813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 117
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93c00fbedbadf4c0800000000000000
+      internalID: -4252053499992292453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 117
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b59c7643ef42140800000000000000
+      internalID: 4694156212659903316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99370510c1a39920800000000000000
+      internalID: 2995916023490099615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f498be3124dcc63a0800000000000000
+      internalID: -6670731264356808369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Of Bones Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bad43d4fa87e62c0800000000000000
+      internalID: -4436475888603440463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Castle Of Bones Tileset_0: -8697318258823633537
+      Castle Of Bones Tileset_1: -511308427969494372
+      Castle Of Bones Tileset_10: 5529730411172342026
+      Castle Of Bones Tileset_11: 4489701121691872594
+      Castle Of Bones Tileset_12: 6015039887123909640
+      Castle Of Bones Tileset_13: -61572389311552208
+      Castle Of Bones Tileset_14: -368371594412924422
+      Castle Of Bones Tileset_15: -8350511798146555141
+      Castle Of Bones Tileset_16: -53119836861195959
+      Castle Of Bones Tileset_17: 5107950618067993290
+      Castle Of Bones Tileset_18: -8049718449641430694
+      Castle Of Bones Tileset_19: -1392194837511369462
+      Castle Of Bones Tileset_2: -8767343145594714800
+      Castle Of Bones Tileset_20: 9039944163361085063
+      Castle Of Bones Tileset_21: -7922358960244968947
+      Castle Of Bones Tileset_22: -2073378591296463977
+      Castle Of Bones Tileset_23: -1095483748679429917
+      Castle Of Bones Tileset_24: -5929118658236909565
+      Castle Of Bones Tileset_25: 1012812816202048268
+      Castle Of Bones Tileset_26: 1379076571237619727
+      Castle Of Bones Tileset_27: -1162209092024758278
+      Castle Of Bones Tileset_28: 7791418457385532398
+      Castle Of Bones Tileset_29: 3527312014177823759
+      Castle Of Bones Tileset_3: 8671754101958359956
+      Castle Of Bones Tileset_30: -8094857548901630461
+      Castle Of Bones Tileset_31: -9096985152981080696
+      Castle Of Bones Tileset_32: 2443464789336927895
+      Castle Of Bones Tileset_33: -2493742839120382669
+      Castle Of Bones Tileset_34: -6283981336108283624
+      Castle Of Bones Tileset_35: -6843137274213334361
+      Castle Of Bones Tileset_36: -9217799729587401400
+      Castle Of Bones Tileset_37: -9083680730505205318
+      Castle Of Bones Tileset_38: 2718594503490925829
+      Castle Of Bones Tileset_39: -3427144563562387994
+      Castle Of Bones Tileset_4: -3211758524266178006
+      Castle Of Bones Tileset_40: 8093965393113333466
+      Castle Of Bones Tileset_41: 3365222164603336937
+      Castle Of Bones Tileset_42: 3541624514210618267
+      Castle Of Bones Tileset_43: -5517843228343673480
+      Castle Of Bones Tileset_44: 6620590981318424704
+      Castle Of Bones Tileset_45: -6963874615603561608
+      Castle Of Bones Tileset_46: -2232230288400385129
+      Castle Of Bones Tileset_47: -3231097391704828227
+      Castle Of Bones Tileset_48: -1438135678439038227
+      Castle Of Bones Tileset_49: 2859043215012319285
+      Castle Of Bones Tileset_5: 4534806566344807350
+      Castle Of Bones Tileset_50: -2014997206742596573
+      Castle Of Bones Tileset_51: -6197566333104882279
+      Castle Of Bones Tileset_52: -6313449576664621457
+      Castle Of Bones Tileset_53: 5960057691748724231
+      Castle Of Bones Tileset_54: -3046957272504644277
+      Castle Of Bones Tileset_55: -1324900152818162554
+      Castle Of Bones Tileset_56: -4453546657413015571
+      Castle Of Bones Tileset_57: -1782256854326283050
+      Castle Of Bones Tileset_58: -1439252400436441156
+      Castle Of Bones Tileset_59: -8182646651562662698
+      Castle Of Bones Tileset_6: 4833895922083611596
+      Castle Of Bones Tileset_60: -3801185576869426526
+      Castle Of Bones Tileset_61: -6956386513679796883
+      Castle Of Bones Tileset_62: -1687954484389808864
+      Castle Of Bones Tileset_63: -6759943585094911651
+      Castle Of Bones Tileset_64: -504014377503555167
+      Castle Of Bones Tileset_65: 6884125166188953155
+      Castle Of Bones Tileset_66: -2720773113320730583
+      Castle Of Bones Tileset_67: -7002880036510676146
+      Castle Of Bones Tileset_68: -1158401333247113738
+      Castle Of Bones Tileset_69: -530870562407823315
+      Castle Of Bones Tileset_7: -8091702416806808328
+      Castle Of Bones Tileset_70: -851019850304529492
+      Castle Of Bones Tileset_71: -562734351284502923
+      Castle Of Bones Tileset_72: 2485364533610479344
+      Castle Of Bones Tileset_73: -7083370812294619898
+      Castle Of Bones Tileset_74: 6478424675482355065
+      Castle Of Bones Tileset_75: 153283797526729382
+      Castle Of Bones Tileset_76: -5653268343807264695
+      Castle Of Bones Tileset_77: 7948604142699009971
+      Castle Of Bones Tileset_78: -521558646498028016
+      Castle Of Bones Tileset_79: 8295809400851686520
+      Castle Of Bones Tileset_8: -4777533219641538225
+      Castle Of Bones Tileset_80: 4280109740176437817
+      Castle Of Bones Tileset_81: 6460217275823345564
+      Castle Of Bones Tileset_82: -5395755829841704477
+      Castle Of Bones Tileset_83: 3888927076638605612
+      Castle Of Bones Tileset_84: -8296805218943683932
+      Castle Of Bones Tileset_85: -2232795271896635813
+      Castle Of Bones Tileset_86: -4252053499992292453
+      Castle Of Bones Tileset_87: 4694156212659903316
+      Castle Of Bones Tileset_88: 2995916023490099615
+      Castle Of Bones Tileset_89: -6670731264356808369
+      Castle Of Bones Tileset_9: 8159388446028983330
+      Castle Of Bones Tileset_90: -4436475888603440463
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

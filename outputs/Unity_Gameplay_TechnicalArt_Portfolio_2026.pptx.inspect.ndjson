@@ -1,0 +1,504 @@
+{"kind":"deck","id":"pr/j19907","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/2x4nap4r","slide":1,"title":"PORTFOLIO DECK / 2026","textShapes":12}
+{"kind":"shape","id":"sh/nap4r65w","slide":1,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/cvixczed","slide":1,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":1,"text":"PORTFOLIO DECK / 2026","textPreview":"PORTFOLIO DECK / 2026","textChars":21,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"shape","id":"sh/udg7adsj","slide":1,"bbox":[72,70,248,34]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":1,"text":"Unity · Gameplay · Technical Art","textPreview":"Unity · Gameplay · Technical Art","textChars":32,"textLines":1,"bbox":[72,77,248,22]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":1,"text":"게임 시스템과\n테크니컬 아트 포트폴리오","textPreview":"게임 시스템과 | 테크니컬 아트 포트폴리오","textChars":21,"textLines":2,"bbox":[72,150,760,150]}
+{"kind":"textbox","id":"sh/54zidony","slide":1,"text":"전투와 AI부터 셰이더·절차적 애니메이션까지 직접 실험하고, 이를 플레이 가능한 게임 구조로 연결해 온 개발 과정","textPreview":"전투와 AI부터 셰이더·절차적 애니메이션까지 직접 실험하고, 이를 플레이 가능한 게임 구조로 연결해 온 개발 과정","textChars":63,"textLines":1,"bbox":[76,326,760,90]}
+{"kind":"shape","id":"sh/u9knih4b","slide":1,"bbox":[870,92,300,420]}
+{"kind":"textbox","id":"sh/judg7ads","slide":1,"text":"Developer Snapshot","textPreview":"Developer Snapshot","textChars":18,"textLines":1,"bbox":[902,126,240,30]}
+{"kind":"shape","id":"sh/nyd0z610","slide":1,"bbox":[904,188,8,8]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":1,"text":"Unity / C# Gameplay","textPreview":"Unity / C# Gameplay","textChars":19,"textLines":1,"bbox":[924,180,206,52]}
+{"kind":"shape","id":"sh/54zidony","slide":1,"bbox":[904,240,8,8]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":1,"text":"2D Action & Boss Design","textPreview":"2D Action & Boss Design","textChars":23,"textLines":1,"bbox":[924,232,206,52]}
+{"kind":"shape","id":"sh/nap4r65w","slide":1,"bbox":[904,292,8,8]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":1,"text":"Enemy AI / Game Flow","textPreview":"Enemy AI / Game Flow","textChars":20,"textLines":1,"bbox":[924,284,206,52]}
+{"kind":"shape","id":"sh/5gbq1ory","slide":1,"bbox":[904,344,8,8]}
+{"kind":"textbox","id":"sh/cvixczed","slide":1,"text":"URP · Shader Graph · HLSL","textPreview":"URP · Shader Graph · HLSL","textChars":25,"textLines":1,"bbox":[924,336,206,52]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":1,"bbox":[904,396,8,8]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":1,"text":"Blender · GPU Instancing","textPreview":"Blender · GPU Instancing","textChars":24,"textLines":1,"bbox":[924,388,206,52]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":1,"text":"대표작: 2D Boss Rush","textPreview":"대표작: 2D Boss Rush","textChars":17,"textLines":1,"bbox":[902,548,240,28]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":1,"text":"지원 직무: Unity / Gameplay Programmer","textPreview":"지원 직무: Unity / Gameplay Programmer","textChars":34,"textLines":1,"bbox":[902,580,260,28]}
+{"kind":"notes","id":"nt/2x4nap4r","slide":1,"text":""}
+{"kind":"slide","id":"sl/pg3ex0nu","slide":2,"title":"UNITY DEVELOPER PORTFOLIO","textShapes":16}
+{"kind":"shape","id":"sh/yxobm58z","slide":2,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":2,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":2,"text":"UNITY DEVELOPER PORTFOLIO","textPreview":"UNITY DEVELOPER PORTFOLIO","textChars":25,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":2,"text":"개발자 포지셔닝","textPreview":"개발자 포지셔닝","textChars":8,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":2,"text":"게임플레이 시스템과 시각 기술을 연결하여 조작감과 화면의 설득력을 함께 높입니다.","textPreview":"게임플레이 시스템과 시각 기술을 연결하여 조작감과 화면의 설득력을 함께 높입니다.","textChars":45,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/9cvixcze","slide":2,"bbox":[72,178,330,310]}
+{"kind":"shape","id":"sh/gr2p8nqx","slide":2,"bbox":[474,178,330,310]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":2,"bbox":[876,178,330,310]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":2,"text":"Gameplay","textPreview":"Gameplay","textChars":8,"textLines":1,"bbox":[104,210,250,30]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":2,"bbox":[106,278,8,8]}
+{"kind":"textbox","id":"sh/lwval87e","slide":2,"text":"플레이어 전투","textPreview":"플레이어 전투","textChars":7,"textLines":1,"bbox":[126,270,230,58]}
+{"kind":"shape","id":"sh/e9cvixcz","slide":2,"bbox":[106,336,8,8]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":2,"text":"적 AI와 보스","textPreview":"적 AI와 보스","textChars":8,"textLines":1,"bbox":[126,328,230,58]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":2,"bbox":[106,394,8,8]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":2,"text":"게임 진행 흐름","textPreview":"게임 진행 흐름","textChars":8,"textLines":1,"bbox":[126,386,230,58]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":2,"text":"Technical Art","textPreview":"Technical Art","textChars":13,"textLines":1,"bbox":[506,210,250,30]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":2,"bbox":[508,278,8,8]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":2,"text":"URP / HLSL","textPreview":"URP / HLSL","textChars":10,"textLines":1,"bbox":[528,270,230,58]}
+{"kind":"shape","id":"sh/lkjm1cfa","slide":2,"bbox":[508,336,8,8]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":2,"text":"툰·픽셀 렌더링","textPreview":"툰·픽셀 렌더링","textChars":8,"textLines":1,"bbox":[528,328,230,58]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":2,"bbox":[508,394,8,8]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":2,"text":"잔디·Foliage","textPreview":"잔디·Foliage","textChars":10,"textLines":1,"bbox":[528,386,230,58]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":2,"text":"Production","textPreview":"Production","textChars":10,"textLines":1,"bbox":[908,210,260,30]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":2,"bbox":[910,278,8,8]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":2,"text":"Blender 에셋","textPreview":"Blender 에셋","textChars":10,"textLines":1,"bbox":[930,270,230,58]}
+{"kind":"shape","id":"sh/7u54zido","slide":2,"bbox":[910,336,8,8]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":2,"text":"레벨 파이프라인","textPreview":"레벨 파이프라인","textChars":8,"textLines":1,"bbox":[930,328,230,58]}
+{"kind":"shape","id":"sh/psfil0rq","slide":2,"bbox":[910,394,8,8]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":2,"text":"플레이 가능한 빌드","textPreview":"플레이 가능한 빌드","textChars":10,"textLines":1,"bbox":[930,386,230,58]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":2,"text":"핵심 메시지: 기능을 따로 실험하는 데서 끝내지 않고, 실제 플레이 경험 안에서 작동하도록 연결합니다.","textPreview":"핵심 메시지: 기능을 따로 실험하는 데서 끝내지 않고, 실제 플레이 경험 안에서 작동하도록 연결합니다.","textChars":57,"textLines":1,"bbox":[120,548,1040,52]}
+{"kind":"notes","id":"nt/pg3ex0nu","slide":2,"text":""}
+{"kind":"slide","id":"sl/s72x4nap","slide":3,"title":"UNITY DEVELOPER PORTFOLIO","textShapes":22}
+{"kind":"shape","id":"sh/vmtwra5g","slide":3,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":3,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":3,"text":"UNITY DEVELOPER PORTFOLIO","textPreview":"UNITY DEVELOPER PORTFOLIO","textChars":25,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":3,"text":"학습과 제작의 타임라인","textPreview":"학습과 제작의 타임라인","textChars":12,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":3,"text":"세 개의 프로젝트 아카이브에서 확인한 2021–2026년의 개발 흐름입니다.","textPreview":"세 개의 프로젝트 아카이브에서 확인한 2021–2026년의 개발 흐름입니다.","textChars":42,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/oj2t83it","slide":3,"bbox":[90,178,220,104]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":3,"text":"2021–22","textPreview":"2021–22","textChars":7,"textLines":1,"bbox":[90,192,220,48]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":3,"text":"Dungeon Gunner","textPreview":"Dungeon Gunner","textChars":14,"textLines":1,"bbox":[102,242,196,28]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":3,"bbox":[340,178,220,104]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":3,"text":"2022","textPreview":"2022","textChars":4,"textLines":1,"bbox":[340,192,220,48]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":3,"text":"Blender 제작","textPreview":"Blender 제작","textChars":10,"textLines":1,"bbox":[352,242,196,28]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":3,"bbox":[590,178,220,104]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":3,"text":"2022–23","textPreview":"2022–23","textChars":7,"textLines":1,"bbox":[590,192,220,48]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":3,"text":"Shader / URP","textPreview":"Shader / URP","textChars":12,"textLines":1,"bbox":[602,242,196,28]}
+{"kind":"shape","id":"sh/61032lsz","slide":3,"bbox":[840,178,220,104]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":3,"text":"2023–25","textPreview":"2023–25","textChars":7,"textLines":1,"bbox":[840,192,220,48]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":3,"text":"장르 프로토타입","textPreview":"장르 프로토타입","textChars":8,"textLines":1,"bbox":[852,242,196,28]}
+{"kind":"shape","id":"sh/vahoza1g","slide":3,"bbox":[1090,178,120,104]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":3,"text":"2026","textPreview":"2026","textChars":4,"textLines":1,"bbox":[1090,192,120,48]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":3,"text":"2D Boss Rush","textPreview":"2D Boss Rush","textChars":12,"textLines":1,"bbox":[1102,242,96,28]}
+{"kind":"shape","id":"sh/7adsji5s","slide":3,"bbox":[90,330,520,220]}
+{"kind":"shape","id":"sh/wval87ed","slide":3,"bbox":[670,330,520,220]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":3,"text":"시작점","textPreview":"시작점","textChars":3,"textLines":1,"bbox":[122,362,220,26]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":3,"bbox":[124,422,8,8]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":3,"text":"강의 기반 전체 게임 구조 학습","textPreview":"강의 기반 전체 게임 구조 학습","textChars":17,"textLines":1,"bbox":[144,414,410,44]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":3,"bbox":[124,466,8,8]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":3,"text":"패키지·백업·Windows 빌드","textPreview":"패키지·백업·Windows 빌드","textChars":17,"textLines":1,"bbox":[144,458,410,44]}
+{"kind":"shape","id":"sh/ed8bat47","slide":3,"bbox":[124,510,8,8]}
+{"kind":"textbox","id":"sh/7u54zido","slide":3,"text":"A*·던전·무기·AI·UI 경험","textPreview":"A*·던전·무기·AI·UI 경험","textChars":17,"textLines":1,"bbox":[144,502,410,44]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":3,"text":"현재","textPreview":"현재","textChars":2,"textLines":1,"bbox":[702,362,220,26]}
+{"kind":"shape","id":"sh/4byhgn29","slide":3,"bbox":[704,422,8,8]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":3,"text":"전투와 상태 설계","textPreview":"전투와 상태 설계","textChars":9,"textLines":1,"bbox":[724,414,410,40]}
+{"kind":"shape","id":"sh/m58z25kb","slide":3,"bbox":[704,462,8,8]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":3,"text":"테크니컬 아트 실험","textPreview":"테크니컬 아트 실험","textChars":10,"textLines":1,"bbox":[724,454,410,40]}
+{"kind":"shape","id":"sh/4nap4r65","slide":3,"bbox":[704,502,8,8]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":3,"text":"여러 장르의 빠른 검증","textPreview":"여러 장르의 빠른 검증","textChars":12,"textLines":1,"bbox":[724,494,410,40]}
+{"kind":"shape","id":"sh/mhk3q5o7","slide":3,"bbox":[704,542,8,8]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":3,"text":"완성 가능한 범위 판단","textPreview":"완성 가능한 범위 판단","textChars":12,"textLines":1,"bbox":[724,534,410,40]}
+{"kind":"notes","id":"nt/s72x4nap","slide":3,"text":""}
+{"kind":"slide","id":"sl/val87ed8","slide":4,"title":"UNITY DEVELOPER PORTFOLIO","textShapes":18}
+{"kind":"shape","id":"sh/1gvy90je","slide":4,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":4,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":4,"text":"UNITY DEVELOPER PORTFOLIO","textPreview":"UNITY DEVELOPER PORTFOLIO","textChars":25,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":4,"text":"경험이 축적된 방식","textPreview":"경험이 축적된 방식","textChars":10,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":4,"text":"배운 기술을 다음 프로젝트의 문제 해결 도구로 반복 활용했습니다.","textPreview":"배운 기술을 다음 프로젝트의 문제 해결 도구로 반복 활용했습니다.","textChars":36,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/q1orytsv","slide":4,"bbox":[72,250,136,88]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":4,"text":"게임 구조","textPreview":"게임 구조","textChars":5,"textLines":1,"bbox":[84,278,112,32]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":4,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[214,276,28,28]}
+{"kind":"shape","id":"sh/x4nap4r6","slide":4,"bbox":[242,250,136,88]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":4,"text":"렌더링 연구","textPreview":"렌더링 연구","textChars":6,"textLines":1,"bbox":[254,278,112,32]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":4,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[384,276,28,28]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":4,"bbox":[412,250,136,88]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":4,"text":"Blender 연동","textPreview":"Blender 연동","textChars":10,"textLines":1,"bbox":[424,278,112,32]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":4,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[554,276,28,28]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":4,"bbox":[582,250,136,88]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":4,"text":"장르 실험","textPreview":"장르 실험","textChars":5,"textLines":1,"bbox":[594,278,112,32]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":4,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[724,276,28,28]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":4,"bbox":[752,250,136,88]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":4,"text":"절차적 움직임","textPreview":"절차적 움직임","textChars":7,"textLines":1,"bbox":[764,278,112,32]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":4,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[894,276,28,28]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":4,"bbox":[922,250,136,88]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":4,"text":"장기 프로젝트","textPreview":"장기 프로젝트","textChars":7,"textLines":1,"bbox":[934,278,112,32]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":4,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[1064,276,28,28]}
+{"kind":"shape","id":"sh/orytsvu9","slide":4,"bbox":[1092,250,136,88]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":4,"text":"플레이 가능한 대표작","textPreview":"플레이 가능한 대표작","textChars":11,"textLines":1,"bbox":[1104,278,112,32]}
+{"kind":"shape","id":"sh/al87ed8b","slide":4,"bbox":[164,440,952,104]}
+{"kind":"textbox","id":"sh/z61032ls","slide":4,"text":"성장 관점","textPreview":"성장 관점","textChars":5,"textLines":1,"bbox":[196,466,200,28]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":4,"text":"강의에서 익힌 구조를 셰이더와 프로토타입에 적용하고, 최종적으로 전투·AI·레벨·UI가 연결된 게임으로 발전시켰습니다.","textPreview":"강의에서 익힌 구조를 셰이더와 프로토타입에 적용하고, 최종적으로 전투·AI·레벨·UI가 연결된 게임으로 발전시켰습니다.","textChars":66,"textLines":1,"bbox":[396,466,680,50]}
+{"kind":"notes","id":"nt/val87ed8","slide":4,"text":""}
+{"kind":"slide","id":"sl/mlkjm1cf","slide":5,"title":"UNITY DEVELOPER PORTFOLIO","textShapes":22}
+{"kind":"shape","id":"sh/vahoza1g","slide":5,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/ovahoza1","slide":5,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":5,"text":"UNITY DEVELOPER PORTFOLIO","textPreview":"UNITY DEVELOPER PORTFOLIO","textChars":25,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":5,"text":"프로젝트 아카이브 근거","textPreview":"프로젝트 아카이브 근거","textChars":12,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":5,"text":"폴더와 구현 파일을 기준으로 확인한 학습·제작 범위입니다.","textPreview":"폴더와 구현 파일을 기준으로 확인한 학습·제작 범위입니다.","textChars":32,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/onyd0z61","slide":5,"bbox":[90,178,220,104]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":5,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[90,192,220,48]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":5,"text":"Project archives","textPreview":"Project archives","textChars":16,"textLines":1,"bbox":[102,242,196,28]}
+{"kind":"shape","id":"sh/vy90je9c","slide":5,"bbox":[340,178,220,104]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":5,"text":"2021","textPreview":"2021","textChars":4,"textLines":1,"bbox":[340,192,220,48]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":5,"text":"학습 시작","textPreview":"학습 시작","textChars":5,"textLines":1,"bbox":[352,242,196,28]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":5,"bbox":[590,178,220,104]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":5,"text":"40+","textPreview":"40+","textChars":3,"textLines":1,"bbox":[590,192,220,48]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":5,"text":"Unity projects","textPreview":"Unity projects","textChars":14,"textLines":1,"bbox":[602,242,196,28]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":5,"bbox":[840,178,220,104]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":5,"text":"2026","textPreview":"2026","textChars":4,"textLines":1,"bbox":[840,192,220,48]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":5,"text":"현재 대표작","textPreview":"현재 대표작","textChars":6,"textLines":1,"bbox":[852,242,196,28]}
+{"kind":"shape","id":"sh/neloj2t8","slide":5,"bbox":[1090,178,120,104]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":5,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1090,192,120,48]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":5,"text":"핵심 전문 영역","textPreview":"핵심 전문 영역","textChars":8,"textLines":1,"bbox":[1102,242,96,28]}
+{"kind":"shape","id":"sh/vixczed8","slide":5,"bbox":[90,330,520,220]}
+{"kind":"shape","id":"sh/k3q5o7qp","slide":5,"bbox":[670,330,520,220]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":5,"text":"주요 결과물","textPreview":"주요 결과물","textChars":6,"textLines":1,"bbox":[122,362,220,26]}
+{"kind":"shape","id":"sh/6psfil0r","slide":5,"bbox":[124,422,8,8]}
+{"kind":"textbox","id":"sh/val87ed8","slide":5,"text":"Dungeon Gunner Windows 빌드","textPreview":"Dungeon Gunner Windows 빌드","textChars":25,"textLines":1,"bbox":[144,414,410,44]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":5,"bbox":[124,466,8,8]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":5,"text":"Blender 잔디·맵 FBX","textPreview":"Blender 잔디·맵 FBX","textChars":16,"textLines":1,"bbox":[144,458,410,44]}
+{"kind":"shape","id":"sh/2lszqtcj","slide":5,"bbox":[124,510,8,8]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":5,"text":"2D Boss Rush 플레이 루프","textPreview":"2D Boss Rush 플레이 루프","textChars":19,"textLines":1,"bbox":[144,502,410,44]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":5,"text":"핵심 기술","textPreview":"핵심 기술","textChars":5,"textLines":1,"bbox":[702,362,220,26]}
+{"kind":"shape","id":"sh/sji5snel","slide":5,"bbox":[704,422,8,8]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":5,"text":"C# Gameplay / AI / Architecture","textPreview":"C# Gameplay / AI / Architecture","textChars":31,"textLines":1,"bbox":[724,414,410,40]}
+{"kind":"shape","id":"sh/adsji5sn","slide":5,"bbox":[704,462,8,8]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":5,"text":"URP / Shader Graph / HLSL","textPreview":"URP / Shader Graph / HLSL","textChars":25,"textLines":1,"bbox":[724,454,410,40]}
+{"kind":"shape","id":"sh/s72x4nap","slide":5,"bbox":[704,502,8,8]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":5,"text":"Blender / Instancing / IK","textPreview":"Blender / Instancing / IK","textChars":25,"textLines":1,"bbox":[724,494,410,40]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":5,"bbox":[704,542,8,8]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":5,"text":"LDtk / Cinemachine / DOTween","textPreview":"LDtk / Cinemachine / DOTween","textChars":28,"textLines":1,"bbox":[724,534,410,40]}
+{"kind":"notes","id":"nt/mlkjm1cf","slide":5,"text":""}
+{"kind":"slide","id":"sl/58z25kb6","slide":6,"title":"UNITY DEVELOPER PORTFOLIO","textShapes":16}
+{"kind":"shape","id":"sh/9cvixcze","slide":6,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":6,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":6,"text":"UNITY DEVELOPER PORTFOLIO","textPreview":"UNITY DEVELOPER PORTFOLIO","textChars":25,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":6,"text":"대표작: 2D Boss Rush","textPreview":"대표작: 2D Boss Rush","textChars":17,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":6,"text":"메트로베니아 계획을 완성 가능한 3스테이지 보스러쉬로 조정했습니다.","textPreview":"메트로베니아 계획을 완성 가능한 3스테이지 보스러쉬로 조정했습니다.","textChars":37,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/yxobm58z","slide":6,"bbox":[72,178,330,310]}
+{"kind":"shape","id":"sh/nih4byhg","slide":6,"bbox":[474,178,330,310]}
+{"kind":"shape","id":"sh/g7adsji5","slide":6,"bbox":[876,178,330,310]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":6,"text":"Player","textPreview":"Player","textChars":6,"textLines":1,"bbox":[104,210,250,30]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":6,"bbox":[106,278,8,8]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":6,"text":"이동·점프·회피","textPreview":"이동·점프·회피","textChars":8,"textLines":1,"bbox":[126,270,230,58]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":6,"bbox":[106,336,8,8]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":6,"text":"3타 콤보·공중 공격","textPreview":"3타 콤보·공중 공격","textChars":11,"textLines":1,"bbox":[126,328,230,58]}
+{"kind":"shape","id":"sh/dg7adsji","slide":6,"bbox":[106,394,8,8]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":6,"text":"HP·스태미나","textPreview":"HP·스태미나","textChars":7,"textLines":1,"bbox":[126,386,230,58]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":6,"text":"Enemy","textPreview":"Enemy","textChars":5,"textLines":1,"bbox":[506,210,250,30]}
+{"kind":"shape","id":"sh/6tovahoz","slide":6,"bbox":[508,278,8,8]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":6,"text":"모듈형 AI","textPreview":"모듈형 AI","textChars":6,"textLines":1,"bbox":[528,270,230,58]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":6,"bbox":[508,336,8,8]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":6,"text":"3종 보스 패턴","textPreview":"3종 보스 패턴","textChars":8,"textLines":1,"bbox":[528,328,230,58]}
+{"kind":"shape","id":"sh/94fu18jq","slide":6,"bbox":[508,394,8,8]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":6,"text":"페이즈 전환","textPreview":"페이즈 전환","textChars":6,"textLines":1,"bbox":[528,386,230,58]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":6,"text":"Game Flow","textPreview":"Game Flow","textChars":9,"textLines":1,"bbox":[908,210,260,30]}
+{"kind":"shape","id":"sh/gvy90je9","slide":6,"bbox":[910,278,8,8]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":6,"text":"방 클리어","textPreview":"방 클리어","textChars":5,"textLines":1,"bbox":[930,270,230,58]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":6,"bbox":[910,336,8,8]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":6,"text":"저장·이어하기","textPreview":"저장·이어하기","textChars":7,"textLines":1,"bbox":[930,328,230,58]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":6,"bbox":[910,394,8,8]}
+{"kind":"textbox","id":"sh/9knih4by","slide":6,"text":"씬·포탈 연결","textPreview":"씬·포탈 연결","textChars":7,"textLines":1,"bbox":[930,386,230,58]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":6,"text":"결과: 전투 기능의 나열이 아니라 처음부터 Credit까지 이어지는 플레이 가능한 게임 루프를 구성했습니다.","textPreview":"결과: 전투 기능의 나열이 아니라 처음부터 Credit까지 이어지는 플레이 가능한 게임 루프를 구성했습니다.","textChars":60,"textLines":1,"bbox":[120,548,1040,52]}
+{"kind":"notes","id":"nt/58z25kb6","slide":6,"text":""}
+{"kind":"slide","id":"sl/0z61032l","slide":7,"title":"UNITY 2D ACTION PORTFOLIO","textShapes":15}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":7,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/x4nap4r6","slide":7,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":7,"text":"UNITY 2D ACTION PORTFOLIO","textPreview":"UNITY 2D ACTION PORTFOLIO","textChars":25,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":7,"text":"플레이어 액션 시스템","textPreview":"플레이어 액션 시스템","textChars":11,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":7,"text":"입력과 상태를 분리해 조작감과 전투 리듬을 구성했습니다.","textPreview":"입력과 상태를 분리해 조작감과 전투 리듬을 구성했습니다.","textChars":31,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/xczed8v6","slide":7,"bbox":[72,168,360,390]}
+{"kind":"shape","id":"sh/8v6psfil","slide":7,"bbox":[460,168,360,390]}
+{"kind":"shape","id":"sh/je9cvixc","slide":7,"bbox":[848,168,360,390]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":7,"text":"Movement","textPreview":"Movement","textChars":8,"textLines":1,"bbox":[104,204,250,28]}
+{"kind":"shape","id":"sh/svu9knih","slide":7,"bbox":[106,274,8,8]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":7,"text":"좌우 이동 / 점프","textPreview":"좌우 이동 / 점프","textChars":10,"textLines":1,"bbox":[126,266,260,54]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":7,"bbox":[106,328,8,8]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":7,"text":"Better Jump 보정","textPreview":"Better Jump 보정","textChars":14,"textLines":1,"bbox":[126,320,260,54]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":7,"bbox":[106,382,8,8]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":7,"text":"착지 시 공중 공격 복구","textPreview":"착지 시 공중 공격 복구","textChars":13,"textLines":1,"bbox":[126,374,260,54]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":7,"text":"Combat","textPreview":"Combat","textChars":6,"textLines":1,"bbox":[492,204,250,28]}
+{"kind":"shape","id":"sh/zidonyd0","slide":7,"bbox":[494,274,8,8]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":7,"text":"3타 지상 콤보","textPreview":"3타 지상 콤보","textChars":8,"textLines":1,"bbox":[514,266,260,54]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":7,"bbox":[494,328,8,8]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":7,"text":"상단 / 하단 / 공중 공격","textPreview":"상단 / 하단 / 공중 공격","textChars":15,"textLines":1,"bbox":[514,320,260,54]}
+{"kind":"shape","id":"sh/wval87ed","slide":7,"bbox":[494,382,8,8]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":7,"text":"공격 중 이동·방향 제어","textPreview":"공격 중 이동·방향 제어","textChars":13,"textLines":1,"bbox":[514,374,260,54]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":7,"text":"Resource","textPreview":"Resource","textChars":8,"textLines":1,"bbox":[880,204,250,28]}
+{"kind":"shape","id":"sh/psfil0rq","slide":7,"bbox":[882,274,8,8]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":7,"text":"스태미나 기반 회피","textPreview":"스태미나 기반 회피","textChars":10,"textLines":1,"bbox":[902,266,260,54]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":7,"bbox":[882,328,8,8]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":7,"text":"회피 무적과 쿨다운","textPreview":"회피 무적과 쿨다운","textChars":10,"textLines":1,"bbox":[902,320,260,54]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":7,"bbox":[882,382,8,8]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":7,"text":"사용 후 지연 회복","textPreview":"사용 후 지연 회복","textChars":10,"textLines":1,"bbox":[902,374,260,54]}
+{"kind":"notes","id":"nt/0z61032l","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu18jqh0","slide":8,"title":"UNITY 2D ACTION PORTFOLIO","textShapes":14}
+{"kind":"shape","id":"sh/1032lszq","slide":8,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/u9knih4b","slide":8,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/judg7ads","slide":8,"text":"UNITY 2D ACTION PORTFOLIO","textPreview":"UNITY 2D ACTION PORTFOLIO","textChars":25,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":8,"text":"적 AI 모듈 구조","textPreview":"적 AI 모듈 구조","textChars":10,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":8,"text":"공통 실행부와 판단·이동·공격 책임을 분리했습니다.","textPreview":"공통 실행부와 판단·이동·공격 책임을 분리했습니다.","textChars":28,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":8,"bbox":[488,172,300,90]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":8,"text":"EnemyCore","textPreview":"EnemyCore","textChars":9,"textLines":1,"bbox":[488,202,300,32]}
+{"kind":"shape","id":"sh/cvixczed","slide":8,"bbox":[126,360,286,118]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":8,"text":"IEnemyBrain","textPreview":"IEnemyBrain","textChars":11,"textLines":1,"bbox":[126,388,286,28]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":8,"text":"시야·거리·공격 판단","textPreview":"시야·거리·공격 판단","textChars":11,"textLines":1,"bbox":[146,428,246,28]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":8,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[256,302,28,40]}
+{"kind":"shape","id":"sh/j2t83itg","slide":8,"bbox":[508,360,286,118]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":8,"text":"IEnemyMovement","textPreview":"IEnemyMovement","textChars":14,"textLines":1,"bbox":[508,388,286,28]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":8,"text":"순찰·추적·정지","textPreview":"순찰·추적·정지","textChars":8,"textLines":1,"bbox":[528,428,246,28]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":8,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[638,302,28,40]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":8,"bbox":[890,360,286,118]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":8,"text":"IEnemyAttack","textPreview":"IEnemyAttack","textChars":12,"textLines":1,"bbox":[890,388,286,28]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":8,"text":"근접·대시·빔 공격","textPreview":"근접·대시·빔 공격","textChars":10,"textLines":1,"bbox":[910,428,246,28]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":8,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[1020,302,28,40]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":8,"text":"프리팹별 모듈 조합을 바꿔 다양한 적 타입을 구성하고, 공통 흐름의 중복을 줄였습니다.","textPreview":"프리팹별 모듈 조합을 바꿔 다양한 적 타입을 구성하고, 공통 흐름의 중복을 줄였습니다.","textChars":48,"textLines":1,"bbox":[160,548,960,44]}
+{"kind":"notes","id":"nt/fu18jqh0","slide":8,"text":""}
+{"kind":"slide","id":"sl/qh0fepkz","slide":9,"title":"UNITY 2D ACTION PORTFOLIO","textShapes":11}
+{"kind":"shape","id":"sh/vahoza1g","slide":9,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/ovahoza1","slide":9,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":9,"text":"UNITY 2D ACTION PORTFOLIO","textPreview":"UNITY 2D ACTION PORTFOLIO","textChars":25,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":9,"text":"스테이지 / 저장 / UI 흐름","textPreview":"스테이지 / 저장 / UI 흐름","textChars":17,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":9,"text":"전투 외 시스템을 연결해 실제로 시작하고 끝나는 빌드를 만들었습니다.","textPreview":"전투 외 시스템을 연결해 실제로 시작하고 끝나는 빌드를 만들었습니다.","textChars":38,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/onyd0z61","slide":9,"bbox":[116,178,484,136]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":9,"text":"RoomManager","textPreview":"RoomManager","textChars":11,"textLines":1,"bbox":[142,204,300,28]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":9,"text":"적 활성화·문 제어·전멸 감지·방 클리어","textPreview":"적 활성화·문 제어·전멸 감지·방 클리어","textChars":22,"textLines":1,"bbox":[142,244,420,40]}
+{"kind":"shape","id":"sh/vy90je9c","slide":9,"bbox":[680,178,484,136]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":9,"text":"StageFlowManager","textPreview":"StageFlowManager","textChars":16,"textLines":1,"bbox":[706,204,300,28]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":9,"text":"클리어 수 관리와 보스 이후 포탈 활성화","textPreview":"클리어 수 관리와 보스 이후 포탈 활성화","textChars":22,"textLines":1,"bbox":[706,244,420,40]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":9,"bbox":[116,390,484,136]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":9,"text":"SaveManager","textPreview":"SaveManager","textChars":11,"textLines":1,"bbox":[142,416,300,28]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":9,"text":"씬과 위치 저장·이어하기 모드","textPreview":"씬과 위치 저장·이어하기 모드","textChars":16,"textLines":1,"bbox":[142,456,420,40]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":9,"bbox":[680,390,484,136]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":9,"text":"Main / Pause UI","textPreview":"Main / Pause UI","textChars":15,"textLines":1,"bbox":[706,416,300,28]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":9,"text":"신규 시작·이어하기·일시정지·메뉴 복귀","textPreview":"신규 시작·이어하기·일시정지·메뉴 복귀","textChars":21,"textLines":1,"bbox":[706,456,420,40]}
+{"kind":"notes","id":"nt/qh0fepkz","slide":9,"text":""}
+{"kind":"slide","id":"sl/29gr2p8n","slide":10,"title":"UNITY 2D ACTION PORTFOLIO","textShapes":12}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":10,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/9gr2p8nq","slide":10,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":10,"text":"UNITY 2D ACTION PORTFOLIO","textPreview":"UNITY 2D ACTION PORTFOLIO","textChars":25,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":10,"text":"보스 패턴 설계","textPreview":"보스 패턴 설계","textChars":8,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":10,"text":"공통 기반 위에 서로 다른 선택 로직과 페이즈를 구성했습니다.","textPreview":"공통 기반 위에 서로 다른 선택 로직과 페이즈를 구성했습니다.","textChars":34,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/94fu18jq","slide":10,"bbox":[86,176,340,360]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":10,"text":"Golem","textPreview":"Golem","textChars":5,"textLines":1,"bbox":[112,212,260,34]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":10,"text":"스핀 / 핸드슬램 / 빔 / 버스트 / 버프","textPreview":"스핀 / 핸드슬램 / 빔 / 버스트 / 버프","textChars":24,"textLines":1,"bbox":[112,274,282,86]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":10,"bbox":[112,378,80,4]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":10,"text":"거리 조건과 쿨다운 기반 선택","textPreview":"거리 조건과 쿨다운 기반 선택","textChars":16,"textLines":1,"bbox":[112,408,282,66]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":10,"bbox":[480,176,340,360]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":10,"text":"Blood King","textPreview":"Blood King","textChars":10,"textLines":1,"bbox":[506,212,260,34]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":10,"text":"더블슬래시 / 돌진 / 점프슬램 / 스핀","textPreview":"더블슬래시 / 돌진 / 점프슬램 / 스핀","textChars":22,"textLines":1,"bbox":[506,274,282,86]}
+{"kind":"shape","id":"sh/83itgfml","slide":10,"bbox":[506,378,80,4]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":10,"text":"이전 패턴 회피와 2페이즈 강화","textPreview":"이전 패턴 회피와 2페이즈 강화","textChars":17,"textLines":1,"bbox":[506,408,282,66]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":10,"bbox":[874,176,340,360]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":10,"text":"Heart Hoarder","textPreview":"Heart Hoarder","textChars":13,"textLines":1,"bbox":[900,212,260,34]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":10,"text":"지상·공중 대시 / 공중 내려찍기","textPreview":"지상·공중 대시 / 공중 내려찍기","textChars":18,"textLines":1,"bbox":[900,274,282,86]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":10,"bbox":[900,378,80,4]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":10,"text":"가중치 랜덤과 HP 단계별 변화","textPreview":"가중치 랜덤과 HP 단계별 변화","textChars":17,"textLines":1,"bbox":[900,408,282,66]}
+{"kind":"notes","id":"nt/29gr2p8n","slide":10,"text":""}
+{"kind":"slide","id":"sl/re1w7mp0","slide":11,"title":"UNITY 2D ACTION PORTFOLIO","textShapes":16}
+{"kind":"shape","id":"sh/dg7adsji","slide":11,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/6tovahoz","slide":11,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":11,"text":"UNITY 2D ACTION PORTFOLIO","textPreview":"UNITY 2D ACTION PORTFOLIO","textChars":25,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":11,"text":"전투 피드백 설계","textPreview":"전투 피드백 설계","textChars":9,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":11,"text":"피격 결과를 여러 감각 레이어로 전달했습니다.","textPreview":"피격 결과를 여러 감각 레이어로 전달했습니다.","textChars":25,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":11,"bbox":[92,182,330,126]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":11,"text":"Hit Flash","textPreview":"Hit Flash","textChars":9,"textLines":1,"bbox":[116,206,220,30]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":11,"text":"피격 순간의 시각 강조","textPreview":"피격 순간의 시각 강조","textChars":12,"textLines":1,"bbox":[116,246,270,36]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":11,"bbox":[478,182,330,126]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":11,"text":"Knockback","textPreview":"Knockback","textChars":9,"textLines":1,"bbox":[502,206,220,30]}
+{"kind":"textbox","id":"sh/sji5snel","slide":11,"text":"공격 방향 기반 밀림","textPreview":"공격 방향 기반 밀림","textChars":11,"textLines":1,"bbox":[502,246,270,36]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":11,"bbox":[864,182,330,126]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":11,"text":"Invincible","textPreview":"Invincible","textChars":10,"textLines":1,"bbox":[888,206,220,30]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":11,"text":"연속 피격 방지 시간","textPreview":"연속 피격 방지 시간","textChars":11,"textLines":1,"bbox":[888,246,270,36]}
+{"kind":"shape","id":"sh/s72x4nap","slide":11,"bbox":[92,360,330,126]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":11,"text":"Hit Stop","textPreview":"Hit Stop","textChars":8,"textLines":1,"bbox":[116,384,220,30]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":11,"text":"짧은 감속으로 충돌 강조","textPreview":"짧은 감속으로 충돌 강조","textChars":13,"textLines":1,"bbox":[116,424,270,36]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":11,"bbox":[478,360,330,126]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":11,"text":"Camera Shake","textPreview":"Camera Shake","textChars":12,"textLines":1,"bbox":[502,384,220,30]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":11,"text":"공격 강도별 흔들림","textPreview":"공격 강도별 흔들림","textChars":10,"textLines":1,"bbox":[502,424,270,36]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":11,"bbox":[864,360,330,126]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":11,"text":"UI Shake","textPreview":"UI Shake","textChars":8,"textLines":1,"bbox":[888,384,220,30]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":11,"text":"HP / ST 반응 연출","textPreview":"HP / ST 반응 연출","textChars":13,"textLines":1,"bbox":[888,424,270,36]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":11,"text":"결과: 수치 감소뿐 아니라 플레이어가 즉시 이해할 수 있는 타격 피드백을 구성했습니다.","textPreview":"결과: 수치 감소뿐 아니라 플레이어가 즉시 이해할 수 있는 타격 피드백을 구성했습니다.","textChars":48,"textLines":1,"bbox":[140,594,1000,32]}
+{"kind":"notes","id":"nt/re1w7mp0","slide":11,"text":""}
+{"kind":"slide","id":"sl/4fu18jqh","slide":12,"title":"TECHNICAL ART STUDIES","textShapes":16}
+{"kind":"shape","id":"sh/3m94fu18","slide":12,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/s72x4nap","slide":12,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":12,"text":"TECHNICAL ART STUDIES","textPreview":"TECHNICAL ART STUDIES","textChars":21,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":12,"text":"테크니컬 아트 연구","textPreview":"테크니컬 아트 연구","textChars":10,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":12,"text":"렌더링 기술을 독립 예제가 아닌 게임 화면과 환경 표현에 적용했습니다.","textPreview":"렌더링 기술을 독립 예제가 아닌 게임 화면과 환경 표현에 적용했습니다.","textChars":39,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/sji5snel","slide":12,"bbox":[72,178,330,310]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":12,"bbox":[474,178,330,310]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":12,"bbox":[876,178,330,310]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":12,"text":"Stylized Rendering","textPreview":"Stylized Rendering","textChars":18,"textLines":1,"bbox":[104,210,250,30]}
+{"kind":"shape","id":"sh/z61032ls","slide":12,"bbox":[106,278,8,8]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":12,"text":"셀 셰이딩","textPreview":"셀 셰이딩","textChars":5,"textLines":1,"bbox":[126,270,230,58]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":12,"bbox":[106,336,8,8]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":12,"text":"아웃라인 / Sobel","textPreview":"아웃라인 / Sobel","textChars":12,"textLines":1,"bbox":[126,328,230,58]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":12,"bbox":[106,394,8,8]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":12,"text":"3D 픽셀화","textPreview":"3D 픽셀화","textChars":6,"textLines":1,"bbox":[126,386,230,58]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":12,"text":"Environment","textPreview":"Environment","textChars":11,"textLines":1,"bbox":[506,210,250,30]}
+{"kind":"shape","id":"sh/sfil0rqd","slide":12,"bbox":[508,278,8,8]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":12,"text":"잔디와 Foliage","textPreview":"잔디와 Foliage","textChars":11,"textLines":1,"bbox":[528,270,230,58]}
+{"kind":"shape","id":"sh/65wjudg7","slide":12,"bbox":[508,336,8,8]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":12,"text":"바람 버텍스 변형","textPreview":"바람 버텍스 변형","textChars":9,"textLines":1,"bbox":[528,328,230,58]}
+{"kind":"shape","id":"sh/7u54zido","slide":12,"bbox":[508,394,8,8]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":12,"text":"툰 지형·나무","textPreview":"툰 지형·나무","textChars":7,"textLines":1,"bbox":[528,386,230,58]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":12,"text":"Rendering Pipeline","textPreview":"Rendering Pipeline","textChars":18,"textLines":1,"bbox":[908,210,260,30]}
+{"kind":"shape","id":"sh/eloj2t83","slide":12,"bbox":[910,278,8,8]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":12,"text":"Built-in / URP","textPreview":"Built-in / URP","textChars":14,"textLines":1,"bbox":[930,270,230,58]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":12,"bbox":[910,336,8,8]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":12,"text":"Shader Graph / ASE","textPreview":"Shader Graph / ASE","textChars":18,"textLines":1,"bbox":[930,328,230,58]}
+{"kind":"shape","id":"sh/epkzupwb","slide":12,"bbox":[910,394,8,8]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":12,"text":"HLSL / Renderer Feature","textPreview":"HLSL / Renderer Feature","textChars":23,"textLines":1,"bbox":[930,386,230,58]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":12,"text":"대표 연구: Blender 메시와 GPU Instancing을 결합한 잔디, 절차적 보행과 IK 기반 캐릭터 움직임","textPreview":"대표 연구: Blender 메시와 GPU Instancing을 결합한 잔디, 절차적 보행과 IK 기반 캐릭터 움직임","textChars":64,"textLines":1,"bbox":[120,548,1040,52]}
+{"kind":"notes","id":"nt/4fu18jqh","slide":12,"text":""}
+{"kind":"slide","id":"sl/lwval87e","slide":13,"title":"TECHNICAL ART STUDIES","textShapes":22}
+{"kind":"shape","id":"sh/ed8bat47","slide":13,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":13,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":13,"text":"TECHNICAL ART STUDIES","textPreview":"TECHNICAL ART STUDIES","textChars":21,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":13,"text":"Blender + GPU Instancing 잔디","textPreview":"Blender + GPU Instancing 잔디","textChars":27,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":13,"text":"ASEPractice에서 직접 만든 잔디 메시를 URP 렌더링 실험에 연결했습니다.","textPreview":"ASEPractice에서 직접 만든 잔디 메시를 URP 렌더링 실험에 연결했습니다.","textChars":46,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":13,"bbox":[90,178,220,104]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":13,"text":"Mesh","textPreview":"Mesh","textChars":4,"textLines":1,"bbox":[90,192,220,48]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":13,"text":"grass.blend → grass1.fbx","textPreview":"grass.blend → grass1.fbx","textChars":24,"textLines":1,"bbox":[102,242,196,28]}
+{"kind":"shape","id":"sh/epkzupwb","slide":13,"bbox":[340,178,220,104]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":13,"text":"Map","textPreview":"Map","textChars":3,"textLines":1,"bbox":[340,192,220,48]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":13,"text":"mappractice.blend → map-3.fbx","textPreview":"mappractice.blend → map-3.fbx","textChars":29,"textLines":1,"bbox":[352,242,196,28]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":13,"bbox":[590,178,220,104]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":13,"text":"GPU","textPreview":"GPU","textChars":3,"textLines":1,"bbox":[590,192,220,48]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":13,"text":"DrawMeshInstanced + HLSL","textPreview":"DrawMeshInstanced + HLSL","textChars":24,"textLines":1,"bbox":[602,242,196,28]}
+{"kind":"shape","id":"sh/xczed8v6","slide":13,"bbox":[840,178,220,104]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":13,"text":"Wind","textPreview":"Wind","textChars":4,"textLines":1,"bbox":[840,192,220,48]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":13,"text":"바람 기반 버텍스 변형","textPreview":"바람 기반 버텍스 변형","textChars":12,"textLines":1,"bbox":[852,242,196,28]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":13,"bbox":[1090,178,120,104]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":13,"text":"URP","textPreview":"URP","textChars":3,"textLines":1,"bbox":[1090,192,120,48]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":13,"text":"URP / Built-in 변형 비교","textPreview":"URP / Built-in 변형 비교","textChars":20,"textLines":1,"bbox":[1102,242,96,28]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":13,"bbox":[90,330,520,220]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":13,"bbox":[670,330,520,220]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":13,"text":"핵심 구현","textPreview":"핵심 구현","textChars":5,"textLines":1,"bbox":[122,362,220,26]}
+{"kind":"shape","id":"sh/lwval87e","slide":13,"bbox":[124,422,8,8]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":13,"text":"DrawGrass.cs: 배치와 인스턴싱","textPreview":"DrawGrass.cs: 배치와 인스턴싱","textChars":22,"textLines":1,"bbox":[144,414,410,44]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":13,"bbox":[124,466,8,8]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":13,"text":"GrassInstanced.hlsl: 위치 변환","textPreview":"GrassInstanced.hlsl: 위치 변환","textChars":26,"textLines":1,"bbox":[144,458,410,44]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":13,"bbox":[124,510,8,8]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":13,"text":"TestCustomInstancingGrassURP.shader","textPreview":"TestCustomInstancingGrassURP.shader","textChars":35,"textLines":1,"bbox":[144,502,410,44]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":13,"text":"확장 작업","textPreview":"확장 작업","textChars":5,"textLines":1,"bbox":[702,362,220,26]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":13,"bbox":[704,422,8,8]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":13,"text":"Test_20230307로 환경 에셋 이전","textPreview":"Test_20230307로 환경 에셋 이전","textChars":23,"textLines":1,"bbox":[724,414,410,40]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":13,"bbox":[704,462,8,8]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":13,"text":"바위·나무·Foliage 제작","textPreview":"바위·나무·Foliage 제작","textChars":16,"textLines":1,"bbox":[724,454,410,40]}
+{"kind":"shape","id":"sh/vahoza1g","slide":13,"bbox":[704,502,8,8]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":13,"text":"잔디 재질과 색상 변형","textPreview":"잔디 재질과 색상 변형","textChars":12,"textLines":1,"bbox":[724,494,410,40]}
+{"kind":"shape","id":"sh/dg7adsji","slide":13,"bbox":[704,542,8,8]}
+{"kind":"textbox","id":"sh/61032lsz","slide":13,"text":"툰·픽셀 렌더링과 결합","textPreview":"툰·픽셀 렌더링과 결합","textChars":12,"textLines":1,"bbox":[724,534,410,40]}
+{"kind":"notes","id":"nt/lwval87e","slide":13,"text":""}
+{"kind":"slide","id":"sl/25kb6xkf","slide":14,"title":"PROCEDURAL ANIMATION STUDY","textShapes":14}
+{"kind":"shape","id":"sh/val87ed8","slide":14,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":14,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":14,"text":"PROCEDURAL ANIMATION STUDY","textPreview":"PROCEDURAL ANIMATION STUDY","textChars":26,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":14,"text":"IK 기반 절차적 보행","textPreview":"IK 기반 절차적 보행","textChars":12,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/vixczed8","slide":14,"text":"Project6000에서 보행 패키지를 분석하고 직접 만든 적 이동과 결합했습니다.","textPreview":"Project6000에서 보행 패키지를 분석하고 직접 만든 적 이동과 결합했습니다.","textChars":46,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/k3q5o7qp","slide":14,"bbox":[488,172,300,90]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":14,"text":"Body Controller","textPreview":"Body Controller","textChars":15,"textLines":1,"bbox":[488,202,300,32]}
+{"kind":"shape","id":"sh/29gr2p8n","slide":14,"bbox":[126,360,286,118]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":14,"text":"Foot Target","textPreview":"Foot Target","textChars":11,"textLines":1,"bbox":[126,388,286,28]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":14,"text":"지면 감지·스텝 조건","textPreview":"지면 감지·스텝 조건","textChars":11,"textLines":1,"bbox":[146,428,246,28]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":14,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[256,302,28,40]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":14,"bbox":[508,360,286,118]}
+{"kind":"textbox","id":"sh/sji5snel","slide":14,"text":"Leg IK","textPreview":"Leg IK","textChars":6,"textLines":1,"bbox":[508,388,286,28]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":14,"text":"다리 목표점 추종","textPreview":"다리 목표점 추종","textChars":9,"textLines":1,"bbox":[528,428,246,28]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":14,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[638,302,28,40]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":14,"bbox":[890,360,286,118]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":14,"text":"Ground Alignment","textPreview":"Ground Alignment","textChars":16,"textLines":1,"bbox":[890,388,286,28]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":14,"text":"경사면 몸체 정렬","textPreview":"경사면 몸체 정렬","textChars":9,"textLines":1,"bbox":[910,428,246,28]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":14,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[1020,302,28,40]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":14,"text":"2족·다족 로봇에 확장 가능한 구조를 씬에서 검증하고, EnemyProceduralMovement로 추적 움직임을 실험했습니다.","textPreview":"2족·다족 로봇에 확장 가능한 구조를 씬에서 검증하고, EnemyProceduralMovement로 추적 움직임을 실험했습니다.","textChars":71,"textLines":1,"bbox":[160,548,960,44]}
+{"kind":"notes","id":"nt/25kb6xkf","slide":14,"text":""}
+{"kind":"slide","id":"sl/7y1kre1w","slide":15,"title":"SYSTEM DESIGN FOUNDATION","textShapes":16}
+{"kind":"shape","id":"sh/90je9cvi","slide":15,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/yd0z6103","slide":15,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":15,"text":"SYSTEM DESIGN FOUNDATION","textPreview":"SYSTEM DESIGN FOUNDATION","textChars":24,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":15,"text":"Dungeon Gunner 학습 기반","textPreview":"Dungeon Gunner 학습 기반","textChars":20,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":15,"text":"Udemy 강의를 따라 완성형 탑다운 슈터의 전체 구조를 학습하고 빌드했습니다.","textPreview":"Udemy 강의를 따라 완성형 탑다운 슈터의 전체 구조를 학습하고 빌드했습니다.","textChars":44,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/y1kre1w7","slide":15,"bbox":[72,178,330,310]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":15,"bbox":[474,178,330,310]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":15,"bbox":[876,178,330,310]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":15,"text":"Architecture","textPreview":"Architecture","textChars":12,"textLines":1,"bbox":[104,210,250,30]}
+{"kind":"shape","id":"sh/5gbq1ory","slide":15,"bbox":[106,278,8,8]}
+{"kind":"textbox","id":"sh/cvixczed","slide":15,"text":"이벤트 구조","textPreview":"이벤트 구조","textChars":6,"textLines":1,"bbox":[126,270,230,58]}
+{"kind":"shape","id":"sh/nap4r65w","slide":15,"bbox":[106,336,8,8]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":15,"text":"ScriptableObject 데이터","textPreview":"ScriptableObject 데이터","textChars":20,"textLines":1,"bbox":[126,328,230,58]}
+{"kind":"shape","id":"sh/54zidony","slide":15,"bbox":[106,394,8,8]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":15,"text":"오브젝트 풀링","textPreview":"오브젝트 풀링","textChars":7,"textLines":1,"bbox":[126,386,230,58]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":15,"text":"Gameplay","textPreview":"Gameplay","textChars":8,"textLines":1,"bbox":[506,210,250,30]}
+{"kind":"shape","id":"sh/udg7adsj","slide":15,"bbox":[508,278,8,8]}
+{"kind":"textbox","id":"sh/1032lszq","slide":15,"text":"무기·탄약·재장전","textPreview":"무기·탄약·재장전","textChars":9,"textLines":1,"bbox":[528,270,230,58]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":15,"bbox":[508,336,8,8]}
+{"kind":"textbox","id":"sh/obm58z25","slide":15,"text":"체력·피해·상자","textPreview":"체력·피해·상자","textChars":8,"textLines":1,"bbox":[528,328,230,58]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":15,"bbox":[508,394,8,8]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":15,"text":"적 스폰과 AI","textPreview":"적 스폰과 AI","textChars":8,"textLines":1,"bbox":[528,386,230,58]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":15,"text":"Dungeon","textPreview":"Dungeon","textChars":7,"textLines":1,"bbox":[908,210,260,30]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":15,"bbox":[910,278,8,8]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":15,"text":"룸 노드 그래프","textPreview":"룸 노드 그래프","textChars":8,"textLines":1,"bbox":[930,270,230,58]}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":15,"bbox":[910,336,8,8]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":15,"text":"절차적 던전 생성","textPreview":"절차적 던전 생성","textChars":9,"textLines":1,"bbox":[930,328,230,58]}
+{"kind":"shape","id":"sh/orytsvu9","slide":15,"bbox":[910,394,8,8]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":15,"text":"A* 길 찾기","textPreview":"A* 길 찾기","textChars":7,"textLines":1,"bbox":[930,386,230,58]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":15,"text":"직접 응용: 캐릭터 패키지 제작, 단계별 unitypackage 백업, 버그 대응 버전 교체, Windows 실행 빌드 완성","textPreview":"직접 응용: 캐릭터 패키지 제작, 단계별 unitypackage 백업, 버그 대응 버전 교체, Windows 실행 빌드 완성","textChars":69,"textLines":1,"bbox":[120,548,1040,52]}
+{"kind":"notes","id":"nt/7y1kre1w","slide":15,"text":""}
+{"kind":"slide","id":"sl/8z25kb6x","slide":16,"title":"UNITY DEVELOPER PORTFOLIO","textShapes":22}
+{"kind":"shape","id":"sh/epkzupwb","slide":16,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":16,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/wval87ed","slide":16,"text":"UNITY DEVELOPER PORTFOLIO","textPreview":"UNITY DEVELOPER PORTFOLIO","textChars":25,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":16,"text":"장르별 프로토타입 경험","textPreview":"장르별 프로토타입 경험","textChars":12,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":16,"text":"기술을 빠르게 검증하기 위해 다양한 규모와 장르의 프로젝트를 반복 제작했습니다.","textPreview":"기술을 빠르게 검증하기 위해 다양한 규모와 장르의 프로젝트를 반복 제작했습니다.","textChars":44,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/psfil0rq","slide":16,"bbox":[90,178,220,104]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":16,"text":"2D","textPreview":"2D","textChars":2,"textLines":1,"bbox":[90,192,220,48]}
+{"kind":"textbox","id":"sh/7u54zido","slide":16,"text":"메트로배니아","textPreview":"메트로배니아","textChars":6,"textLines":1,"bbox":[102,242,196,28]}
+{"kind":"shape","id":"sh/ed8bat47","slide":16,"bbox":[340,178,220,104]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":16,"text":"2024","textPreview":"2024","textChars":4,"textLines":1,"bbox":[340,192,220,48]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":16,"text":"Dark 계열 프로젝트","textPreview":"Dark 계열 프로젝트","textChars":12,"textLines":1,"bbox":[352,242,196,28]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":16,"bbox":[590,178,220,104]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":16,"text":"Survivor","textPreview":"Survivor","textChars":8,"textLines":1,"bbox":[590,192,220,48]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":16,"text":"웨이브 액션","textPreview":"웨이브 액션","textChars":6,"textLines":1,"bbox":[602,242,196,28]}
+{"kind":"shape","id":"sh/dg7adsji","slide":16,"bbox":[840,178,220,104]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":16,"text":"2025","textPreview":"2025","textChars":4,"textLines":1,"bbox":[840,192,220,48]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":16,"text":"Dark Survivor","textPreview":"Dark Survivor","textChars":13,"textLines":1,"bbox":[852,242,196,28]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":16,"bbox":[1090,178,120,104]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":16,"text":"3D","textPreview":"3D","textChars":2,"textLines":1,"bbox":[1090,192,120,48]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":16,"text":"아이소메트릭 액션","textPreview":"아이소메트릭 액션","textChars":9,"textLines":1,"bbox":[1102,242,96,28]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":16,"bbox":[90,330,520,220]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":16,"bbox":[670,330,520,220]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":16,"text":"Tools","textPreview":"Tools","textChars":5,"textLines":1,"bbox":[122,362,220,26]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":16,"bbox":[124,422,8,8]}
+{"kind":"textbox","id":"sh/obm58z25","slide":16,"text":"PlayMaker / LDtk","textPreview":"PlayMaker / LDtk","textChars":16,"textLines":1,"bbox":[144,414,410,44]}
+{"kind":"shape","id":"sh/zqtcj6to","slide":16,"bbox":[124,466,8,8]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":16,"text":"2023–26","textPreview":"2023–26","textChars":7,"textLines":1,"bbox":[144,458,410,44]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":16,"bbox":[124,510,8,8]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":16,"text":"레벨·비주얼 스크립팅","textPreview":"레벨·비주얼 스크립팅","textChars":11,"textLines":1,"bbox":[144,502,410,44]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":16,"text":"연구 축","textPreview":"연구 축","textChars":4,"textLines":1,"bbox":[702,362,220,26]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":16,"bbox":[704,422,8,8]}
+{"kind":"textbox","id":"sh/032lszqt","slide":16,"text":"셰이더와 픽셀화","textPreview":"셰이더와 픽셀화","textChars":8,"textLines":1,"bbox":[724,414,410,40]}
+{"kind":"shape","id":"sh/tovahoza","slide":16,"bbox":[704,462,8,8]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":16,"text":"절차적 움직임","textPreview":"절차적 움직임","textChars":7,"textLines":1,"bbox":[724,454,410,40]}
+{"kind":"shape","id":"sh/bulwval8","slide":16,"bbox":[704,502,8,8]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":16,"text":"전투와 보스 패턴","textPreview":"전투와 보스 패턴","textChars":9,"textLines":1,"bbox":[724,494,410,40]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":16,"bbox":[704,542,8,8]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":16,"text":"레벨 제작 파이프라인","textPreview":"레벨 제작 파이프라인","textChars":11,"textLines":1,"bbox":[724,534,410,40]}
+{"kind":"notes","id":"nt/8z25kb6x","slide":16,"text":""}
+{"kind":"slide","id":"sl/54zidony","slide":17,"title":"INTERVIEW PITCH","textShapes":10}
+{"kind":"shape","id":"sh/m94fu18j","slide":17,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":17,"bbox":[0,0,10,720]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":17,"text":"INTERVIEW PITCH","textPreview":"INTERVIEW PITCH","textChars":15,"textLines":1,"bbox":[72,668,720,22]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":17,"text":"저를 설명하는 한 문장","textPreview":"저를 설명하는 한 문장","textChars":12,"textLines":1,"bbox":[72,64,820,54]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":17,"text":"여러 기술을 실제 게임 루프로 연결하는 Unity 개발자입니다.","textPreview":"여러 기술을 실제 게임 루프로 연결하는 Unity 개발자입니다.","textChars":35,"textLines":1,"bbox":[74,116,820,34]}
+{"kind":"shape","id":"sh/xobm58z2","slide":17,"bbox":[112,180,1056,230]}
+{"kind":"textbox","id":"sh/83itgfml","slide":17,"text":"“강의 프로젝트로 게임 전체 구조를 익힌 뒤, URP와 HLSL·Blender를 이용한 시각 기술을 연구하고 다양한 장르에서 검증했습니다. 현재는 그 경험을 플레이어 전투, 적 AI, 보스 패턴, 방 클리어, 저장과 씬 전환이 연결된 2D 액션 게임으로 통합하고 있습니다.”","textPreview":"“강의 프로젝트로 게임 전체 구조를 익힌 뒤, URP와 HLSL·Blender를 이용한 시각 기술을 연구하고 다양한 장르에서 검증했습니다. 현재는 그 경험을 플레이어 전투, 적 AI, 보스 패턴, 방 클리어, 저장과 씬 전환이 연결된 2D 액션 ...","textChars":153,"textLines":1,"bbox":[158,224,960,128]}
+{"kind":"shape","id":"sh/fepkzupw","slide":17,"bbox":[112,462,320,112]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":17,"bbox":[480,462,320,112]}
+{"kind":"shape","id":"sh/oj2t83it","slide":17,"bbox":[848,462,320,112]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":17,"text":"Gameplay Systems","textPreview":"Gameplay Systems","textChars":16,"textLines":1,"bbox":[112,494,320,30]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":17,"text":"입력·상태·전투·AI","textPreview":"입력·상태·전투·AI","textChars":11,"textLines":1,"bbox":[112,532,320,24]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":17,"text":"Technical Art","textPreview":"Technical Art","textChars":13,"textLines":1,"bbox":[480,494,320,30]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":17,"text":"Shader·Instancing·IK","textPreview":"Shader·Instancing·IK","textChars":20,"textLines":1,"bbox":[480,532,320,24]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":17,"text":"Production Mindset","textPreview":"Production Mindset","textChars":18,"textLines":1,"bbox":[848,494,320,30]}
+{"kind":"textbox","id":"sh/61032lsz","slide":17,"text":"범위 판단과 플레이 가능한 빌드","textPreview":"범위 판단과 플레이 가능한 빌드","textChars":17,"textLines":1,"bbox":[848,532,320,24]}
+{"kind":"notes","id":"nt/54zidony","slide":17,"text":""}

@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 438edf76799114649a53185ac2ce4b57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4731825313617735469
+    second: UI - Borders and HP Bars1_0
+  - first:
+      213: 4228165474336562535
+    second: UI - Borders and HP Bars1_1
+  - first:
+      213: 1885154912548846431
+    second: UI - Borders and HP Bars1_2
+  - first:
+      213: -6011660871873408398
+    second: UI - Borders and HP Bars1_3
+  - first:
+      213: 4077823204008239010
+    second: UI - Borders and HP Bars1_4
+  - first:
+      213: -4267637474022438430
+    second: UI - Borders and HP Bars1_5
+  - first:
+      213: 8149930754306638331
+    second: UI - Borders and HP Bars1_6
+  - first:
+      213: 2895348723952097104
+    second: UI - Borders and HP Bars1_7
+  - first:
+      213: -4470933804712718398
+    second: UI - Borders and HP Bars1_8
+  - first:
+      213: 1919506259452025429
+    second: UI - Borders and HP Bars1_9
+  - first:
+      213: -32517397038112996
+    second: UI - Borders and HP Bars1_10
+  - first:
+      213: -5394923846411729198
+    second: UI - Borders and HP Bars1_11
+  - first:
+      213: 7137056614607263488
+    second: UI - Borders and HP Bars1_12
+  - first:
+      213: -7407797888208553789
+    second: UI - Borders and HP Bars1_13
+  - first:
+      213: 998926763708056823
+    second: UI - Borders and HP Bars1_14
+  - first:
+      213: 4247366182535265751
+    second: UI - Borders and HP Bars1_15
+  - first:
+      213: -7651036140684052804
+    second: UI - Borders and HP Bars1_16
+  - first:
+      213: 6688944320073692970
+    second: UI - Borders and HP Bars1_17
+  - first:
+      213: 2202085365380937836
+    second: UI - Borders and HP Bars1_18
+  - first:
+      213: 8450498482774822984
+    second: UI - Borders and HP Bars1_19
+  - first:
+      213: 3828959307126280399
+    second: UI - Borders and HP Bars1_20
+  - first:
+      213: 8313048644444521031
+    second: UI - Borders and HP Bars1_21
+  - first:
+      213: 1803426213996743607
+    second: UI - Borders and HP Bars1_22
+  - first:
+      213: -8201575519841585846
+    second: UI - Borders and HP Bars1_23
+  - first:
+      213: -7850055641780420439
+    second: UI - Borders and HP Bars1_24
+  - first:
+      213: 9075299647309808525
+    second: UI - Borders and HP Bars1_25
+  - first:
+      213: 7273114227165450823
+    second: UI - Borders and HP Bars1_26
+  - first:
+      213: -230507587497198318
+    second: UI - Borders and HP Bars1_27
+  - first:
+      213: 6221037152431753472
+    second: UI - Borders and HP Bars1_28
+  - first:
+      213: 1767726555951580598
+    second: UI - Borders and HP Bars1_29
+  - first:
+      213: -447287244221124439
+    second: UI - Borders and HP Bars1_30
+  - first:
+      213: -6775650740040162573
+    second: UI - Borders and HP Bars1_31
+  - first:
+      213: 5762618714071498661
+    second: UI - Borders and HP Bars1_32
+  - first:
+      213: -3519306244554935279
+    second: UI - Borders and HP Bars1_33
+  - first:
+      213: -1607488945422958046
+    second: UI - Borders and HP Bars1_34
+  - first:
+      213: 4426572502776363972
+    second: UI - Borders and HP Bars1_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI - Borders and HP Bars1_0
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 133
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d01d9292fd255eb0800000000000000
+      internalID: -4731825313617735469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI - Borders and HP Bars1_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 86
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3809f7df952d09c468120ed0d3c719f4
+      internalID: -563143587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI - Borders and HP Bars1_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddebb3e180517ad47b14c80f5a519566
+      internalID: -1448987929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI - Borders and HP Bars1_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 67
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df2440e5d87ae8489cb0bd7e45d40fa
+      internalID: 1151308990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI - Borders and HP Bars1_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e1a76e560ca124caaf859b859047df
+      internalID: 1005412324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI - Borders and HP Bars1_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 53
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fe7d163c23f3d45bd7186bcfec4da3
+      internalID: 1404595723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI - Borders and HP Bars1_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df47acebd95e82b47a8f61f29224007b
+      internalID: 1396010654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI - Borders and HP Bars1_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 85
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a538c5dc967dc4fbc930448cb88516
+      internalID: 1761900633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 85c6349a6611d1746bb57aed31151e0b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":336.0,"y":272.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      UI - Borders and HP Bars1_0: -4731825313617735469
+      UI - Borders and HP Bars1_1: -563143587
+      UI - Borders and HP Bars1_2: -1448987929
+      UI - Borders and HP Bars1_3: 1151308990
+      UI - Borders and HP Bars1_4: 1005412324
+      UI - Borders and HP Bars1_5: 1404595723
+      UI - Borders and HP Bars1_6: 1396010654
+      UI - Borders and HP Bars1_7: 1761900633
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,11 @@
+{
+    "asset": "b0af4dd0249f8444aacfc79edea73022",
+    "fileName": "019b2602-3166-7df1-8385-3c9203a3e2a0.pose.json",
+    "prompt": "이 스타일로 위쪽 공격하는 VFX",
+    "negativePrompt": "",
+    "model": "9e46c009-67d8-4254-a3a0-32e3168247ee",
+    "modelName": "Text to Motion",
+    "customSeed": 201445154,
+    "w3CTraceId": "a12aa47326ed5acb5cc7e2bc4e71c296",
+    "isTrimmed": false
+}

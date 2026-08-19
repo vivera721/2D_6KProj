@@ -1,0 +1,850 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/eceisg",
+    "id": "eceisg",
+    "slide": 11,
+    "layoutId": "a103f14b-d8a8-4137-93b3-36f4b5744a8e",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#111318",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a103f14b-d8a8-4137-93b3-36f4b5744a8e",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "ee7c73ba-fea4-42b2-b293-66b3dffbd0be",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9c3idgj",
+      "id": "1",
+      "bbox": [
+        64,
+        42,
+        420,
+        28
+      ],
+      "geometry": "rect",
+      "text": "MM_2D_6KProj Portfolio",
+      "textPreview": "MM_2D_6KProj Portfolio",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#F0B94D",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MM_2D_6KProj Portfolio"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MM_2D_6KProj Portfolio",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#F0B94D",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MM_2D_6KProj Portfolio",
+              "fontSize": 15,
+              "color": "#F0B94D",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hc32dsfu",
+      "id": "2",
+      "bbox": [
+        64,
+        82,
+        1080,
+        52
+      ],
+      "geometry": "rect",
+      "text": "문제 해결 사례는 기능보다 더 강한 포트폴리오 근거입니다",
+      "textPreview": "문제 해결 사례는 기능보다 더 강한 포트폴리오 근거입니다",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "fontSize": 36,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "문제 해결 사례는 기능보다 더 강한 포트폴리오 근거입니다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "문제 해결 사례는 기능보다 더 강한 포트폴리오 근거입니다",
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "문제 해결 사례는 기능보다 더 강한 포트폴리오 근거입니다",
+              "fontSize": 36,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbulkny9",
+      "id": "3",
+      "bbox": [
+        64,
+        145,
+        1152,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#343946",
+      "lineColor": "#343946",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3e5kfix0",
+      "id": "4",
+      "bbox": [
+        82,
+        190,
+        350,
+        300
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#171A21",
+      "lineColor": "#343946",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2dc3mdgf",
+      "id": "5",
+      "bbox": [
+        82,
+        190,
+        8,
+        300
+      ],
+      "geometry": "rect",
+      "fillColor": "#F0B94D",
+      "lineColor": "#F0B94D",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0n2hsf6",
+      "id": "6",
+      "bbox": [
+        106,
+        212,
+        302,
+        32
+      ],
+      "geometry": "rect",
+      "text": "저장 데이터 적용 순서",
+      "textPreview": "저장 데이터 적용 순서",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "저장 데이터 적용 순서"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "저장 데이터 적용 순서",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "저장 데이터 적용 순서",
+              "fontSize": 23,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4felonyl",
+      "id": "7",
+      "bbox": [
+        106,
+        258,
+        302,
+        212
+      ],
+      "geometry": "rect",
+      "text": "위치 로드가 ContinueMode를 먼저 끄면 HP/ST/DMG가 적용되지 않는 문제가 있었습니다. 런타임 데이터 -> 저장 상태 -> 위치 순서로 정리했습니다.",
+      "textPreview": "위치 로드가 ContinueMode를 먼저 끄면 HP/ST/DMG가 적용되지 않는 문제가 있었습니다. 런타임 데이터 -> 저장 상태 -> 위치 순서로 정리했습니다.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#B9B3A5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "위치 로드가 ContinueMode를 먼저"
+          },
+          {
+            "index": 2,
+            "text": "끄면 HP/ST/DMG가 적용되지 않는"
+          },
+          {
+            "index": 3,
+            "text": "문제가 있었습니다. 런타임 데이터"
+          },
+          {
+            "index": 4,
+            "text": "-> 저장 상태 -> 위치 순서로"
+          },
+          {
+            "index": 5,
+            "text": "정리했습니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "위치 로드가 ContinueMode를 먼저 끄면 HP/ST/DMG가 적용되지 않는 문제가 있었습니다. 런타임 데이터 -> 저장 상태 -> 위치 순서로 정리했습니다.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#B9B3A5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "위치 로드가 ContinueMode를 먼저 끄면 HP/ST/DMG가 적용되지 않는 문제가 있었습니다. 런타임 데이터 -> 저장 상태 -> 위치 순서로 정리했습니다.",
+              "fontSize": 18,
+              "color": "#B9B3A5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r25kj2xw",
+      "id": "8",
+      "bbox": [
+        466,
+        190,
+        350,
+        300
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#171A21",
+      "lineColor": "#343946",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q1w3qxgr",
+      "id": "9",
+      "bbox": [
+        466,
+        190,
+        8,
+        300
+      ],
+      "geometry": "rect",
+      "fillColor": "#E45B4F",
+      "lineColor": "#E45B4F",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cnedgnqh",
+      "id": "10",
+      "bbox": [
+        490,
+        212,
+        302,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Stage 메뉴 패널 미표시",
+      "textPreview": "Stage 메뉴 패널 미표시",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Stage 메뉴 패널 미표시"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Stage 메뉴 패널 미표시",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Stage 메뉴 패널 미표시",
+              "fontSize": 23,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xoneps72",
+      "id": "11",
+      "bbox": [
+        490,
+        258,
+        302,
+        212
+      ],
+      "geometry": "rect",
+      "text": "Stage1/2/3 Canvas scale이 0으로 저장되어 MenuPanel이 활성화돼도 보이지 않았습니다. 씬과 StagePrefab의 Canvas scale을 1로 수정했습니다.",
+      "textPreview": "Stage1/2/3 Canvas scale이 0으로 저장되어 MenuPanel이 활성화돼도 보이지 않았습니다. 씬과 StagePrefab의 Canvas scale을 1로 수정했습니다.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#B9B3A5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Stage1/2/3 Canvas scale이 0으로"
+          },
+          {
+            "index": 2,
+            "text": "저장되어 MenuPanel이 활성화돼도"
+          },
+          {
+            "index": 3,
+            "text": "보이지 않았습니다. 씬과"
+          },
+          {
+            "index": 4,
+            "text": "StagePrefab의 Canvas scale을 1로"
+          },
+          {
+            "index": 5,
+            "text": "수정했습니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Stage1/2/3 Canvas scale이 0으로 저장되어 MenuPanel이 활성화돼도 보이지 않았습니다. 씬과 StagePrefab의 Canvas scale을 1로 수정했습니다.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#B9B3A5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Stage1/2/3 Canvas scale이 0으로 저장되어 MenuPanel이 활성화돼도 보이지 않았습니다. 씬과 StagePrefab의 Canvas scale을 1로 수정했습니다.",
+              "fontSize": 18,
+              "color": "#B9B3A5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/alwved8b",
+      "id": "12",
+      "bbox": [
+        850,
+        190,
+        350,
+        300
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#171A21",
+      "lineColor": "#343946",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm5wnipw",
+      "id": "13",
+      "bbox": [
+        850,
+        190,
+        8,
+        300
+      ],
+      "geometry": "rect",
+      "fillColor": "#61C47A",
+      "lineColor": "#61C47A",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kryxk76t",
+      "id": "14",
+      "bbox": [
+        874,
+        212,
+        302,
+        32
+      ],
+      "geometry": "rect",
+      "text": "보스러쉬 전환",
+      "textPreview": "보스러쉬 전환",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#F4F1E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "보스러쉬 전환"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "보스러쉬 전환",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#F4F1E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "보스러쉬 전환",
+              "fontSize": 23,
+              "color": "#F4F1E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ls7ets7y",
+      "id": "15",
+      "bbox": [
+        874,
+        258,
+        302,
+        212
+      ],
+      "geometry": "rect",
+      "text": "완성 가능성을 위해 거대 맵과 스토리 비중을 줄이고, 전투/저장/진행 시스템 검증에 집중했습니다.",
+      "textPreview": "완성 가능성을 위해 거대 맵과 스토리 비중을 줄이고, 전투/저장/진행 시스템 검증에 집중했습니다.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#B9B3A5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "완성 가능성을 위해 거대 맵과"
+          },
+          {
+            "index": 2,
+            "text": "스토리 비중을 줄이고,"
+          },
+          {
+            "index": 3,
+            "text": "전투/저장/진행 시스템 검증에"
+          },
+          {
+            "index": 4,
+            "text": "집중했습니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "완성 가능성을 위해 거대 맵과 스토리 비중을 줄이고, 전투/저장/진행 시스템 검증에 집중했습니다.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#B9B3A5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "완성 가능성을 위해 거대 맵과 스토리 비중을 줄이고, 전투/저장/진행 시스템 검증에 집중했습니다.",
+              "fontSize": 18,
+              "color": "#B9B3A5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ypwfixon",
+      "id": "16",
+      "bbox": [
+        120,
+        540,
+        1040,
+        52
+      ],
+      "geometry": "rect",
+      "text": "면접에서 강조할 문장: 문제를 발견하면 원인을 씬 데이터, 실행 순서, 참조 생명주기 중 어디에 있는지 나눠서 추적했습니다.",
+      "textPreview": "면접에서 강조할 문장: 문제를 발견하면 원인을 씬 데이터, 실행 순서, 참조 생명주기 중 어디에 있는지 나눠서 추적했습니다.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "color": "#B9B3A5",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "면접에서 강조할 문장: 문제를 발견하면 원인을 씬 데이터, 실행 순서, 참조 생명주기 중 어디에 있는지"
+          },
+          {
+            "index": 2,
+            "text": "나눠서 추적했습니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "면접에서 강조할 문장: 문제를 발견하면 원인을 씬 데이터, 실행 순서, 참조 생명주기 중 어디에 있는지 나눠서 추적했습니다.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "color": "#B9B3A5",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "면접에서 강조할 문장: 문제를 발견하면 원인을 씬 데이터, 실행 순서, 참조 생명주기 중 어디에 있는지 나눠서 추적했습니다.",
+              "fontSize": 22,
+              "color": "#B9B3A5",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zqpwr2p8",
+      "id": "17",
+      "bbox": [
+        64,
+        674,
+        760,
+        24
+      ],
+      "geometry": "rect",
+      "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 11",
+      "textPreview": "조성재 | sjjfire123@naver.com | Unity Version Control | 11",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#7F8792",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 11"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 11",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#7F8792",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "조성재 | sjjfire123@naver.com | Unity Version Control | 11",
+              "fontSize": 13,
+              "color": "#7F8792",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

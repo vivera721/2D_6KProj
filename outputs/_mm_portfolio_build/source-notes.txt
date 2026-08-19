@@ -1,0 +1,9 @@
+Internal project sources used:
+- Assets/_Project/01_Scripts/Common/SaveManager.cs
+- Assets/_Project/01_Scripts/Common/PlayerRuntimeData.cs
+- Assets/_Project/01_Scripts/Common/StageFlowManager.cs
+- Assets/_Project/01_Scripts/Enemies/EnemyCore.cs
+- Assets/_Project/01_Scripts/Player/Player.cs
+- outputs/game_screen.png
+
+No external web research or third-party claims were used for this deck.

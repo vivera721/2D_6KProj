@@ -1,0 +1,3731 @@
+fileFormatVersion: 2
+guid: c9322c4304a311e4da45f3d01383d3a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2653220885153116381
+    second: Platformer Hero No Weapon 64x64_0
+  - first:
+      213: -8353760013327912665
+    second: Platformer Hero No Weapon 64x64_1
+  - first:
+      213: -2613578305564308831
+    second: Platformer Hero No Weapon 64x64_2
+  - first:
+      213: 419554458602319389
+    second: Platformer Hero No Weapon 64x64_3
+  - first:
+      213: 8946348752153732027
+    second: Platformer Hero No Weapon 64x64_4
+  - first:
+      213: -2431998664949277146
+    second: Platformer Hero No Weapon 64x64_5
+  - first:
+      213: -4297485921999794604
+    second: Platformer Hero No Weapon 64x64_6
+  - first:
+      213: -3398805792105003627
+    second: Platformer Hero No Weapon 64x64_7
+  - first:
+      213: -2719007570542383374
+    second: Platformer Hero No Weapon 64x64_8
+  - first:
+      213: 154175795497789368
+    second: Platformer Hero No Weapon 64x64_9
+  - first:
+      213: -5074309276927931013
+    second: Platformer Hero No Weapon 64x64_10
+  - first:
+      213: 5533426974672371496
+    second: Platformer Hero No Weapon 64x64_11
+  - first:
+      213: 2466965853903798751
+    second: Platformer Hero No Weapon 64x64_12
+  - first:
+      213: -5099112699201231261
+    second: Platformer Hero No Weapon 64x64_13
+  - first:
+      213: -2365828615742237753
+    second: Platformer Hero No Weapon 64x64_14
+  - first:
+      213: -5188528104260348424
+    second: Platformer Hero No Weapon 64x64_15
+  - first:
+      213: -5874168091959969629
+    second: Platformer Hero No Weapon 64x64_16
+  - first:
+      213: 833562299913507136
+    second: Platformer Hero No Weapon 64x64_17
+  - first:
+      213: 8611725537998789424
+    second: Platformer Hero No Weapon 64x64_18
+  - first:
+      213: 6865745585402675023
+    second: Platformer Hero No Weapon 64x64_19
+  - first:
+      213: -2636101166569134474
+    second: Platformer Hero No Weapon 64x64_20
+  - first:
+      213: -8286394358063170497
+    second: Platformer Hero No Weapon 64x64_21
+  - first:
+      213: -7652280278089030911
+    second: Platformer Hero No Weapon 64x64_22
+  - first:
+      213: 2815805672460030308
+    second: Platformer Hero No Weapon 64x64_23
+  - first:
+      213: 7524264643258394016
+    second: Platformer Hero No Weapon 64x64_24
+  - first:
+      213: 7655431043869024733
+    second: Platformer Hero No Weapon 64x64_25
+  - first:
+      213: 6798282400840552891
+    second: Platformer Hero No Weapon 64x64_26
+  - first:
+      213: 3234845292511091520
+    second: Platformer Hero No Weapon 64x64_27
+  - first:
+      213: -4915322874097050566
+    second: Platformer Hero No Weapon 64x64_28
+  - first:
+      213: -1973398421118676852
+    second: Platformer Hero No Weapon 64x64_29
+  - first:
+      213: 1234325963764185685
+    second: Platformer Hero No Weapon 64x64_30
+  - first:
+      213: 2213774681326515238
+    second: Platformer Hero No Weapon 64x64_31
+  - first:
+      213: -6316098049274711885
+    second: Platformer Hero No Weapon 64x64_32
+  - first:
+      213: -6598974041974406984
+    second: Platformer Hero No Weapon 64x64_33
+  - first:
+      213: 6767507218415619447
+    second: Platformer Hero No Weapon 64x64_34
+  - first:
+      213: -2406500511114386333
+    second: Platformer Hero No Weapon 64x64_35
+  - first:
+      213: 2401422717144753018
+    second: Platformer Hero No Weapon 64x64_36
+  - first:
+      213: -1437918456929093297
+    second: Platformer Hero No Weapon 64x64_37
+  - first:
+      213: -5539883631982906630
+    second: Platformer Hero No Weapon 64x64_38
+  - first:
+      213: -1808316448951517711
+    second: Platformer Hero No Weapon 64x64_39
+  - first:
+      213: -4802474438373320161
+    second: Platformer Hero No Weapon 64x64_40
+  - first:
+      213: -6497037581404560778
+    second: Platformer Hero No Weapon 64x64_41
+  - first:
+      213: -1650294678457653674
+    second: Platformer Hero No Weapon 64x64_42
+  - first:
+      213: 3095411313287953738
+    second: Platformer Hero No Weapon 64x64_43
+  - first:
+      213: 401272287699860732
+    second: Platformer Hero No Weapon 64x64_44
+  - first:
+      213: 2334987754122099620
+    second: Platformer Hero No Weapon 64x64_45
+  - first:
+      213: -8756815932978237419
+    second: Platformer Hero No Weapon 64x64_46
+  - first:
+      213: 414122142375404736
+    second: Platformer Hero No Weapon 64x64_47
+  - first:
+      213: -5303911517668368889
+    second: Platformer Hero No Weapon 64x64_48
+  - first:
+      213: 8261628893401730720
+    second: Platformer Hero No Weapon 64x64_49
+  - first:
+      213: 4355745199388559552
+    second: Platformer Hero No Weapon 64x64_50
+  - first:
+      213: -5163170969905303799
+    second: Platformer Hero No Weapon 64x64_51
+  - first:
+      213: -5434015969144191208
+    second: Platformer Hero No Weapon 64x64_52
+  - first:
+      213: 5986777648920534935
+    second: Platformer Hero No Weapon 64x64_53
+  - first:
+      213: 6349400693764038841
+    second: Platformer Hero No Weapon 64x64_54
+  - first:
+      213: -4772063230907909395
+    second: Platformer Hero No Weapon 64x64_55
+  - first:
+      213: 238213805342091258
+    second: Platformer Hero No Weapon 64x64_56
+  - first:
+      213: -3370678143975702707
+    second: Platformer Hero No Weapon 64x64_57
+  - first:
+      213: -8844954240066247052
+    second: Platformer Hero No Weapon 64x64_58
+  - first:
+      213: 5485683411573110607
+    second: Platformer Hero No Weapon 64x64_59
+  - first:
+      213: 3381865285904148073
+    second: Platformer Hero No Weapon 64x64_60
+  - first:
+      213: -2674351738599847720
+    second: Platformer Hero No Weapon 64x64_61
+  - first:
+      213: 7769602419139283244
+    second: Platformer Hero No Weapon 64x64_62
+  - first:
+      213: -2967337590573565052
+    second: Platformer Hero No Weapon 64x64_63
+  - first:
+      213: 4250030536131351304
+    second: Platformer Hero No Weapon 64x64_64
+  - first:
+      213: 298618824013508715
+    second: Platformer Hero No Weapon 64x64_65
+  - first:
+      213: 8843019242422271120
+    second: Platformer Hero No Weapon 64x64_66
+  - first:
+      213: 1244162382986210129
+    second: Platformer Hero No Weapon 64x64_67
+  - first:
+      213: -2866983799674764379
+    second: Platformer Hero No Weapon 64x64_68
+  - first:
+      213: 81532632891002761
+    second: Platformer Hero No Weapon 64x64_69
+  - first:
+      213: 8344669204361952176
+    second: Platformer Hero No Weapon 64x64_70
+  - first:
+      213: -9011409686535238211
+    second: Platformer Hero No Weapon 64x64_71
+  - first:
+      213: -1695674010168749472
+    second: Platformer Hero No Weapon 64x64_72
+  - first:
+      213: -1159894889802549937
+    second: Platformer Hero No Weapon 64x64_73
+  - first:
+      213: 571442060245362676
+    second: Platformer Hero No Weapon 64x64_74
+  - first:
+      213: 1580577553225049112
+    second: Platformer Hero No Weapon 64x64_75
+  - first:
+      213: -793941040899337248
+    second: Platformer Hero No Weapon 64x64_76
+  - first:
+      213: -7150695013610642274
+    second: Platformer Hero No Weapon 64x64_77
+  - first:
+      213: -922877466209772071
+    second: Platformer Hero No Weapon 64x64_78
+  - first:
+      213: 167761799925306631
+    second: Platformer Hero No Weapon 64x64_79
+  - first:
+      213: -6268490820027703316
+    second: Platformer Hero No Weapon 64x64_80
+  - first:
+      213: 184163395754108741
+    second: Platformer Hero No Weapon 64x64_81
+  - first:
+      213: -2501297619418391211
+    second: Platformer Hero No Weapon 64x64_82
+  - first:
+      213: 6283319738631919470
+    second: Platformer Hero No Weapon 64x64_83
+  - first:
+      213: -3205749033687438682
+    second: Platformer Hero No Weapon 64x64_84
+  - first:
+      213: 4098284654534709432
+    second: Platformer Hero No Weapon 64x64_85
+  - first:
+      213: -3336555620700850394
+    second: Platformer Hero No Weapon 64x64_86
+  - first:
+      213: -4519274899320693821
+    second: Platformer Hero No Weapon 64x64_87
+  - first:
+      213: -7999812311234520997
+    second: Platformer Hero No Weapon 64x64_88
+  - first:
+      213: -5852163803268239598
+    second: Platformer Hero No Weapon 64x64_89
+  - first:
+      213: 1019567783549670045
+    second: Platformer Hero No Weapon 64x64_90
+  - first:
+      213: 1697942321581048628
+    second: Platformer Hero No Weapon 64x64_91
+  - first:
+      213: 3408094939476978707
+    second: Platformer Hero No Weapon 64x64_92
+  - first:
+      213: 6271919872761693006
+    second: Platformer Hero No Weapon 64x64_93
+  - first:
+      213: -1984318492018169069
+    second: Platformer Hero No Weapon 64x64_94
+  - first:
+      213: 2560761480694881012
+    second: Platformer Hero No Weapon 64x64_95
+  - first:
+      213: 3621080992033718166
+    second: Platformer Hero No Weapon 64x64_96
+  - first:
+      213: 4549666471278791517
+    second: Platformer Hero No Weapon 64x64_97
+  - first:
+      213: 1056374366917121116
+    second: Platformer Hero No Weapon 64x64_98
+  - first:
+      213: 2169439434582166027
+    second: Platformer Hero No Weapon 64x64_99
+  - first:
+      213: 5671171695635216243
+    second: Platformer Hero No Weapon 64x64_100
+  - first:
+      213: 1415097289612197763
+    second: Platformer Hero No Weapon 64x64_101
+  - first:
+      213: -5653021539523919081
+    second: Platformer Hero No Weapon 64x64_102
+  - first:
+      213: 804897956448428946
+    second: Platformer Hero No Weapon 64x64_103
+  - first:
+      213: -2466662452870066545
+    second: Platformer Hero No Weapon 64x64_104
+  - first:
+      213: -5947328391522873417
+    second: Platformer Hero No Weapon 64x64_105
+  - first:
+      213: -1826666578585363244
+    second: Platformer Hero No Weapon 64x64_106
+  - first:
+      213: -2246425695297177117
+    second: Platformer Hero No Weapon 64x64_107
+  - first:
+      213: 4718841311788103408
+    second: Platformer Hero No Weapon 64x64_108
+  - first:
+      213: -2615990934721300660
+    second: Platformer Hero No Weapon 64x64_109
+  - first:
+      213: -443685016744460021
+    second: Platformer Hero No Weapon 64x64_110
+  - first:
+      213: -48065898477560889
+    second: Platformer Hero No Weapon 64x64_111
+  - first:
+      213: -255984681134975628
+    second: Platformer Hero No Weapon 64x64_112
+  - first:
+      213: -2176031820053348385
+    second: Platformer Hero No Weapon 64x64_113
+  - first:
+      213: 4987268607959670910
+    second: Platformer Hero No Weapon 64x64_114
+  - first:
+      213: -4548615819889904098
+    second: Platformer Hero No Weapon 64x64_115
+  - first:
+      213: 6350451532199361718
+    second: Platformer Hero No Weapon 64x64_116
+  - first:
+      213: 9057064188609552620
+    second: Platformer Hero No Weapon 64x64_117
+  - first:
+      213: 1413389291570348084
+    second: Platformer Hero No Weapon 64x64_118
+  - first:
+      213: -3261162754475136509
+    second: Platformer Hero No Weapon 64x64_119
+  - first:
+      213: 7403690644207161423
+    second: Platformer Hero No Weapon 64x64_120
+  - first:
+      213: -7323219493133254634
+    second: Platformer Hero No Weapon 64x64_121
+  - first:
+      213: -5201324885399271698
+    second: Platformer Hero No Weapon 64x64_122
+  - first:
+      213: -6683087157752472292
+    second: Platformer Hero No Weapon 64x64_123
+  - first:
+      213: -3366388913312222313
+    second: Platformer Hero No Weapon 64x64_124
+  - first:
+      213: -2374624486851720508
+    second: Platformer Hero No Weapon 64x64_125
+  - first:
+      213: -8527801883701643627
+    second: Platformer Hero No Weapon 64x64_126
+  - first:
+      213: 6974503993198243986
+    second: Platformer Hero No Weapon 64x64_127
+  - first:
+      213: 6349674247781856575
+    second: Platformer Hero No Weapon 64x64_128
+  - first:
+      213: -3120546583896748138
+    second: Platformer Hero No Weapon 64x64_129
+  - first:
+      213: 1027045772508747767
+    second: Platformer Hero No Weapon 64x64_130
+  - first:
+      213: -5892615860939518654
+    second: Platformer Hero No Weapon 64x64_131
+  - first:
+      213: 8868019007789108421
+    second: Platformer Hero No Weapon 64x64_132
+  - first:
+      213: -1416706659323859088
+    second: Platformer Hero No Weapon 64x64_133
+  - first:
+      213: 528481607150020324
+    second: Platformer Hero No Weapon 64x64_134
+  - first:
+      213: -8893555690469950725
+    second: Platformer Hero No Weapon 64x64_135
+  - first:
+      213: 254017253405114304
+    second: Platformer Hero No Weapon 64x64_136
+  - first:
+      213: 5166353123754236153
+    second: Platformer Hero No Weapon 64x64_137
+  - first:
+      213: 7550339398361502816
+    second: Platformer Hero No Weapon 64x64_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1231
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0f232765222d420800000000000000
+      internalID: 2653220885153116381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1231
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7213aba278b711c80800000000000000
+      internalID: -8353760013327912665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1231
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa0c20e064babbd0800000000000000
+      internalID: -2613578305564308831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1231
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e2ce4ae8e82d500800000000000000
+      internalID: 419554458602319389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1231
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3e1e05ac0d72c70800000000000000
+      internalID: 8946348752153732027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1231
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e5979791ecf3ed0800000000000000
+      internalID: -2431998664949277146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1231
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ec5ffa2534c54c0800000000000000
+      internalID: -4297485921999794604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1231
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5958a05c32405d0d0800000000000000
+      internalID: -3398805792105003627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1167
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe29304505244ad0800000000000000
+      internalID: -2719007570542383374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1103
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7eb93b11eb32200800000000000000
+      internalID: 154175795497789368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1039
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dcd34f89e6499b0800000000000000
+      internalID: -5074309276927931013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1039
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f39ef148eaacc40800000000000000
+      internalID: 5533426974672371496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1039
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd144f2af5c6c3220800000000000000
+      internalID: 2466965853903798751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1039
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3666d6e24005c39b0800000000000000
+      internalID: -5099112699201231261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_14
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1039
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3da3f9863ea2fd0800000000000000
+      internalID: -2365828615742237753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_15
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1039
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f55e6edd25aef7b0800000000000000
+      internalID: -5188528104260348424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1039
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8bac73e33ca7ea0800000000000000
+      internalID: -5874168091959969629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_17
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1039
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0419080de78619b00800000000000000
+      internalID: 833562299913507136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 975
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bd39bffbef28770800000000000000
+      internalID: 8611725537998789424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 975
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ff120db37084f50800000000000000
+      internalID: 6865745585402675023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 975
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67667a6a4ffaa6bd0800000000000000
+      internalID: -2636101166569134474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 975
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cf7da0c30d00d80800000000000000
+      internalID: -8286394358063170497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 975
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103a6ce61a3adc590800000000000000
+      internalID: -7652280278089030911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 975
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461928f1750c31720800000000000000
+      internalID: 2815805672460030308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_24
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 975
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5a279e3de8b6860800000000000000
+      internalID: 7524264643258394016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_25
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 975
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1af4469fd8d3a60800000000000000
+      internalID: 7655431043869024733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_26
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 911
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb114e023d9585e50800000000000000
+      internalID: 6798282400840552891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 911
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bd77397aa74ec20800000000000000
+      internalID: 3234845292511091520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 911
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cd71573e349cbb0800000000000000
+      internalID: -4915322874097050566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 911
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8097ec67941d94e0800000000000000
+      internalID: -1973398421118676852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_30
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 911
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ab43f9ce4312110800000000000000
+      internalID: 1234325963764185685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 911
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6247835f758e8be10800000000000000
+      internalID: 2213774681326515238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_32
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 911
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0717ec946b858a0800000000000000
+      internalID: -6316098049274711885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_33
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 911
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0871a521cbb64a0800000000000000
+      internalID: -6598974041974406984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 847
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d0e8895f30bed50800000000000000
+      internalID: 6767507218415619447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 847
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3642b3b09846a9ed0800000000000000
+      internalID: -2406500511114386333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 847
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7367faec31935120800000000000000
+      internalID: 2401422717144753018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 847
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4973c628cc7b0ce0800000000000000
+      internalID: -1437918456929093297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 847
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af278a230316e13b0800000000000000
+      internalID: -5539883631982906630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_39
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 847
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdbfb245c197e6e0800000000000000
+      internalID: -1808316448951517711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_40
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 847
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a5dd161fe2a5db0800000000000000
+      internalID: -4802474438373320161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_41
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 847
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672a4041eb2e5d5a0800000000000000
+      internalID: -6497037581404560778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 783
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65660dbcbb9f819e0800000000000000
+      internalID: -1650294678457653674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 783
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4df042703c15fa20800000000000000
+      internalID: 3095411313287953738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_44
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 783
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcfe86050b919500800000000000000
+      internalID: 401272287699860732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 783
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abb557bdfa876020800000000000000
+      internalID: 2334987754122099620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 783
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510f957fd4a897680800000000000000
+      internalID: -8756815932978237419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_47
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 719
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4e8e5f4e14fb500800000000000000
+      internalID: 414122142375404736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_48
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 719
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e16457398b466b0800000000000000
+      internalID: -5303911517668368889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 719
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae4051e4b337a270800000000000000
+      internalID: 8261628893401730720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_50
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 719
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c80bad5e27b27c30800000000000000
+      internalID: 4355745199388559552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_51
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 719
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f6f28cb5bb858b0800000000000000
+      internalID: -5163170969905303799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_52
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 719
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8174c57444f7694b0800000000000000
+      internalID: -5434015969144191208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_53
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 719
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f18296d8e451350800000000000000
+      internalID: 5986777648920534935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_54
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 719
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0ac685a4a9d1850800000000000000
+      internalID: 6349400693764038841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_55
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 719
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaf70466c936cdb0800000000000000
+      internalID: -4772063230907909395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_56
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 719
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af76200a13e4e4300800000000000000
+      internalID: 238213805342091258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_57
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 719
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fb7203612f831d0800000000000000
+      internalID: -3370678143975702707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_58
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 719
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47624423bf8604580800000000000000
+      internalID: -8844954240066247052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_59
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 719
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4771199fff012c40800000000000000
+      internalID: 5485683411573110607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 655
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966aa844f8cceee20800000000000000
+      internalID: 3381865285904148073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_61
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 655
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8ce48534bc2ead0800000000000000
+      internalID: -2674351738599847720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_62
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 655
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2900de2c3c23db60800000000000000
+      internalID: 7769602419139283244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_63
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 656
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bf239de26e1d6d0800000000000000
+      internalID: -2967337590573565052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 655
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8031ca641442bfa30800000000000000
+      internalID: 4250030536131351304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_65
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 655
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60f1900d38e42400800000000000000
+      internalID: 298618824013508715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_66
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 655
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cf58e0627b8ba70800000000000000
+      internalID: 8843019242422271120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_67
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 655
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bebc07817244110800000000000000
+      internalID: 1244162382986210129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_68
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 591
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a306939c6d6638d0800000000000000
+      internalID: -2866983799674764379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_69
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 591
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f02156f79a12100800000000000000
+      internalID: 81532632891002761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_70
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 591
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbb22eed683ec370800000000000000
+      internalID: 8344669204361952176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_71
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 591
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd8d8472aa01f280800000000000000
+      internalID: -9011409686535238211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 527
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0629709c871c778e0800000000000000
+      internalID: -1695674010168749472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_73
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 527
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45378c3eb937efe0800000000000000
+      internalID: -1159894889802549937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_74
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 527
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f764a2b68b2ee700800000000000000
+      internalID: 571442060245362676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_75
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 527
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8146fef09e65fe510800000000000000
+      internalID: 1580577553225049112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_76
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 462
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3579c64da5bf4f0800000000000000
+      internalID: -793941040899337248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_77
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 462
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94a49865c0a3cc90800000000000000
+      internalID: -7150695013610642274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_78
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 462
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd9a5785d74133f0800000000000000
+      internalID: -922877466209772071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_79
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 462
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7059d6bd772045200800000000000000
+      internalID: 167761799925306631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_80
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 399
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef9372afc8d109a0800000000000000
+      internalID: -6268490820027703316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_81
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 399
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547ad88f1a74e8200800000000000000
+      internalID: 184163395754108741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_82
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 399
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d590d411b994dd0800000000000000
+      internalID: -2501297619418391211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_83
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 399
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e671b570306d23750800000000000000
+      internalID: 6283319738631919470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_84
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 399
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa22081d34e283d0800000000000000
+      internalID: -3205749033687438682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_85
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 399
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0d9fdfd2800e830800000000000000
+      internalID: 4098284654534709432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_86
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 399
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627face375c22b1d0800000000000000
+      internalID: -3336555620700850394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_87
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 399
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb96a75c6f4841c0800000000000000
+      internalID: -4519274899320693821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_88
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 399
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58d1177615faf090800000000000000
+      internalID: -7999812311234520997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_89
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 399
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f2ccae600f8cea0800000000000000
+      internalID: -5852163803268239598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_90
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 399
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9219ea4f7b362e00800000000000000
+      internalID: 1019567783549670045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_91
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 399
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433c0fe9b8d409710800000000000000
+      internalID: 1697942321581048628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_92
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 334
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ce4546a4cfb4f20800000000000000
+      internalID: 3408094939476978707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_93
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 334
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e438cabe4e55a0750800000000000000
+      internalID: 6271919872761693006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_94
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 334
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ba40a48d84674e0800000000000000
+      internalID: -1984318492018169069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_95
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 334
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa525bcff6a98320800000000000000
+      internalID: 2560761480694881012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_96
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 270
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fb6191af9a04230800000000000000
+      internalID: 3621080992033718166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_97
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 270
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bc31bec89a32f30800000000000000
+      internalID: 4549666471278791517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_98
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 270
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c545ce9c3eef8ae00800000000000000
+      internalID: 1056374366917121116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_99
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 270
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a8efbeba56b1e10800000000000000
+      internalID: 2169439434582166027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_100
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 206
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377369a2c9c04be40800000000000000
+      internalID: 5671171695635216243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_101
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 206
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ff3f5cc7f63a310800000000000000
+      internalID: 1415097289612197763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_102
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 206
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7138b0d5cde6c81b0800000000000000
+      internalID: -5653021539523919081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_103
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 206
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293eb864d629b2b00800000000000000
+      internalID: 804897956448428946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_104
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 206
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ec2eb6197a4cdd0800000000000000
+      internalID: -2466662452870066545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_105
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 206
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf0fa49658d67da0800000000000000
+      internalID: -5947328391522873417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_106
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 206
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc5754cc6066a6e0800000000000000
+      internalID: -1826666578585363244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_107
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 206
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e970817bb713d0e0800000000000000
+      internalID: -2246425695297177117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_108
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 206
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6719ceb21bc7140800000000000000
+      internalID: 4718841311788103408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_109
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 206
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c477b40ea1222bbd0800000000000000
+      internalID: -2615990934721300660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_110
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 206
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0188c8f3d6b7d9f0800000000000000
+      internalID: -443685016744460021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_111
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 206
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb5f6be15c355ff0800000000000000
+      internalID: -48065898477560889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_112
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 206
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475120de94f827cf0800000000000000
+      internalID: -255984681134975628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_113
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 206
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdff5c9b69e2dc1e0800000000000000
+      internalID: -2176031820053348385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_114
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 142
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70a4e01066563540800000000000000
+      internalID: 4987268607959670910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_115
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 143
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e167dbbe20210e0c0800000000000000
+      internalID: -4548615819889904098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_116
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 150
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcf31cb506512850800000000000000
+      internalID: 6350451532199361718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 157
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0ebf5a4e721bd70800000000000000
+      internalID: 9057064188609552620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_118
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 159
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430446d721e5d9310800000000000000
+      internalID: 1413389291570348084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 163
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a66c0d0c50eb2d0800000000000000
+      internalID: -3261162754475136509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_120
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 167
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40d9da1a613fb660800000000000000
+      internalID: 7403690644207161423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_121
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610839bcba2be5a90800000000000000
+      internalID: -7323219493133254634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_122
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee68064139e21d7b0800000000000000
+      internalID: -5201324885399271698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_123
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d503773a7e043a0800000000000000
+      internalID: -6683087157752472292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_124
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79336368e1f2841d0800000000000000
+      internalID: -3366388913312222313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_125
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca424a4c93ab0fd0800000000000000
+      internalID: -2374624486851720508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_126
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5967e077e5927a980800000000000000
+      internalID: -8527801883701643627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_127
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 78
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290ff17ed6a6ac060800000000000000
+      internalID: 6974503993198243986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_128
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 78
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35bb7a16139e1850800000000000000
+      internalID: 6349674247781856575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_129
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f86c15a6791b4d0800000000000000
+      internalID: -3120546583896748138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_130
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 15
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7537640bcc04e00800000000000000
+      internalID: 1027045772508747767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_131
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 15
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d0eda4819393ea0800000000000000
+      internalID: -5892615860939518654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc8ea48d48811b70800000000000000
+      internalID: 8868019007789108421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_133
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f2214acc8d65ce0800000000000000
+      internalID: -1416706659323859088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_134
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 15
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e62180c83b855700800000000000000
+      internalID: 528481607150020324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_135
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 15
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa7267383eb39480800000000000000
+      internalID: -8893555690469950725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_136
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 15
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf380c9853768300800000000000000
+      internalID: 254017253405114304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_137
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 15
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8d9952bc292b740800000000000000
+      internalID: 5166353123754236153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero No Weapon 64x64_138
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 15
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06459fceda138c860800000000000000
+      internalID: 7550339398361502816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Platformer Hero No Weapon 64x64_0: 2653220885153116381
+      Platformer Hero No Weapon 64x64_1: -8353760013327912665
+      Platformer Hero No Weapon 64x64_10: -5074309276927931013
+      Platformer Hero No Weapon 64x64_100: 5671171695635216243
+      Platformer Hero No Weapon 64x64_101: 1415097289612197763
+      Platformer Hero No Weapon 64x64_102: -5653021539523919081
+      Platformer Hero No Weapon 64x64_103: 804897956448428946
+      Platformer Hero No Weapon 64x64_104: -2466662452870066545
+      Platformer Hero No Weapon 64x64_105: -5947328391522873417
+      Platformer Hero No Weapon 64x64_106: -1826666578585363244
+      Platformer Hero No Weapon 64x64_107: -2246425695297177117
+      Platformer Hero No Weapon 64x64_108: 4718841311788103408
+      Platformer Hero No Weapon 64x64_109: -2615990934721300660
+      Platformer Hero No Weapon 64x64_11: 5533426974672371496
+      Platformer Hero No Weapon 64x64_110: -443685016744460021
+      Platformer Hero No Weapon 64x64_111: -48065898477560889
+      Platformer Hero No Weapon 64x64_112: -255984681134975628
+      Platformer Hero No Weapon 64x64_113: -2176031820053348385
+      Platformer Hero No Weapon 64x64_114: 4987268607959670910
+      Platformer Hero No Weapon 64x64_115: -4548615819889904098
+      Platformer Hero No Weapon 64x64_116: 6350451532199361718
+      Platformer Hero No Weapon 64x64_117: 9057064188609552620
+      Platformer Hero No Weapon 64x64_118: 1413389291570348084
+      Platformer Hero No Weapon 64x64_119: -3261162754475136509
+      Platformer Hero No Weapon 64x64_12: 2466965853903798751
+      Platformer Hero No Weapon 64x64_120: 7403690644207161423
+      Platformer Hero No Weapon 64x64_121: -7323219493133254634
+      Platformer Hero No Weapon 64x64_122: -5201324885399271698
+      Platformer Hero No Weapon 64x64_123: -6683087157752472292
+      Platformer Hero No Weapon 64x64_124: -3366388913312222313
+      Platformer Hero No Weapon 64x64_125: -2374624486851720508
+      Platformer Hero No Weapon 64x64_126: -8527801883701643627
+      Platformer Hero No Weapon 64x64_127: 6974503993198243986
+      Platformer Hero No Weapon 64x64_128: 6349674247781856575
+      Platformer Hero No Weapon 64x64_129: -3120546583896748138
+      Platformer Hero No Weapon 64x64_13: -5099112699201231261
+      Platformer Hero No Weapon 64x64_130: 1027045772508747767
+      Platformer Hero No Weapon 64x64_131: -5892615860939518654
+      Platformer Hero No Weapon 64x64_132: 8868019007789108421
+      Platformer Hero No Weapon 64x64_133: -1416706659323859088
+      Platformer Hero No Weapon 64x64_134: 528481607150020324
+      Platformer Hero No Weapon 64x64_135: -8893555690469950725
+      Platformer Hero No Weapon 64x64_136: 254017253405114304
+      Platformer Hero No Weapon 64x64_137: 5166353123754236153
+      Platformer Hero No Weapon 64x64_138: 7550339398361502816
+      Platformer Hero No Weapon 64x64_14: -2365828615742237753
+      Platformer Hero No Weapon 64x64_15: -5188528104260348424
+      Platformer Hero No Weapon 64x64_16: -5874168091959969629
+      Platformer Hero No Weapon 64x64_17: 833562299913507136
+      Platformer Hero No Weapon 64x64_18: 8611725537998789424
+      Platformer Hero No Weapon 64x64_19: 6865745585402675023
+      Platformer Hero No Weapon 64x64_2: -2613578305564308831
+      Platformer Hero No Weapon 64x64_20: -2636101166569134474
+      Platformer Hero No Weapon 64x64_21: -8286394358063170497
+      Platformer Hero No Weapon 64x64_22: -7652280278089030911
+      Platformer Hero No Weapon 64x64_23: 2815805672460030308
+      Platformer Hero No Weapon 64x64_24: 7524264643258394016
+      Platformer Hero No Weapon 64x64_25: 7655431043869024733
+      Platformer Hero No Weapon 64x64_26: 6798282400840552891
+      Platformer Hero No Weapon 64x64_27: 3234845292511091520
+      Platformer Hero No Weapon 64x64_28: -4915322874097050566
+      Platformer Hero No Weapon 64x64_29: -1973398421118676852
+      Platformer Hero No Weapon 64x64_3: 419554458602319389
+      Platformer Hero No Weapon 64x64_30: 1234325963764185685
+      Platformer Hero No Weapon 64x64_31: 2213774681326515238
+      Platformer Hero No Weapon 64x64_32: -6316098049274711885
+      Platformer Hero No Weapon 64x64_33: -6598974041974406984
+      Platformer Hero No Weapon 64x64_34: 6767507218415619447
+      Platformer Hero No Weapon 64x64_35: -2406500511114386333
+      Platformer Hero No Weapon 64x64_36: 2401422717144753018
+      Platformer Hero No Weapon 64x64_37: -1437918456929093297
+      Platformer Hero No Weapon 64x64_38: -5539883631982906630
+      Platformer Hero No Weapon 64x64_39: -1808316448951517711
+      Platformer Hero No Weapon 64x64_4: 8946348752153732027
+      Platformer Hero No Weapon 64x64_40: -4802474438373320161
+      Platformer Hero No Weapon 64x64_41: -6497037581404560778
+      Platformer Hero No Weapon 64x64_42: -1650294678457653674
+      Platformer Hero No Weapon 64x64_43: 3095411313287953738
+      Platformer Hero No Weapon 64x64_44: 401272287699860732
+      Platformer Hero No Weapon 64x64_45: 2334987754122099620
+      Platformer Hero No Weapon 64x64_46: -8756815932978237419
+      Platformer Hero No Weapon 64x64_47: 414122142375404736
+      Platformer Hero No Weapon 64x64_48: -5303911517668368889
+      Platformer Hero No Weapon 64x64_49: 8261628893401730720
+      Platformer Hero No Weapon 64x64_5: -2431998664949277146
+      Platformer Hero No Weapon 64x64_50: 4355745199388559552
+      Platformer Hero No Weapon 64x64_51: -5163170969905303799
+      Platformer Hero No Weapon 64x64_52: -5434015969144191208
+      Platformer Hero No Weapon 64x64_53: 5986777648920534935
+      Platformer Hero No Weapon 64x64_54: 6349400693764038841
+      Platformer Hero No Weapon 64x64_55: -4772063230907909395
+      Platformer Hero No Weapon 64x64_56: 238213805342091258
+      Platformer Hero No Weapon 64x64_57: -3370678143975702707
+      Platformer Hero No Weapon 64x64_58: -8844954240066247052
+      Platformer Hero No Weapon 64x64_59: 5485683411573110607
+      Platformer Hero No Weapon 64x64_6: -4297485921999794604
+      Platformer Hero No Weapon 64x64_60: 3381865285904148073
+      Platformer Hero No Weapon 64x64_61: -2674351738599847720
+      Platformer Hero No Weapon 64x64_62: 7769602419139283244
+      Platformer Hero No Weapon 64x64_63: -2967337590573565052
+      Platformer Hero No Weapon 64x64_64: 4250030536131351304
+      Platformer Hero No Weapon 64x64_65: 298618824013508715
+      Platformer Hero No Weapon 64x64_66: 8843019242422271120
+      Platformer Hero No Weapon 64x64_67: 1244162382986210129
+      Platformer Hero No Weapon 64x64_68: -2866983799674764379
+      Platformer Hero No Weapon 64x64_69: 81532632891002761
+      Platformer Hero No Weapon 64x64_7: -3398805792105003627
+      Platformer Hero No Weapon 64x64_70: 8344669204361952176
+      Platformer Hero No Weapon 64x64_71: -9011409686535238211
+      Platformer Hero No Weapon 64x64_72: -1695674010168749472
+      Platformer Hero No Weapon 64x64_73: -1159894889802549937
+      Platformer Hero No Weapon 64x64_74: 571442060245362676
+      Platformer Hero No Weapon 64x64_75: 1580577553225049112
+      Platformer Hero No Weapon 64x64_76: -793941040899337248
+      Platformer Hero No Weapon 64x64_77: -7150695013610642274
+      Platformer Hero No Weapon 64x64_78: -922877466209772071
+      Platformer Hero No Weapon 64x64_79: 167761799925306631
+      Platformer Hero No Weapon 64x64_8: -2719007570542383374
+      Platformer Hero No Weapon 64x64_80: -6268490820027703316
+      Platformer Hero No Weapon 64x64_81: 184163395754108741
+      Platformer Hero No Weapon 64x64_82: -2501297619418391211
+      Platformer Hero No Weapon 64x64_83: 6283319738631919470
+      Platformer Hero No Weapon 64x64_84: -3205749033687438682
+      Platformer Hero No Weapon 64x64_85: 4098284654534709432
+      Platformer Hero No Weapon 64x64_86: -3336555620700850394
+      Platformer Hero No Weapon 64x64_87: -4519274899320693821
+      Platformer Hero No Weapon 64x64_88: -7999812311234520997
+      Platformer Hero No Weapon 64x64_89: -5852163803268239598
+      Platformer Hero No Weapon 64x64_9: 154175795497789368
+      Platformer Hero No Weapon 64x64_90: 1019567783549670045
+      Platformer Hero No Weapon 64x64_91: 1697942321581048628
+      Platformer Hero No Weapon 64x64_92: 3408094939476978707
+      Platformer Hero No Weapon 64x64_93: 6271919872761693006
+      Platformer Hero No Weapon 64x64_94: -1984318492018169069
+      Platformer Hero No Weapon 64x64_95: 2560761480694881012
+      Platformer Hero No Weapon 64x64_96: 3621080992033718166
+      Platformer Hero No Weapon 64x64_97: 4549666471278791517
+      Platformer Hero No Weapon 64x64_98: 1056374366917121116
+      Platformer Hero No Weapon 64x64_99: 2169439434582166027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

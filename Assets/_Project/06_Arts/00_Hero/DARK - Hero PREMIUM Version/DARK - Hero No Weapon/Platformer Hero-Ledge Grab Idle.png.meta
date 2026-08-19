@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 3bbdde41384aa304893c5b3182e52390
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1280329030276116104
+    second: Platformer Hero-Ledge Grab Idle_0
+  - first:
+      213: 5445730013376335332
+    second: Platformer Hero-Ledge Grab Idle_1
+  - first:
+      213: 733949362941557906
+    second: Platformer Hero-Ledge Grab Idle_2
+  - first:
+      213: -2467486403498532983
+    second: Platformer Hero-Ledge Grab Idle_3
+  - first:
+      213: -1951101391512687301
+    second: Platformer Hero-Ledge Grab Idle_4
+  - first:
+      213: 7361974125058555946
+    second: Platformer Hero-Ledge Grab Idle_5
+  - first:
+      213: 1684544913284977974
+    second: Platformer Hero-Ledge Grab Idle_6
+  - first:
+      213: -4493912432971783394
+    second: Platformer Hero-Ledge Grab Idle_7
+  - first:
+      213: -3978976740880507228
+    second: Platformer Hero-Ledge Grab Idle_8
+  - first:
+      213: 4790502187101367411
+    second: Platformer Hero-Ledge Grab Idle_9
+  - first:
+      213: -3265719588473233955
+    second: Platformer Hero-Ledge Grab Idle_10
+  - first:
+      213: -1576040841239896146
+    second: Platformer Hero-Ledge Grab Idle_11
+  - first:
+      213: -8521375213811537002
+    second: Platformer Hero-Ledge Grab Idle_12
+  - first:
+      213: 943286047086084109
+    second: Platformer Hero-Ledge Grab Idle_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 14
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e6a353874a4c110800000000000000
+      internalID: 1280329030276116104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 14
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edcafd289e139b40800000000000000
+      internalID: 5445730013376335332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 14
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c71459e038f2a00800000000000000
+      internalID: 733949362941557906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 14
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f1d57703ab1cdd0800000000000000
+      internalID: -2467486403498532983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 14
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dad1e2f9b4ce4e0800000000000000
+      internalID: -1951101391512687301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 14
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a208bb9167cfa2660800000000000000
+      internalID: 7361974125058555946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 14
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635da8c6ca4b06710800000000000000
+      internalID: 1684544913284977974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 14
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e136105b37a62a1c0800000000000000
+      internalID: -4493912432971783394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 14
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae96465cb5d7c8c0800000000000000
+      internalID: -3978976740880507228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 14
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ca8e5ab584b7240800000000000000
+      internalID: 4790502187101367411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 14
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd94093655dda2d0800000000000000
+      internalID: -3265719588473233955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 14
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf53628437c02ae0800000000000000
+      internalID: -1576040841239896146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_12
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 14
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69be1f6246efdb980800000000000000
+      internalID: -8521375213811537002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer Hero-Ledge Grab Idle_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 14
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00062e79a9371d00800000000000000
+      internalID: 943286047086084109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Platformer Hero-Ledge Grab Idle_0: 1280329030276116104
+      Platformer Hero-Ledge Grab Idle_1: 5445730013376335332
+      Platformer Hero-Ledge Grab Idle_10: -3265719588473233955
+      Platformer Hero-Ledge Grab Idle_11: -1576040841239896146
+      Platformer Hero-Ledge Grab Idle_12: -8521375213811537002
+      Platformer Hero-Ledge Grab Idle_13: 943286047086084109
+      Platformer Hero-Ledge Grab Idle_2: 733949362941557906
+      Platformer Hero-Ledge Grab Idle_3: -2467486403498532983
+      Platformer Hero-Ledge Grab Idle_4: -1951101391512687301
+      Platformer Hero-Ledge Grab Idle_5: 7361974125058555946
+      Platformer Hero-Ledge Grab Idle_6: 1684544913284977974
+      Platformer Hero-Ledge Grab Idle_7: -4493912432971783394
+      Platformer Hero-Ledge Grab Idle_8: -3978976740880507228
+      Platformer Hero-Ledge Grab Idle_9: 4790502187101367411
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

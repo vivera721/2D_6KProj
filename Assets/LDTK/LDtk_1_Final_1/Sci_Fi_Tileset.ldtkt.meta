@@ -1,0 +1,3376 @@
+fileFormatVersion: 2
+guid: a4dbaf9de8dde894f8675194d0f79b37
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: Sci_Fi_Tileset_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 240
+      width: 16
+      height: 16
+    spriteID: b1bb1b9580acbd246bd8404a86d3d114
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 4e0df450b0bcc36438263a0d6534068d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 9840cdefd13b42141803d501b43e3524
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 117f2b6e55cba5143ba4b1471972af26
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 240
+      width: 16
+      height: 16
+    spriteID: f1a8f6ae6d89e344db8e9757ac70c52d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 240
+      width: 16
+      height: 16
+    spriteID: a6452e63b17cebf4bab8fca0a3fb5e9e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 754aa2b5652a51a4da805379a673a528
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 9203b7824ff7d3148a8796a556196953
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 4a714b8eda1c8f9429de5541e19511ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 240
+      width: 16
+      height: 16
+    spriteID: fb8438b02a412254c8ccb5271ca67595
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 2e4739643f92ced47ae17f3c42f05572
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 240
+      width: 16
+      height: 16
+    spriteID: d56c5105417ead348ab4c525b0e45780
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 903e9e4c69e836841a01ff91946b2922
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 7c6331cf2659cc64b85ac52c2d6fb046
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 2757238634149fe41a28c392c00fe0a5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 224
+      width: 16
+      height: 16
+    spriteID: d7e2efabb588ca340b53a8382fe94fd5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 78f16bf2240fcf042874c568289679fe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 224
+      width: 16
+      height: 16
+    spriteID: cc442324eb5f8254aadac61b01db73c8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 60ea5336f8054da4a8c58cf1839c1eb1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 9e29484aedcfd6a469affad080b8b2b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 3d56769b883ccbc4e9e10b9db02966fe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 0b69c69a03b991e4fa1f980f84de2d7f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 914c7a2c36f252a4f9266ec23ef0a384
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 5ef4a34806d83f24c8528956b557a7c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 4b3ec90c11abbae4e8de01194971c9bf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 224
+      width: 16
+      height: 16
+    spriteID: f6bb333bd915cc94999e5b036116d6eb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 2ab77c719903aae44b3832c0171f0af7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 9c475f80aeada79408c2592f682b5aa1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 4b2d8b997a4bdcc4a850df735ac4af87
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 04cbc61c230a45748adb0075446c36b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 940e29e3cc8d2124db434f9284a8916b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 1f9ee8641e8969640bcd1f690d9f33b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 208
+      width: 16
+      height: 16
+    spriteID: f5a6fb1213e3cfc47bea7218538afa63
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 208
+      width: 16
+      height: 16
+    spriteID: e7386910d41edb3438aacc9f3d1ab01a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 208
+      width: 16
+      height: 16
+    spriteID: fecfb15c91e8cd44abc6368dc56d3be3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 9d81449b5b40a05408ed6382a6bcdf17
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 208
+      width: 16
+      height: 16
+    spriteID: ca2bab7ae8e4514429bd77de7a8d7c46
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 208
+      width: 16
+      height: 16
+    spriteID: faf8996e6b104df4c9b9fd166dfbd879
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 8346ae8a35a5cfc45a7d0e7f80c43a18
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 208
+      width: 16
+      height: 16
+    spriteID: c6a845198dcebe74ab1bece4e816a2ce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 208
+      width: 16
+      height: 16
+    spriteID: a192e232ad7aee642898d8752f3e85b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 208
+      width: 16
+      height: 16
+    spriteID: b03395e27b84366478683df1e259ccd7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 1ce641731b330264283d01db6ce2d7f5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 192
+      width: 16
+      height: 16
+    spriteID: fa818e90ae3367744abd74738eeb0603
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 5513b6060e64eaa428ba939344173db4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 192
+      width: 16
+      height: 16
+    spriteID: d3ceb0b918542644185fecc652fe7942
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 16
+      height: 16
+    spriteID: e643904422da8bb4399e1cb2910cc864
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 2f22e7facfaf6aa4a9619d8bb6ad75df
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 9741e4a6a75be0a45af9e1f38db970e1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 2ed9d2a48ac45b04aad7ddee1cf00a0d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 192
+      width: 16
+      height: 16
+    spriteID: e18371f06b415ec459a469967a75f1b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 53ab35d06b1e46b4aa3231761dfc6733
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 229249a7bfc306b43ac248931fbfa7f0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 743b9213fca063c4686f473a402213b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 192
+      width: 16
+      height: 16
+    spriteID: e04ece012a7758948ba9ea958f5ac16b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 8a2b9928a9411aa42a83265e3fba0fae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 176
+      width: 16
+      height: 16
+    spriteID: ba7d9103781a6464185763364b4973bc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 451541e919632704e8419dacd6ab5f57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 5736f6b77ad672a429a9978ca2f08ecb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 043d93b552b02a04ca72e291187d7d22
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 670bc463f3d13544fa92e17b50f58dfa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 24ea9c0ce5c955f44b85ae0b1412d260
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 98a5487b2a9778f4599f7a9ec2c5fba9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 3d05de1bc52280c4298aaf87699c71ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 6337797d8270b234a822fa9d4771c7a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 176
+      width: 16
+      height: 16
+    spriteID: f0b804f4230318d448451abd4bc99eac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 3eea1b43e36c91d459197dbc706f156d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 176
+      width: 16
+      height: 16
+    spriteID: dee2eed5aa07d4b41977ea498bec52d6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 7d8ccdb0d230fef42b48a713981201af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 89bcef5d20ebae947a46904e91486ec3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 16
+      height: 16
+    spriteID: a751d694b0b42254d9393350696f3238
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 7d8c3e2976281954eae2da9f0a290a65
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 16
+      height: 16
+    spriteID: cf2de98fdac56844e842a213eabddfd2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 31bdc31ce0d68784a8592a503dd9bb0c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 16
+      height: 16
+    spriteID: c577a5234b7417b4e8a1b69b999b577e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 6c96964ff83bebb43b0707297de53e51
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 18e5bb164ed82894b86d94dfd8d06aa6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 77e2120f68e57954eaf7504425be5026
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 155233f28b1be0441b632a4edbf28d3d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 0d14ab0087d46a143b0a564b31e6b135
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 2ffb92cea4a204e47be63c9967a5da4a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 160
+      width: 16
+      height: 16
+    spriteID: d5cf9f80aad60174b9397c2b567e4a07
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 74eb805489d23ac47904039bc231f80e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 160
+      width: 16
+      height: 16
+    spriteID: b72ade2c38e3114459d7548552e9fb32
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 4c9ce6aeafc59ca439fb8817a3f7ae4c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 144
+      width: 16
+      height: 16
+    spriteID: e2444519fc98d6f4690c0288201aeac7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 25d860d9acd55b341ab33701f5aea367
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 8b32543eff1ca41478d3c9d18c8be9cf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 9b4fe4022f543e04985a906eabb76d5e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 5148375937bafcf4e851a18118d8c981
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 403da72ff8f12904b8cbc8d4bd2405d4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 144
+      width: 16
+      height: 16
+    spriteID: edf7c8bf3b41024498b21aa4b82fe1f5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 9712a929d16bdae4298df339fd96d7ef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 144
+      width: 16
+      height: 16
+    spriteID: f6f5c02d0916b814f85f662f07c316d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 81edd43dfa09c644cb4d8165eb603a03
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 144
+      width: 16
+      height: 16
+    spriteID: b636195cff12969488eaa2be7940c9f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 144
+      width: 16
+      height: 16
+    spriteID: bdb7a03e853f2894c88d72f23f98626e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 6d9b0f2ad26d7a840b7ca38184eec4b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 81c8a2fc5f0436745a88f43a509c8ceb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 2abfb9c047d725a42a3a92ef75c0f8b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 16
+      height: 16
+    spriteID: b03e2378eefd8b3439a463fcbcc14faf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 128
+      width: 16
+      height: 16
+    spriteID: e12914f2f60e64c44aca139f732d393a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 9354523446cf0774f81899af6ccc4883
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 128
+      width: 16
+      height: 16
+    spriteID: f7ecbedb039efb94e8d23c0ec5ef56a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 622309d855d05214ba5bfb2eee3e8db7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 77e2f76c41ea0744a8ee33c3de7c0320
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 3f350deec14804c4ba218cb2a3f484b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 128
+      width: 16
+      height: 16
+    spriteID: c78185ea3a464e148a79cca763d9451f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 7bdba39e097ae954493b3c149b5986cd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 97e2094568910ea4ea5b2cdd308846dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 436311ff8a8da9144b42e17de6619ee9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 279599b134e715a43b4039b2db65bb63
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 19018ca539d588140b97a62d179e19db
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 112
+      width: 16
+      height: 16
+    spriteID: f2050bae5b014a144bad16a9de6c9a40
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 9a48953d58dad434ebfda3aeed5d426f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 8857511cabc9b674aa446c9dde1f31ad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 6ab51fde045c44d41af945dafb79eabb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 112
+      width: 16
+      height: 16
+    spriteID: fd226476c98231c4db9ac94be756c049
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 79e2919bc6c791c4bb12e0ced752dea0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 112
+      width: 16
+      height: 16
+    spriteID: d20b23d107c01a64d950e64a0b51031a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 16a16ac8d76b5654e979b8ada4f2bbd3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 112
+      width: 16
+      height: 16
+    spriteID: f333c74de88e9ec4e9ec27caa8654351
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 8c60b90b053a6f54caccd37c4fc89be0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 112
+      width: 16
+      height: 16
+    spriteID: c2f4af117cf0ada49b85024a281ccbd3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 3d76cc30e476f4943aecfa40828ad5a9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 85ab63ac9a5918c4eb81c32ffb7cf322
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 16
+      height: 16
+    spriteID: ca123aaa2c725ce4c82fec4c23beff8e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 46e110fc1c6a8bf498573a0171a3374c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 691fc8552addf6c46867836f16aca960
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 492fb82345cd75942888d858c3147906
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 46abced4bb3ef284484f70d69dfda210
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 16
+      height: 16
+    spriteID: df091ec5c1b44dd4b84c352e11ffbd17
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 511edd9650995414d8a0fcd2fa16107b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 96
+      width: 16
+      height: 16
+    spriteID: e3c4c2032301d6b4c9d4adca66754856
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 7424f4d6f8c49b044a5f7e6412c77602
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 96
+      width: 16
+      height: 16
+    spriteID: cba4d73e2ed0a294ea870c3ab0002517
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 96
+      width: 16
+      height: 16
+    spriteID: f712f74483d3c0b4d8694af2041bee08
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 99d34a4fabecf8d4db92c43577f2f3e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 96
+      width: 16
+      height: 16
+    spriteID: e29d6ffdcd035d5409cdfb8acd0201af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 582f2c3ab9c61db40b12f291e601a6c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 16
+      height: 16
+    spriteID: bea561fe8b00ef8459db6c1efbb373ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 021803c9c8ba83b4eb4a79afd058ddf6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 8e01deb8abeb92e4a96657dc300b677d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 015c438d2ded08c47ba5867dfe7a79a6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 8fa6ca6e60fa32c4cb18709cac109934
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 16
+      height: 16
+    spriteID: e1e337cab670d644dbda2f2a6ca58dad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 2893e777df4c91340883912d0e5af303
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 4922f8d3404c72b4a82068921566ef95
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 1c168705751d0a14d9cbaca96706334a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 98428e5d4291e3840818da905ec80202
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 69fd292978ba0af4bbd27f04eeb22be1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 80
+      width: 16
+      height: 16
+    spriteID: fb41b00835c443643bc3c1d0ed532840
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 1db89f8f818e5154b9e4a9233af1b80c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 80
+      width: 16
+      height: 16
+    spriteID: a338d5d2efd833848b3c42d0b2c2a4ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 7712b64b8d797d44c93c812af00f9553
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 9c878d2d302693f4195ce78a21505389
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 1784a307b46d08a42ba899a65538a69e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 62de6e599dc46f849bd08b3a892f240b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 1ebf6b0f218d60c41a4e50a8f7d7c677
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: d01992e29a47d00469a65272e81d3d3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 8b08846e6c6866549ae106f98e8539a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 64
+      width: 16
+      height: 16
+    spriteID: d3546d3c15dfc354f8ede44c6df4946b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 51b406f6d26721a45895f0bcddfad466
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4f9e878c47994b440b2a40a649e3b8ac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 64
+      width: 16
+      height: 16
+    spriteID: efbdd9bcdd47d554ea3e1c22e0fe8281
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 3c0a0fc31be80dd47b59bccb00d20c11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 357f4f6411734d1478e9bf0f75710f53
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 64
+      width: 16
+      height: 16
+    spriteID: ebdd286902e75b9409da94953ab7e8dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 8009b1710aa1f914fbdc3a2d7e920163
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 9e531ce52514d1c4f8c5dcebdf7cb73a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 99f969c631244584ab0a3146ab16ebce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: ac266ba7ce57e8246b480cc195724faf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 679de431f7526ed42b02329995953644
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: a3008a2910fa70447b462804948e1cb6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 6114691898015eb4fa703790cedd31f2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 1730bd7f2cb3ac44bac6a29a5176dbcf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 8a837353cb39fd04aa973fbf68baacdb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 48
+      width: 16
+      height: 16
+    spriteID: ae176d6e251ab494ea60642a62c2d7b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 47274adfb58aa9f47beb483866408182
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 48
+      width: 16
+      height: 16
+    spriteID: a19c61738f05a9c46919e834d4dfe3e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 48
+      width: 16
+      height: 16
+    spriteID: faf810a42f05cde4a960c25a0c77311e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 89be32e530a460d4faebe02fabc57c94
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: b25763e02a3b24d4284ef2ec76d3ee3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 8549cb0eceabb2c4896d5a4926b2d8b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: ba8ae30e51d760c40a7fdea1614712c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 830cf4d0c8b6cd7459de6d135c942cfa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: f40403f51fc8ed444b5fbeb16054aff2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 2579d98b54084fa4daecb5efa694f2c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 9f53fa0d7d744044a91547a879569c72
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 8c921b44842630044994b91436b580fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 16
+      height: 16
+    spriteID: ecb51b2f8b4331f48be98beaf32b6c74
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 953c628d1a133644d8540a1a97d46fab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 30186697ecb210c459115a518396f3b6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 56df3fc49a99552489593993a896a6ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 32
+      width: 16
+      height: 16
+    spriteID: db7b7345f65d62b48b5f0d4c757d0124
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 580007a64485ab54f9a551e2442ac11a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: c696aceef571a5f4b9241c18c2e3ccd5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 79bc5d0f57a3c04408622cad8bdf2fd9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 0e95d076242a0b94797acb0da11a6b35
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 9ac4ca35bbfc9554087609ad41c851e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: fee69c8ebe39a3940bd7b8e6d8936baf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 433bd6b64e2c2a54bb3751aa8de325e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 16
+      height: 16
+    spriteID: f5b04a6da8db1654b9eaa9ed2ba8268d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 16
+      width: 16
+      height: 16
+    spriteID: a38b1c48526cc7147814c90846f59640
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 306b7a7bc095c9b43b6ee61fde3d9ba7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 4d8eebe410f99ca4faec15f551fefcf5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 3797aef01b733a14eafaca13a2780df7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 16
+      width: 16
+      height: 16
+    spriteID: afa34323aceaf67438c1c7050b0bcf55
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 9a662bda64f6aed499054b9a6001d9ce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_209
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 24f6fdc8f311d6d4b861b50395084a5b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_210
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: eab401baddad9d5418342e078d1653ba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_211
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 56d5e55838fee194196b8b82817aae3e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_212
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 94892c7d3f1f4e54aa3cf462e2b68041
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_213
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 0f5b3639f3990c64080729882a5c0ab9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_214
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: f41c210bec9d28e4389ca54f4c26623b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_215
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: d07a92a1697801443a4346d54ef72af7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_216
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 16
+    spriteID: c84f2cffb5409944481a3a1ed6572ca5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_217
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 3e5d595771a4e1646b873c25b9c3fcde
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_218
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 3a2d63ad5fbd3ac4ca99fd884274b666
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_219
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 16
+    spriteID: bff5724cb601ee04583e7b51ac09e1c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_220
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 77284f4169dcc4b46b2bed09486d5e89
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_221
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 0d5bf019832bbf64da0ade6aadae6ba4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_222
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 75aea91f2311f254289d16e8ec142881
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sci_Fi_Tileset_223
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 0
+      width: 16
+      height: 16
+    spriteID: fc02ba07e75f0fe41936efc06d727141
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}

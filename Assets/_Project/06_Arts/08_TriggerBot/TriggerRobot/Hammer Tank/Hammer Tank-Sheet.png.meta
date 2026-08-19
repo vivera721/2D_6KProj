@@ -1,0 +1,645 @@
+fileFormatVersion: 2
+guid: 611ca16b0647d354cb7875e033cffe0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3516690439194562037
+    second: Hammer Tank-Sheet_0
+  - first:
+      213: -5577388799363064294
+    second: Hammer Tank-Sheet_1
+  - first:
+      213: 4655147226765094686
+    second: Hammer Tank-Sheet_2
+  - first:
+      213: 6154940503810937661
+    second: Hammer Tank-Sheet_3
+  - first:
+      213: -5760537639634769823
+    second: Hammer Tank-Sheet_4
+  - first:
+      213: 6978661458752312726
+    second: Hammer Tank-Sheet_5
+  - first:
+      213: 6341629201032518434
+    second: Hammer Tank-Sheet_6
+  - first:
+      213: -4747210855888785721
+    second: Hammer Tank-Sheet_7
+  - first:
+      213: 6768615268141172089
+    second: Hammer Tank-Sheet_8
+  - first:
+      213: -7201205417654374998
+    second: Hammer Tank-Sheet_9
+  - first:
+      213: -2261854263799013038
+    second: Hammer Tank-Sheet_10
+  - first:
+      213: -1660457927558821022
+    second: Hammer Tank-Sheet_11
+  - first:
+      213: -6988587758432757078
+    second: Hammer Tank-Sheet_12
+  - first:
+      213: -803717704699333193
+    second: Hammer Tank-Sheet_13
+  - first:
+      213: 282729481055968851
+    second: Hammer Tank-Sheet_14
+  - first:
+      213: -1364055031800579883
+    second: Hammer Tank-Sheet_15
+  - first:
+      213: 489156380597197482
+    second: Hammer Tank-Sheet_16
+  - first:
+      213: -3180349015170425764
+    second: Hammer Tank-Sheet_17
+  - first:
+      213: -2687185467134322660
+    second: Hammer Tank-Sheet_18
+  - first:
+      213: -68839725129927853
+    second: Hammer Tank-Sheet_19
+  - first:
+      213: -8806921525044985868
+    second: Hammer Tank-Sheet_20
+  - first:
+      213: -2515050812737524186
+    second: Hammer Tank-Sheet_21
+  - first:
+      213: -1380148077656213320
+    second: Hammer Tank-Sheet_22
+  - first:
+      213: 7150513303379078123
+    second: Hammer Tank-Sheet_23
+  - first:
+      213: -3196769869546501773
+    second: Hammer Tank-Sheet_24
+  - first:
+      213: 734328208991862015
+    second: Hammer Tank-Sheet_25
+  - first:
+      213: -3270858909763288813
+    second: Hammer Tank-Sheet_26
+  - first:
+      213: 1443657739170647855
+    second: Hammer Tank-Sheet_27
+  - first:
+      213: -1319854073107580997
+    second: Hammer Tank-Sheet_28
+  - first:
+      213: 7873606267340830783
+    second: Hammer Tank-Sheet_29
+  - first:
+      213: -182920544104560985
+    second: Hammer Tank-Sheet_30
+  - first:
+      213: -9109374345684153572
+    second: Hammer Tank-Sheet_31
+  - first:
+      213: -5424566730304527779
+    second: Hammer Tank-Sheet_32
+  - first:
+      213: -6752138461605153064
+    second: Hammer Tank-Sheet_33
+  - first:
+      213: 3054469139914974458
+    second: Hammer Tank-Sheet_34
+  - first:
+      213: 887545228954196249
+    second: Hammer Tank-Sheet_35
+  - first:
+      213: -209620993452481842
+    second: Hammer Tank-Sheet_36
+  - first:
+      213: -1082475825210813975
+    second: Hammer Tank-Sheet_37
+  - first:
+      213: 5650755563319623087
+    second: Hammer Tank-Sheet_38
+  - first:
+      213: -6430034715411513360
+    second: Hammer Tank-Sheet_39
+  - first:
+      213: -7016135886781361666
+    second: Hammer Tank-Sheet_40
+  - first:
+      213: 5150129590235330743
+    second: Hammer Tank-Sheet_41
+  - first:
+      213: -3907117934806487690
+    second: Hammer Tank-Sheet_42
+  - first:
+      213: 26837292677637719
+    second: Hammer Tank-Sheet_43
+  - first:
+      213: -7354631483171332961
+    second: Hammer Tank-Sheet_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd443d725bcdc030800000000000000
+      internalID: 3516690439194562037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ed8bfef622992b0800000000000000
+      internalID: -5577388799363064294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f6a7c1db76a9040800000000000000
+      internalID: 4655147226765094686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33905727cdba6550800000000000000
+      internalID: 6154940503810937661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1686d4299857e00b0800000000000000
+      internalID: -5760537639634769823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69514a84f9f29d060800000000000000
+      internalID: 6978661458752312726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b99c0b82ef10850800000000000000
+      internalID: 6341629201032518434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceeedcd0e48e1eb0800000000000000
+      internalID: -4747210855888785721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97507d689b3feed50800000000000000
+      internalID: 6768615268141172089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aada71683dd201c90800000000000000
+      internalID: -7201205417654374998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251ae88e7874c90e0800000000000000
+      internalID: -2261854263799013038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b0067ff4ed4f8e0800000000000000
+      internalID: -1660457927558821022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaad8f8f57c830f90800000000000000
+      internalID: -6988587758432757078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b534bf710f98d4f0800000000000000
+      internalID: -803717704699333193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e1fdd07f47ce300800000000000000
+      internalID: 282729481055968851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d83177fc27e11de0800000000000000
+      internalID: -1364055031800579883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer Tank-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa9c11f225d9c600800000000000000
+      internalID: 489156380597197482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 52caac8a2f860a64caee5f6de359faf5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":17.0,"y":1.0},"gridSpriteSize":{"x":176.0,"y":80.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hammer Tank-Sheet_0: 3516690439194562037
+      Hammer Tank-Sheet_1: -5577388799363064294
+      Hammer Tank-Sheet_10: -2261854263799013038
+      Hammer Tank-Sheet_11: -1660457927558821022
+      Hammer Tank-Sheet_12: -6988587758432757078
+      Hammer Tank-Sheet_13: -803717704699333193
+      Hammer Tank-Sheet_14: 282729481055968851
+      Hammer Tank-Sheet_15: -1364055031800579883
+      Hammer Tank-Sheet_16: 489156380597197482
+      Hammer Tank-Sheet_2: 4655147226765094686
+      Hammer Tank-Sheet_3: 6154940503810937661
+      Hammer Tank-Sheet_4: -5760537639634769823
+      Hammer Tank-Sheet_5: 6978661458752312726
+      Hammer Tank-Sheet_6: 6341629201032518434
+      Hammer Tank-Sheet_7: -4747210855888785721
+      Hammer Tank-Sheet_8: 6768615268141172089
+      Hammer Tank-Sheet_9: -7201205417654374998
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
